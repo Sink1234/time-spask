@@ -1,0 +1,283 @@
+.sticky{
+    display: flex;
+    position: static;
+    background-color: var(--blue);
+    color: var(--white);
+    height: 120px;
+    border-radius: 0px 0px 42px 42px;
+    align-items: center;
+}
+.sticky header{
+    width: 100vw;
+}
+
+.image{
+    width: 70px;
+    height: 70px;
+    transition: .6s;
+    opacity: 1;
+}
+.disImg{
+    width: 40px;
+    height: 40px;
+    transition: .6s;
+    margin-left: 10px;
+    opacity: 0;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.not_animBurger{
+    opacity: 1;
+}
+.burger{
+    opacity: 1;
+    animation: opacityF .5s ease-in-out;
+}
+.disBurger{
+    margin-right: 15px;
+    opacity: 0;
+    animation: opacityT .5s ease-in-out;
+}
+
+.left span{
+    width: 0.68px;
+    height: 24.3px;
+    margin: 0 13px;
+    background: var(--white);
+}
+
+.left p{
+    font-family: PTSansPro-ExtraCondLight;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.right img{
+    position: relative;
+    top: 3px;
+    fill: var(--blue);
+    cursor: pointer;
+}
+
+
+.not_animCircle{
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0);
+    width: 30px;
+    height: 30px;
+    transition: .5;
+    z-index: 1;
+}
+.not_animCircle input{
+    display: none;
+}
+.circle input{
+    display: none;
+}
+
+.act_circle input{
+    display: block;
+    animation: display .5s;
+    width: 240px;
+}
+
+.circle{
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0);
+    width: 30px;
+    height: 30px;
+    transition: .5;
+    animation: searchEnd .5s ease;
+    z-index: 1;
+}
+
+.act_circle{
+    position: absolute;
+    z-index: 1;
+    background-color: var(--white);
+    width: calc(100vw - 75px);
+    animation: searchStart .5s ease;
+    transition: .5;
+    right: 25px;
+    border-radius: 30px;
+    padding: 15px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.act_circle img{
+    fill: var(--blue);
+    transition: .5;
+    z-index: 2;
+}
+
+.circle .sm_circle{
+    background-color: #1d577000;
+    position: absolute;
+    transition: .5s;
+    padding: 10px;
+    margin: -10px;
+    border-radius: 33px;
+    cursor: pointer;
+}
+
+.act_circle .sm_circle{
+    background-color: var(--blue);
+    transition: .5s;
+    padding: 10px;
+    margin: -10px;
+    width: 30px;
+    border-radius: 33px;
+}
+
+.right button{
+    background-color: var(--blue);
+    padding: 15px;
+    margin-right: -15px;
+    cursor: pointer;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    cursor: pointer;
+}
+
+@keyframes searchEnd {
+    0%{
+        background-color: white;
+        width: calc(100vw - 75px);
+        position: absolute;
+        right: 25px;
+    }
+    80%{
+        position: absolute;
+        right: 70px;
+    }
+    100%{
+        background-color: rgba(255, 255, 255, 0);
+        width: 30px;
+        position: relative;
+        right: auto;
+    }
+}
+@keyframes searchStart {
+    100%{
+        background-color: white;
+        width: calc(100vw - 75px);
+        position: absolute;
+        right: 25px;
+    }
+    
+    0%{
+        background-color: rgba(255, 255, 255, 0);
+        width: 30px;
+        right: 30px;
+    }
+}
+
+@keyframes  opacityF {
+    0%{
+        opacity: 0;
+        margin-right: 8px
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes  opacityT {
+    0%{
+        opacity: 1;
+        margin-right: -15px;
+    }
+    100%{
+        opacity: 0;
+        margin-right: 8px
+    }
+}
+
+@keyframes display {
+    0%{
+        display: block;
+        width: 0;
+        opacity: 0;
+    }
+    90%{
+        opacity: .3;
+    }
+    100%{
+        display: block;
+        width: 240px;
+    }
+}
+
+
+
+
+@keyframes searchStartDesc {
+    100%{
+        background-color: white;
+        width: 300px;
+        position: absolute;
+        right: 25px;
+    }
+    
+    0%{
+        background-color: rgba(255, 255, 255, 0);
+        width: 30px;
+        right: 20px;
+    }
+}
+@keyframes searchEndDesc {
+    0%{
+        background-color: white;
+        width: 300px;
+        position: absolute;
+        right: 25px;
+    }
+    80%{
+        position: absolute;
+        right: 70px;
+    }
+    100%{
+        background-color: rgba(255, 255, 255, 0);
+        width: 30px;
+        position: relative;
+        right: auto;
+    }
+}
+
+@media(min-width: 600px) {
+    .act_circle{
+        width: 300px;
+        animation: searchStartDesc .5s ease;
+    }
+    .circle{
+        animation: searchEndDesc .5s ease;
+    }
+}

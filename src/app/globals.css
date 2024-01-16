@@ -1,0 +1,14 @@
+:root {
+  --blue: #1D5770;
+  --grey: #5A5A5A;
+  --dark: #2D2D2D;
+  --white: white;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  border: none; 
+  outline: none;
+  z-index: 0;
+}
