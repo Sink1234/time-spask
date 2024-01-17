@@ -42,7 +42,7 @@ const Navbar = () => {
                 <PageWrapper>
                     <div className={styles.flex}>
                         <div className={styles.left}>
-                            <Image quality={80} src='/Icon.svg' width={70} height={70} alt="Логотип СПАСКа" priority className={click === true ? (search === true ? styles.disImg : styles.image) : styles.not_animImage}/>
+                            <Image quality={100} src='/Icon.svg' width={70} height={70} alt="Логотип СПАСКа" priority className={click === true ? (search === true ? styles.disImg : styles.image) : styles.not_animImage}/>
                             <span className={styles.v_line}/>
                             <p className={myFont.className}>Расписание занятий</p>
                         </div>
@@ -51,7 +51,7 @@ const Navbar = () => {
                             <div ref = {divRef} className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
                                 <input ref={inputRef} type="text" />
                                 <div className={styles.sm_circle} onClick={getSearch}>
-                                    <Image quality={80} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
+                                    <Image quality={100} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
                                 </div>
                             </div>
                             <button
