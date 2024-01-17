@@ -4,8 +4,10 @@ import PageWrapper from "@/components/PageWrapper"
 import styles from './Header.module.css'
 import Image from "next/image"
 import { useRef, useState } from "react"
-import { DetailedHTMLProps } from "react"
 import { useOnClickOutside } from "@/components/click-outside"
+import font from 'next/font/local'
+
+const myFont = font({src: './PT Sans Pro Extra Condensed Light.otf'})
 
 const Navbar = () => {
 
@@ -36,20 +38,20 @@ const Navbar = () => {
     useOnClickOutside(divRef, () => setSearch(false))
     return(
         <div className={styles.sticky}>
-            <header>
+            <header >
                 <PageWrapper>
                     <div className={styles.flex}>
                         <div className={styles.left}>
-                            <Image src='/Icon.svg' width={70} height={70} alt="Логотип СПАСКа" className={click === true ? (search === true ? styles.disImg : styles.image) : styles.not_animImage}/>
+                            <Image quality={80} src='/Icon.svg' width={70} height={70} alt="Логотип СПАСКа" priority className={click === true ? (search === true ? styles.disImg : styles.image) : styles.not_animImage}/>
                             <span className={styles.v_line}/>
-                            <p>Расписание занятий</p>
+                            <p className={myFont.className}>Расписание занятий</p>
                         </div>
 
                         <div className={styles.right}>
                             <div ref = {divRef} className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
                                 <input ref={inputRef} type="text" />
                                 <div className={styles.sm_circle} onClick={getSearch}>
-                                    <Image src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
+                                    <Image quality={80} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
                                 </div>
                             </div>
                             <button
