@@ -2,22 +2,17 @@
 import 'server-only'
 import { IGroupSingle} from "@/interfaces"
 import Day from "./Day"
+import styles from './ui.module.css'
 
 export default async function Group({group, dataMon}:IGroupSingle) {
-
     
-    const unDay ={
-        Lesson: [''],
-        _N:''
-    }
-
-    const short = group.Timetable[0].Day
+    const unDay ='Relax'
     return(
-        <>
-            <h3>{group.$.Name}</h3>
-            {short.map((day) => (
+        <div className={styles.group}>
+            <h3>Группа <span>{group.$.Name}</span></h3>
+            {group.Timetable ? group.Timetable[0].Day.map((day) => (
                 <Day key={day.$.N} day={day} dataMon={dataMon}/> 
-            ))}
-        </>
+            )) : ''}
+        </div>
     )
 }

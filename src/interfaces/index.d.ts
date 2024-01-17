@@ -30,7 +30,7 @@ export interface IDataMon{
 
 export interface Group {
     $:          GroupClass;
-    Timetable: Timetable[];
+    Timetable?: Timetable[];
 }
 
 export interface GroupClass {
