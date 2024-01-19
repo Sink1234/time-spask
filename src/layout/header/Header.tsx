@@ -53,7 +53,7 @@ const Navbar = ({
     }
     useOnClickOutside(divRef, () => doesnt())
     return(
-        <div className={styles.sticky}>
+        <div className={styles.sticky} ref = {divRef}>
             <header >
                 <PageWrapper>
                     <div className={styles.flex}>
@@ -64,7 +64,7 @@ const Navbar = ({
                         </div>
 
                         <div className={styles.right}>
-                            <div ref = {divRef} className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
+                            <div className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
                                 <Search focus={getFocus()}/>
                                 <div className={styles.sm_circle} onClick={getSearch}>
                                     <Image quality={100} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
