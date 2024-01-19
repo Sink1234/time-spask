@@ -1,18 +1,7 @@
 import HomePage from "@/app/page"
+import {Request} from 'express'
 
-export interface IReq{
-    params: any
-    req: IPar
-}
-export interface IPar{
-    params: IName
-}
-export interface IName{
-    name: string
-    searchParams: string
-}
-
-export default function groupPage(req:IReq){
+export default function groupPage (req:Request){
     const id = decodeURIComponent(req.params.name)
     return(
         <HomePage id={id} />
