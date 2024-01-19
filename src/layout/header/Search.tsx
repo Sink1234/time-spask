@@ -14,25 +14,14 @@ const Search = ({search, focus}: ISearch) => {
   console.log(search)
   const inputRef = useRef<HTMLInputElement>(null)
 
-  const time = () => {
-    setTimeout(() => getFocus(), 740)
-    console.log('time')
-  }
-
   const getFocus = () =>{
-    if(search == true){
-      console.log('true')
-      if(inputRef.current){
-        inputRef.current.focus();
-        console.log('focus') 
-      }
+    if(inputRef.current){
+      inputRef.current.focus(); 
     }
-    
   }
-  useEffect( 
-    () => time()
-   
-    ,[search])
+  useEffect(
+    () => getFocus()
+    ,[focus])
 
   return(
     <>
