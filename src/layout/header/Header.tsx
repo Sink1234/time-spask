@@ -49,8 +49,8 @@ const Navbar = () => {
 
                         <div className={styles.right}>
                             <div ref = {divRef} className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
-                                <input ref={inputRef} type="text" />
-                                <div className={styles.sm_circle} onClick={getSearch}>
+                                <input ref={inputRef}  type="text" />
+                                <div className={styles.sm_circle} onTouchStart={getSearch} onClick={getSearch}>
                                     <Image quality={100} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
                                 </div>
                             </div>
