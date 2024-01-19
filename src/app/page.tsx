@@ -6,7 +6,6 @@ import { parseString } from "xml2js"
 import styles from './page.module.css'
 import { Montserrat } from "next/font/google"
 import Table from '@/components/ui-mob/Table'
-import { useMemo } from 'react'
 
 export interface Iid{
   id: string
@@ -50,18 +49,13 @@ export default async function HomePage({id}:Iid) {
   ) : ('')
   filtered ? data.YhZav.ListGroup[0].Group = filtered : ''
   
-  const memorizedHome = useMemo(() => {
-    return (
+  return (
+    <section >
       <div className={montserrat.className}>
         <Table N={dataTable} />
         <Home YhZav={data.YhZav} />
       </div>
-      )
-  },[])
-  return (
-    <section >
-      
-      {memorizedHome}
+    
     </section>
   )
 
