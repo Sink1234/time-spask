@@ -1,12 +1,8 @@
 import HomePage from "@/app/page"
-import * as express from 'express';
-import { Request } from "express"
-declare namespace Express {
-    export interface Request {
-        name: string;
-    }}
 
-  export default function groupPage (req:Request, res:Response){
+  export default function groupPage (
+    req: { params: { name: string } }
+    ){
       const id = decodeURIComponent(req.params.name)
       return(
           <HomePage id={id} />
