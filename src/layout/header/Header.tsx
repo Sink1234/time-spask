@@ -51,7 +51,6 @@ const Navbar = ({
     const getFocus = () =>{
         return 'focus'
     }
-    useOnClickOutside(divRef, () => doesnt())
     return(
         <div className={styles.sticky} ref = {divRef}>
             <header >
