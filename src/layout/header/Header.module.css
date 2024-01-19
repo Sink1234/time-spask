@@ -18,6 +18,10 @@
     transition: .6s;
     opacity: 1;
 }
+
+.image {
+    color: white;
+}
 .disImg{
     width: 40px;
     height: 40px;
@@ -115,7 +119,7 @@
 
 .act_circle{
     position: absolute;
-    z-index: 1;
+    z-index: 3;
     background-color: var(--white);
     width: calc(100vw - 75px);
     animation: searchStart .5s ease;
@@ -127,6 +131,18 @@
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
+}
+.act_circle::before{
+    position: absolute;
+    content: "";
+    width: calc(100vw - 45px);
+    top: 7px;
+    right: 0;
+    height: 70px;
+    background-color: #fff;
+    z-index: 0;
+    animation: before .5s;
+    border-radius: 27px;
 }
 
 .act_circle img{
@@ -148,6 +164,7 @@
 .act_circle .sm_circle{
     background-color: var(--blue);
     transition: .5s;
+    z-index: 2;
     padding: 10px;
     margin: -10px;
     width: 30px;
@@ -198,6 +215,21 @@
         background-color: rgba(255, 255, 255, 0);
         width: 30px;
         right: 30px;
+    }
+}
+@keyframes before{
+    0%{
+        height: 0;
+        border-radius: 27px;
+        top: 15px;
+    }
+    70%{
+        height: 0;
+        top: 20px;
+    }
+    100%{
+        height: 50px;
+        top: 7px;
     }
 }
 
@@ -279,5 +311,28 @@
     }
     .circle{
         animation: searchEndDesc .5s ease;
+    }
+    .image{
+        width: 70px;
+        height: 70px;
+        transition: .6s;
+        opacity: 1;
+    }
+    .disImg{
+        width: 70px;
+        height: 70px;
+        opacity: 1;
+    }
+    .act_circle::before{
+        position: absolute;
+        content: "";
+        width: calc(100vw - 45px);
+        top: 0px;
+        right: 0;
+        height: 80px;
+        background-color: #fff;
+        z-index: 0;
+        animation: before .5s;
+        border-radius: 27px;
     }
 }

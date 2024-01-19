@@ -5,6 +5,9 @@ import Day from "./Day"
 import styles from './ui.module.css'
 
 export default async function Group({group, dataMon}:IGroupSingle) {
+    let s: string[]
+    const st: string[] = []
+    st.push(group.$.Name)
     
     const unDay ='Relax'
     return(

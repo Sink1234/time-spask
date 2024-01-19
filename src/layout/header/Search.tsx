@@ -1,17 +1,21 @@
+'use client'
+
 import styles from './Header.module.css'
-import Image from 'next/image';
 import { useEffect, useRef, useState } from "react"
-import { useOnClickOutside } from "@/components/click-outside"
-import Link from 'next/link';
+import { useSearchParams, usePathname, useRouter } from 'next/navigation'
+import { useDebouncedCallback } from 'use-debounce'
 
 export interface ISearch{
-  search: boolean;
   focus: string
 }
 
-const Search = ({search, focus}: ISearch) => {
+const Search = ({focus}: ISearch) => {
 
-  console.log(search)
+
+  const  page = useSearchParams();
+  const pathname = usePathname();
+  const { replace } = useRouter();
+
   const inputRef = useRef<HTMLInputElement>(null)
 
   const getFocus = () =>{
@@ -23,9 +27,29 @@ const Search = ({search, focus}: ISearch) => {
     () => getFocus()
     ,[focus])
 
+  const  handleSearch = useDebouncedCallback((term) => {
+    console.log(`Searching... ${term}`);
+   
+    const params = new URLSearchParams(page);
+    if (term) {
+      params.set('query', term);
+    } else {
+      params.delete('query');
+    }
+    replace(`${pathname}?${params.toString()}`);
+  }, 300);
+
   return(
     <>
-      <input ref={inputRef} type="text" />
+      <input ref={inputRef}
+        placeholder='Введите группу или фамилию'
+         onChange={(e) => {
+          handleSearch(e.target.value);
+        }}
+        defaultValue={page.get('query')?.toString()}/>
+      <div>
+
+      </div>
     </>
   )
 }

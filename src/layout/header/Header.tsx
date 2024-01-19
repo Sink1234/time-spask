@@ -6,12 +6,21 @@ import Image from "next/image"
 import { useRef, useState } from "react"
 import { useOnClickOutside } from "@/components/click-outside"
 import font from 'next/font/local'
+import Search from "./Search"
+import { Suspense } from "react"
+import { usePathname } from "next/navigation"
+import { useRouter } from "next/navigation"
 
 const myFont = font({src: './PT Sans Pro Extra Condensed Light.otf'})
 
-const Navbar = () => {
-
-
+const Navbar = ({
+    searchParams,
+  }: {
+    searchParams?: {
+      query?: string;
+      page?: string;
+    };
+  }) => {
     const [click, setClick] = useState(false)
     const [open, setOpen] = useState(false);
     const [search, setSearch] = useState(false)
@@ -19,11 +28,20 @@ const Navbar = () => {
     const divRef = useRef<HTMLDivElement>(null)
     const inputRef = useRef<HTMLInputElement>(null)
 
+    const pathname = usePathname()
+    const router = useRouter()
+
     const getSearch = () => {
+      search ? router.push(`${pathname}?not`) : router.push(`${pathname}?search=1`)
         setSearch(!search)
         setClick(true) 
         setTimeout(() => getFocus(), 740)
         
+    }
+
+    const doesnt = () => {
+      setSearch(false); 
+      router.push(`${pathname}?not`)
     }
     const MobMenu = () => {
       setOpen(!open);
@@ -31,12 +49,9 @@ const Navbar = () => {
     };
 
     const getFocus = () =>{
-        if(inputRef.current){
-            inputRef.current.blur();
-            inputRef.current.focus();
-        }
+        return 'focus'
     }
-    useOnClickOutside(divRef, () => setSearch(false))
+    useOnClickOutside(divRef, () => doesnt())
     return(
         <div className={styles.sticky}>
             <header >
@@ -50,7 +65,7 @@ const Navbar = () => {
 
                         <div className={styles.right}>
                             <div ref = {divRef} className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
-                                <input ref={inputRef} type="text" />
+                                <Search focus={getFocus()}/>
                                 <div className={styles.sm_circle} onClick={getSearch}>
                                     <Image quality={100} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />
                                 </div>

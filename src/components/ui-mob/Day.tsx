@@ -1,4 +1,4 @@
-
+import 'server-only'
 import { IDaySingle } from "@/interfaces"
 import Card from "./Card";
 import styles from './ui.module.css'
