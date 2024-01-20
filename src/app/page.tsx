@@ -19,7 +19,7 @@ const montserrat = Montserrat({
 
 
 
-  const xmldata = fs.readFileSync(getFixturePath('rs202320'), 'utf-8')
+  const xmldata = fs.readFileSync(getFixturePath('rs202320.xml'), 'utf-8')
  
   parseString(xmldata, function (err, results){ 
       if(err){
