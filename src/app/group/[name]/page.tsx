@@ -6,7 +6,7 @@ import fs from "fs"
 import { Welcome } from "@/interfaces";
 
 
-const getFixturePath = (filename: string) => path.join(__dirname,'..', '..', '..', '..', '..', 'public', filename);
+const getFixturePath = (filename: string) => path.join(__dirname,'..', '..', 'public', filename);
 
 const montserrat = Montserrat({ 
   variable: '--font-montserrat',
