@@ -1,6 +1,5 @@
 import { LessonSingle } from "@/interfaces"
 import styles from './ui.module.css'
-import 'server-only'
 
 const Card= ({lesson}: LessonSingle) => {
 

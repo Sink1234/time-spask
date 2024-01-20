@@ -22,7 +22,7 @@ const Table = ({N}:IN) =>{
             }
     })
     
-
+    console.log(N.YhZav.ListGroup[0].Group)
     return(
         <div className={search === '1' ? styles.groupDiv : styles.disGroup}>
             {st.map((group)=>(

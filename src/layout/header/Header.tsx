@@ -3,7 +3,7 @@ import Link from "next/link"
 import PageWrapper from "@/components/PageWrapper"
 import styles from './Header.module.css'
 import Image from "next/image"
-import { useRef, useState } from "react"
+import { useCallback, useEffect, useRef, useState } from "react"
 import { useOnClickOutside } from "@/components/click-outside"
 import font from 'next/font/local'
 import Search from "./Search"
@@ -39,10 +39,24 @@ const Navbar = ({
         
     }
 
-    const doesnt = () => {
-      setSearch(false); 
-      router.push(`${pathname}?not`)
-    }
+
+    const [href, setHref] =useState(location.href.split('?')[0])
+    useEffect(() => {
+      location.href.split('?')[0] === href ? (
+      ''
+    ) : (setHref(location.href.split('?')[0]))
+    },[location.href])
+    
+
+    console.log(href)
+
+      useEffect(()=>{
+        setSearch(false); 
+        router.push(`${pathname}?not`)
+        
+      },[href])
+    
+
     const MobMenu = () => {
       setOpen(!open);
       setClick(true)
@@ -51,6 +65,7 @@ const Navbar = ({
     const getFocus = () =>{
         return 'focus'
     }
+    //useOnClickOutside(divRef, () => doesnt())
     return(
         <div className={styles.sticky} ref = {divRef}>
             <header >
@@ -63,7 +78,7 @@ const Navbar = ({
                         </div>
 
                         <div className={styles.right}>
-                            <div className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
+                            <div  className={click === true ? (search === true ? styles.act_circle : styles.circle) : styles.not_animCircle} >
                                 <Search focus={getFocus()}/>
                                 <div className={styles.sm_circle} onClick={getSearch}>
                                     <Image quality={100} priority src={'/Zoom.svg'} width={26} height={26} alt="Поиск" />

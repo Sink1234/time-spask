@@ -1,4 +1,3 @@
-import 'server-only'
 import { Welcome} from "@/interfaces"
 import Group from '../ui-mob/Group'
 import PageWrapper from '../PageWrapper'

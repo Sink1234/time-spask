@@ -1,5 +1,4 @@
 
-import 'server-only'
 import { IGroupSingle} from "@/interfaces"
 import Day from "./Day"
 import styles from './ui.module.css'
