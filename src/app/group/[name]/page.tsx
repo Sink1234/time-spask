@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import path, { dirname } from 'path';
 import fs from "fs"
 import { Welcome } from "@/interfaces";
+import { Suspense } from "react";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -35,7 +36,10 @@ export default function groupPage (
     return(
       <section >
       <div className={montserrat.className}>
-        <Table N={dataTable} />
+        <Suspense >
+          <Table N={dataTable} />
+        </Suspense>
+        
         <Home YhZav={data.YhZav} />
       </div>
     

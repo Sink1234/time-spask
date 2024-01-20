@@ -7,6 +7,7 @@ import { Montserrat } from "next/font/google"
 import Table from '@/components/ui-mob/Table'
 import { fileURLToPath } from 'url';
 import path, { dirname } from 'path';
+import { Suspense } from 'react'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -37,7 +38,9 @@ export default async function HomePage() {
   return (
     <section >
       <div className={montserrat.className}>
-        <Table N={data} />
+        <Suspense >
+          <Table N={data} />
+        </Suspense>
         <Home YhZav={data.YhZav} />
       </div>
     
