@@ -11,7 +11,7 @@ import path, { dirname } from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const getFixturePath = (filename: string) => path.join(__dirname, '..', '..', 'public', filename);
+const getFixturePath = (filename: string) => path.join(__dirname, '..', 'public', filename);
 const montserrat = Montserrat({ 
     variable: '--font-montserrat',
     subsets: ['latin'],
