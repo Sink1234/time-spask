@@ -16,11 +16,10 @@ const montserrat = Montserrat({
   subsets: ['latin'],
 })
 
-
-
 export default function groupPage (
   req: { params: { name: string } }
   ){
+    
     const id = decodeURIComponent(req.params.name)
     const data: Welcome = JSON.parse(fs.readFileSync(getFixturePath(`data.json`), 'utf-8'))
     const dataTable: Welcome = JSON.parse(fs.readFileSync(getFixturePath(`data.json`), 'utf-8'))

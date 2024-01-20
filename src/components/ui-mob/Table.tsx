@@ -1,6 +1,6 @@
 'use client'
 
-import {  usePathname, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import styles from './ui.module.css'
 import { Welcome } from "@/interfaces";
 import Link from "next/link";

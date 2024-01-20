@@ -2,15 +2,15 @@
 # yarn lockfile v1
 
 
-"@next/env@14.0.4":
-  version "14.0.4"
-  resolved "https://registry.npmjs.org/@next/env/-/env-14.0.4.tgz"
-  integrity sha512-irQnbMLbUNQpP1wcE5NstJtbuA/69kRfzBrpAD7Gsn8zm/CY6YQYc3HQBz8QPxwISG26tIm5afvvVbu508oBeQ==
+"@next/env@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.npmjs.org/@next/env/-/env-14.1.1-canary.3.tgz"
+  integrity sha512-+fcNFqmQeb3h6VTkVKbJVsnMj3TvWLlEua2n6mQ5catdoNuiH/0h61dnvMLVMpook44TVYfsvGVGmOuBWP1LdA==
 
-"@next/swc-win32-x64-msvc@14.0.4":
-  version "14.0.4"
-  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.0.4.tgz"
-  integrity sha512-yEh2+R8qDlDCjxVpzOTEpBLQTEFAcP2A8fUFLaWNap9GitYKkKv1//y2S6XY6zsR4rCOPRpU7plYDR+az2n30A==
+"@next/swc-win32-x64-msvc@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.1.1-canary.3.tgz"
+  integrity sha512-d96qEYTqHCwufOrICC7mKiq+Tk2g9g4BQIzQVjFrwZ6B9uLfoVFtH8qxTsJbJ0hlJ6SoghvjxRFXZCQZjr5sGg==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
@@ -152,10 +152,10 @@ busboy@1.6.0:
   dependencies:
     streamsearch "^1.1.0"
 
-caniuse-lite@^1.0.30001406:
-  version "1.0.30001576"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001576.tgz"
-  integrity sha512-ff5BdakGe2P3SQsMsiqmt1Lc8221NR1VzHj5jXN5vBny9A6fpze94HiVV/n7XRosOlsShJcvMv5mdnpjOGCEgg==
+caniuse-lite@^1.0.30001579:
+  version "1.0.30001579"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001579.tgz"
+  integrity sha512-u5AUVkixruKHJjw/pj9wISlcMpgFWzSrczLZbrqBSxukQixmg0SJ5sZTpvaFvxU0HoQKd4yoyAogyrAz9pzJnA==
 
 client-only@0.0.1:
   version "0.0.1"
@@ -198,12 +198,7 @@ fs@^0.0.1-security:
   resolved "https://registry.npmjs.org/fs/-/fs-0.0.1-security.tgz"
   integrity sha512-3XY9e1pP0CVEUCdj5BmfIZxRBTSDycnbqhIOGec9QYtmVH2fbLpj86CFWkrNOkt/Fvty4KZG5lTglL9j/gJ87w==
 
-glob-to-regexp@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz"
-  integrity sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==
-
-graceful-fs@^4.1.2, graceful-fs@^4.2.11:
+graceful-fs@^4.2.11:
   version "4.2.11"
   resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz"
   integrity sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==
@@ -237,29 +232,28 @@ nanoid@^3.3.6:
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-next@14.0.4:
-  version "14.0.4"
-  resolved "https://registry.npmjs.org/next/-/next-14.0.4.tgz"
-  integrity sha512-qbwypnM7327SadwFtxXnQdGiKpkuhaRLE2uq62/nRul9cj9KhQ5LhHmlziTNqUidZotw/Q1I9OjirBROdUJNgA==
+next@^14.1.1-canary.3:
+  version "14.1.1-canary.3"
+  resolved "https://registry.npmjs.org/next/-/next-14.1.1-canary.3.tgz"
+  integrity sha512-DZCo3eQ8JJuVUMMr72bxD/QzGLValdku4uGbntifUiGMMyA9qvDCkr5Pbyag9BUkp0twxCSAcwEW0axjHra+Kg==
   dependencies:
-    "@next/env" "14.0.4"
+    "@next/env" "14.1.1-canary.3"
     "@swc/helpers" "0.5.2"
     busboy "1.6.0"
-    caniuse-lite "^1.0.30001406"
+    caniuse-lite "^1.0.30001579"
     graceful-fs "^4.2.11"
     postcss "8.4.31"
     styled-jsx "5.1.1"
-    watchpack "2.4.0"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "14.0.4"
-    "@next/swc-darwin-x64" "14.0.4"
-    "@next/swc-linux-arm64-gnu" "14.0.4"
-    "@next/swc-linux-arm64-musl" "14.0.4"
-    "@next/swc-linux-x64-gnu" "14.0.4"
-    "@next/swc-linux-x64-musl" "14.0.4"
-    "@next/swc-win32-arm64-msvc" "14.0.4"
-    "@next/swc-win32-ia32-msvc" "14.0.4"
-    "@next/swc-win32-x64-msvc" "14.0.4"
+    "@next/swc-darwin-arm64" "14.1.1-canary.3"
+    "@next/swc-darwin-x64" "14.1.1-canary.3"
+    "@next/swc-linux-arm64-gnu" "14.1.1-canary.3"
+    "@next/swc-linux-arm64-musl" "14.1.1-canary.3"
+    "@next/swc-linux-x64-gnu" "14.1.1-canary.3"
+    "@next/swc-linux-x64-musl" "14.1.1-canary.3"
+    "@next/swc-win32-arm64-msvc" "14.1.1-canary.3"
+    "@next/swc-win32-ia32-msvc" "14.1.1-canary.3"
+    "@next/swc-win32-x64-msvc" "14.1.1-canary.3"
 
 picocolors@^1.0.0:
   version "1.0.0"
@@ -343,14 +337,6 @@ use-debounce@^10.0.0:
   version "10.0.0"
   resolved "https://registry.npmjs.org/use-debounce/-/use-debounce-10.0.0.tgz"
   integrity sha512-XRjvlvCB46bah9IBXVnq/ACP2lxqXyZj0D9hj4K5OzNroMDpTEBg8Anuh1/UfRTRs7pLhQ+RiNxxwZu9+MVl1A==
-
-watchpack@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.npmjs.org/watchpack/-/watchpack-2.4.0.tgz"
-  integrity sha512-Lcvm7MGST/4fup+ifyKi2hjyIAwcdI4HRgtvTpIUxBRhB+RFtUh8XtDOxUfctVCnhVi+QQj49i91OyvzkJl6cg==
-  dependencies:
-    glob-to-regexp "^0.4.1"
-    graceful-fs "^4.1.2"
 
 xml-js@^1.6.11:
   version "1.6.11"
