@@ -1,12 +1,15 @@
 import Table from "@/components/ui-mob/Table"
 import Home from "@/components/Home-mobile/Home"
 import { Montserrat } from "next/font/google"
-import path from 'path';
+import { fileURLToPath } from 'url';
+import path, { dirname } from 'path';
 import fs from "fs"
 import { Welcome } from "@/interfaces";
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
-const getFixturePath = (filename: string) => path.join(__dirname,'..', '..', 'public', filename);
+const getFixturePath = (filename: string) => path.join(__dirname, '..', '..', '..', '..', 'public', filename);
 
 const montserrat = Montserrat({ 
   variable: '--font-montserrat',
@@ -15,13 +18,12 @@ const montserrat = Montserrat({
 
 
 
-
 export default function groupPage (
   req: { params: { name: string } }
   ){
     const id = decodeURIComponent(req.params.name)
-    const dataTable: Welcome = JSON.parse(fs.readFileSync(getFixturePath('data.json'), 'utf-8'))
-    const data : Welcome = JSON.parse(fs.readFileSync(getFixturePath('data.json'), 'utf-8'))
+    const data: Welcome = JSON.parse(fs.readFileSync(getFixturePath(`data.json`), 'utf-8'))
+    const dataTable: Welcome = JSON.parse(fs.readFileSync(getFixturePath(`data.json`), 'utf-8'))
     let filtered
     id ? (
       filtered = data.YhZav.ListGroup[0].Group.filter(function (group){
