@@ -1,4 +1,4 @@
-"use client"
+use client"
 import Link from "next/link"
 import PageWrapper from "@/components/PageWrapper"
 import styles from './Header.module.css'
@@ -26,7 +26,6 @@ const Navbar = ({
     const [search, setSearch] = useState(false)
 
     const divRef = useRef<HTMLDivElement>(null)
-    const inputRef = useRef<HTMLInputElement>(null)
 
     const pathname = usePathname()
     const router = useRouter()
@@ -39,13 +38,12 @@ const Navbar = ({
         
     }
 
-
-    const [href, setHref] =useState(location.href.split('?')[0])
-    useEffect(() => {
-      location.href.split('?')[0] === href ? (
-      ''
-    ) : (setHref(location.href.split('?')[0]))
-    },[location.href])
+    const [href, setHref] =useState(pathname)
+      useEffect(() => {
+        pathname === href ? (
+        ''
+      ) : (setHref(pathname))
+    },[pathname])
     
 
     console.log(href)
