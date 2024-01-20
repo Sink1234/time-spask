@@ -30,23 +30,15 @@ export async function first () {
   }})
 }
 
-export const Service=(()=>{
-  return{
-    getData(){
-      const data: Welcome = JSON.parse(fs.readFileSync(getFixturePath(`data.json`), 'utf-8'))
-      return data
-    }
-  }
-})
           
 export default async function HomePage() { 
-  const data = Service()
+  const data: Welcome = JSON.parse(fs.readFileSync(getFixturePath(`data.json`), 'utf-8'))
   
   return (
     <section >
       <div className={montserrat.className}>
-        <Table N={data.getData()} />
-        <Home YhZav={data.getData().YhZav} />
+        <Table N={data} />
+        <Home YhZav={data.YhZav} />
       </div>
     
     </section>
