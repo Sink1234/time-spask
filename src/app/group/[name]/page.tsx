@@ -1,4 +1,4 @@
-import HomePage from "@/app/page"
+import HomePage, { Service} from "@/app/page"
 import fs from "fs"
 import { Welcome } from '@/interfaces'
 import Table from "@/components/ui-mob/Table"
@@ -13,12 +13,14 @@ const montserrat = Montserrat({
 
 
 
+
 const dataTable: Welcome = JSON.parse(fs.readFileSync('public/data.json', 'utf-8'))
 export default function groupPage (
   req: { params: { name: string } }
   ){
     const id = decodeURIComponent(req.params.name)
-    const data: Welcome = JSON.parse(fs.readFileSync('public/data.json', 'utf-8'))
+    const d = Service()
+    const data = d.getData()
     let filtered
     id ? (
       filtered = data.YhZav.ListGroup[0].Group.filter(function (group){

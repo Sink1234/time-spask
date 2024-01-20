@@ -14,22 +14,32 @@ const montserrat = Montserrat({
 
 const xmldata = fs.readFileSync('public/rs202320.xml', 'utf-8')
  
-      parseString(xmldata, function (err, results){ 
-          if(err){
-            return null
-          }else{
-            let data = (JSON.stringify(results))
-            fs.writeFileSync('public/data.json', data, 'utf-8')  
-          }})
+parseString(xmldata, function (err, results){ 
+    if(err){
+      return null
+    }else{
+      let data = (JSON.stringify(results))
+      fs.writeFileSync('public/data.json', data, 'utf-8')  
+}})
+
+export const Service=(()=>{
+  return{
+    getData(){
+      const data: Welcome = JSON.parse(fs.readFileSync('public/data.json', 'utf-8'))
+      return data
+    }
+  }
+})
+          
 
 export default async function HomePage() { 
-  const data: Welcome = JSON.parse(fs.readFileSync('public/data.json', 'utf-8'))
+  const data = Service()
   
   return (
     <section >
       <div className={montserrat.className}>
-        <Table N={data} />
-        <Home YhZav={data.YhZav} />
+        <Table N={data.getData()} />
+        <Home YhZav={data.getData().YhZav} />
       </div>
     
     </section>
