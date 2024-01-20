@@ -18,7 +18,7 @@ const montserrat = Montserrat({
 })
 
 
-export async function first () {
+
   const xmldata = fs.readFileSync(getFixturePath('rs202320'), 'utf-8')
  
   parseString(xmldata, function (err, results){ 
@@ -28,7 +28,7 @@ export async function first () {
         let data = (JSON.stringify(results))
         fs.writeFileSync(getFixturePath(`data.json`), data, 'utf-8')  
   }})
-}
+
 
           
 export default async function HomePage() { 
