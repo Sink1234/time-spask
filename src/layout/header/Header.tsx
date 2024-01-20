@@ -65,9 +65,10 @@ const Navbar = ({
     }
     //useOnClickOutside(divRef, () => doesnt())
     return(
-        <div className={styles.sticky} ref = {divRef}>
+       <div className={styles.sticky} ref = {divRef}>
             <header >
                 <PageWrapper>
+                  <Suspense >
                     <div className={styles.flex}>
                         <div className={styles.left}>
                             <Image quality={100} src='/Icon.svg' width={70} height={70} alt="Логотип СПАСКа" priority className={click === true ? (search === true ? styles.disImg : styles.image) : styles.not_animImage}/>
@@ -126,6 +127,7 @@ const Navbar = ({
                             </button>
                         </div>
                     </div>
+                  </Suspense>
                 </PageWrapper>
             </header>
         </div>
