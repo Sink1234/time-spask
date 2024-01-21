@@ -19,7 +19,7 @@ export default async function Home(YhZav: Welcome) {
         (
                 <PageWrapper >
                     <div className={styles.wrapper}>
-                        <h3>Кабинеты обновляются КАЖДЫЙ день, будте внимательны!</h3>
+                        <h3>Кабинеты обновляются КАЖДЫЙ день, будьте внимательны!</h3>
                         {YhZav.YhZav.ListGroup[0].Group.map((group) => (
                                 <Group key={group.$.Name} group={group} dataMon={dataMon} />
                             ))}
