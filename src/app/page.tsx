@@ -41,6 +41,7 @@ export default async function HomePage() {
         <Suspense >
           <Table N={data} />
         </Suspense>
+        <h1>Кабинеты обновляются КАЖДЫЙ день, будте внимательны!</h1>
         <Home YhZav={data.YhZav} />
       </div>
     
