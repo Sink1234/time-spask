@@ -32,7 +32,7 @@ const Card= ({lesson}: LessonSingle) => {
                     <span className={styles.box}>
                         <div className={styles.part}><span>{lesson.$.N[0] + ' пара | '}</span> {getTime(lesson.$.N[0])} </div>
                         <div className={styles.lesson}><span>{lesson.Part[0].Name[0]}</span><span> | </span>{lesson.Part[0].Teacher[0] + ', ' + lesson.Part[1].Teacher[0]}</div>
-                        <div className={styles.room}><span>{lesson.Part[0].Auditorium ? (lesson.Part[0].Auditorium[0].$.Number + ', ' + lesson.Part[1].Auditorium[0].$.Number + " ") : 'Дистанционно'}</span><div>{lesson.Part[0].Auditorium ? lesson.Part[0].Auditorium[0].$.Building : 'Из дома'}</div></div>
+                        <div className={styles.room}><span>{lesson.Part[0].Auditorium ? (lesson.Part[0].Auditorium[0].$.Number + ', ' + lesson.Part[1].Auditorium[0].$.Number + " ") : 'Нет данных'}</span><div>{lesson.Part[0].Auditorium ? lesson.Part[0].Auditorium[0].$.Building : '------------'}</div></div>
                     </span>
                 )}
 
