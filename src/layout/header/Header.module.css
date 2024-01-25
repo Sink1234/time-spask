@@ -4,7 +4,7 @@
     background-color: var(--blue);
     color: var(--white);
     height: 120px;
-    border-radius: 0px 0px 42px 42px;
+    border-radius: 0 0 42px 42px;
     align-items: center;
 }
 
@@ -51,9 +51,10 @@
     animation: opacityF .5s ease-in-out;
 }
 .disBurger{
+    z-index: 0;
     margin-right: 15px;
     opacity: 0;
-    animation: opacityT .5s ease-in-out;
+    animation: opacityT .2s ease-in-out;
 }
 
 .left span{
@@ -72,16 +73,17 @@
 
 .right{
     display: flex;
+    gap: 20px;
     flex-direction: row;
     align-items: center;
 }
 
-.right img{
-    position: relative;
-    top: 3px;
-    fill: var(--blue);
-    cursor: pointer;
-}
+/*.right img{*/
+/*    position: relative;*/
+/*    top: 3px;*/
+/*    fill: var(--blue);*/
+/*    cursor: pointer;*/
+/*}*/
 
 
 .not_animCircle{
@@ -90,7 +92,7 @@
     background-color: rgba(255, 255, 255, 0);
     width: 30px;
     height: 30px;
-    transition: .5;
+    transition: .5s;
     z-index: 1;
 }
 .not_animCircle input{
@@ -112,7 +114,7 @@
     background-color: rgba(255, 255, 255, 0);
     width: 30px;
     height: 30px;
-    transition: .5;
+    transition: .5s;
     animation: searchEnd .5s ease;
     z-index: 1;
 }
@@ -123,7 +125,7 @@
     background-color: var(--white);
     width: calc(100vw - 75px);
     animation: searchStart .5s ease;
-    transition: .5;
+    transition: .5s;
     right: 25px;
     border-radius: 30px;
     padding: 15px;
@@ -147,7 +149,7 @@
 
 .act_circle img{
     fill: var(--blue);
-    transition: .5;
+    transition: .5s;
     z-index: 2;
 }
 
@@ -171,18 +173,19 @@
     border-radius: 33px;
 }
 
-.right button{
-    background-color: var(--blue);
-    padding: 15px;
-    margin-right: -15px;
-    cursor: pointer;
-}
+/*.right button{*/
+/*    background-color: var(--blue);*/
+/*    padding: 15px;*/
+/*    margin-right: -15px;*/
+/*    cursor: pointer;*/
+/*}*/
 
 .nav{
     display: flex;
     flex-direction: column;
     align-items: end;
     cursor: pointer;
+    background-color: var(--blue);
 }
 
 @keyframes searchEnd {
@@ -249,7 +252,7 @@
     }
     100%{
         opacity: 0;
-        margin-right: 8px
+        margin-right: 12px
     }
 }
 
@@ -327,7 +330,7 @@
         position: absolute;
         content: "";
         width: 330px;
-        top: 0px;
+        top: 0;
         right: 0;
         height: 80px;
         background-color: #fff;

@@ -1,6 +1,7 @@
 :root {
   --blue: #1D5770;
   --grey: #5A5A5A;
+  --lite-grey: #f3f6f8;
   --dark: #2D2D2D;
   --white: white;
 }
@@ -11,8 +12,9 @@
   border: none; 
   outline: none;
   z-index: 0;
+  box-sizing: border-box;
 }
 
 body{
-  background-color: #f3f6f8;;
+  background-color: var(--lite-grey);;
 }

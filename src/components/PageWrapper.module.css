@@ -1,9 +1,9 @@
 .wrapper{
-    max-width: 1280px;
+    max-width: 1140px;
     margin: 0 16px;
 }
 
-@media(min-width:1280px) {
+@media(min-width:1140px) {
     .wrapper{
         margin: 0 auto;
     }

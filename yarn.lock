@@ -7,6 +7,46 @@
   resolved "https://registry.npmjs.org/@next/env/-/env-14.1.1-canary.3.tgz"
   integrity sha512-+fcNFqmQeb3h6VTkVKbJVsnMj3TvWLlEua2n6mQ5catdoNuiH/0h61dnvMLVMpook44TVYfsvGVGmOuBWP1LdA==
 
+"@next/swc-darwin-arm64@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.1.1-canary.3.tgz#6680f4a6992601f47d4392de18365b9f5ba62595"
+  integrity sha512-gnm4HBQk917Ea6W1k/hBxu+tzRWkde4CGqXo6W9pJe3Dk8MoKP1v6j+PqgU40GldUJ4fR0evfDppceyyZiDOEg==
+
+"@next/swc-darwin-x64@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-14.1.1-canary.3.tgz#f4b798a2bded8dfca7236627404e4394bcbedbeb"
+  integrity sha512-1Hnhz+/RuIUlXqr3+Q7R0y13eVIUMKYU/S2YeOHIC6yBoznOhN6qgjIVSbinrz2goIZQaCOkCTkZ9BQXMnzbbQ==
+
+"@next/swc-linux-arm64-gnu@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.1.1-canary.3.tgz#cde753123a391d15ccd367d93a3b4ab9e8cc1e68"
+  integrity sha512-JM0qKu3qNg09LvgFN0kXt5EeCHm7H0VoPfsxE6Ye83oviKwDoIuwC/uaw0BiPqeavhvkhBgCtaIVS+x8jOROlQ==
+
+"@next/swc-linux-arm64-musl@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.1.1-canary.3.tgz#78456a5041d2aea2118e5666ed4e07733459f837"
+  integrity sha512-6IsT8+eIbVVCj+x4IpB3FA+Em8XRdpkUmjfwU9HM3G8alRe0OfnzGOkhWOQbAF4JDZZaWffySeID774g3Q4kWg==
+
+"@next/swc-linux-x64-gnu@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.1.1-canary.3.tgz#71b196e227630c1beba3fc80842ee528f34612be"
+  integrity sha512-YpByFl14yPXtbv7BupPf8CvqPH9qszek7GX14XopGm+qRJ+AJMh747+u3CqisdBOtP7dbumf5/G45g8WPMjMOA==
+
+"@next/swc-linux-x64-musl@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.1.1-canary.3.tgz#dcac536eb602082179b45fc750cfd3c7d54a5f5d"
+  integrity sha512-1ly6hM2o0JSVgDn0s27per0+qSLbbWq3rnzn+KS2n1lmFWtOJXl7DALs6V41HMF0MKJRtSfXRHHdVNORlW3xUQ==
+
+"@next/swc-win32-arm64-msvc@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.1.1-canary.3.tgz#4d95f7f49c8670388bd81ac3389a16d80b77a35d"
+  integrity sha512-wa8ft1TWIR3CcHZAeS/xh2oznjGU9oeAQ0AQVzDLE29mIQ7140baDCr0eueoalHeSXA8rwNlc3gaj/cXALNN6A==
+
+"@next/swc-win32-ia32-msvc@14.1.1-canary.3":
+  version "14.1.1-canary.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.1.1-canary.3.tgz#525ae6407868e903a255a8a0baca88df2f7885c0"
+  integrity sha512-vqZjGu3sK7mH3ov8zrkFfI0TyHTUI9VrFQ1IdfC3QwX468KpnDc2FbiVMEs6Kgbm4ohvxx2w9HwO/uwgAAB1sw==
+
 "@next/swc-win32-x64-msvc@14.1.1-canary.3":
   version "14.1.1-canary.3"
   resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.1.1-canary.3.tgz"
@@ -64,10 +104,10 @@
   resolved "https://registry.npmjs.org/@types/mime/-/mime-1.3.5.tgz"
   integrity sha512-/pyBZWSLD2n0dcHE3hq8s8ZvcETHtEuF+3E7XVt0Ig2nvsVQXdghHVcEkIWjy9A0wKfTn97a/PSDYohKIlnP/w==
 
-"@types/node@*", "@types/node@^20":
-  version "20.10.7"
-  resolved "https://registry.npmjs.org/@types/node/-/node-20.10.7.tgz"
-  integrity sha512-fRbIKb8C/Y2lXxB5eVMj4IU7xpdox0Lh8bUPEdtLysaylsml1hOOx1+STloRs/B9nf7C6kPRmmg/V7aQW7usNg==
+"@types/node@*", "@types/node@^20.11.5":
+  version "20.11.5"
+  resolved "https://registry.npmjs.org/@types/node/-/node-20.11.5.tgz"
+  integrity sha512-g557vgQjUUfN76MZAN/dt1z3dzcUsimuysco0KeluHgrPdJXkP/XdAURgyO2W9fZWHRtRBiVKzKn8vyOAwlG+w==
   dependencies:
     undici-types "~5.26.4"
 
@@ -282,14 +322,14 @@ react-dom@^18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react@^18.2.0, "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", react@>=16.8.0:
+react@^18.2.0:
   version "18.2.0"
   resolved "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
   dependencies:
     loose-envify "^1.1.0"
 
-sax@^1.2.4, sax@>=0.6.0:
+sax@>=0.6.0, sax@^1.2.4:
   version "1.3.0"
   resolved "https://registry.npmjs.org/sax/-/sax-1.3.0.tgz"
   integrity sha512-0s+oAmw9zLl1V1cS9BtZN7JAd0cW5e0QH4W3LWEK6a4LaLEA2OTpGYWDY+6XasBLtz6wkm3u1xRw95mRuJ59WA==

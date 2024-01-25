@@ -1,34 +1,41 @@
-import { Welcome} from "@/interfaces"
-import Group from '../ui-mob/Group'
+import {ITimetableTeachers} from "@/lib/data"
 import PageWrapper from '../PageWrapper'
 import styles from './Home.module.css'
-import { useMemo } from 'react'
+import Day from "../ui/timetable/Day"
 
-export default async function Home(YhZav: Welcome) {
-    
-    const dayWeek = YhZav.YhZav.Work[0].split(' ')
-    const dayWork = [dayWeek[2].split('/'), dayWeek[4].split('/')]
-    
-    const dataMon = {
-        dayMon: YhZav.YhZav.Monday[0].split('.'),
-        dayWeekStart: dayWork[0],
-        dayWeekEnd: dayWork[1] 
-    }
 
-    return useMemo(()=>(
-        (
-                <PageWrapper >
-                    <div className={styles.wrapper}>
-                        <h3>Кабинеты обновляются КАЖДЫЙ день, будьте внимательны!</h3>
-                        {YhZav.YhZav.ListGroup[0].Group.map((group) => (
-                                <Group key={group.$.Name} group={group} dataMon={dataMon} />
-                            ))}
-                    </div>
-                </PageWrapper>
-            )
-    ),[])
-    
+interface IData{
+    data:  ITimetableTeachers[]
+    pageFor: string
 }
+export default async function Home({data, pageFor}: IData) {
+
+    const group = pageFor === 'group' ? data[0].groupName : data[0].lessonPart.teacher
+    const days = ['1', '2', '3', '4', '5', '6']
+
+    const filterByDay = (day: string, data:ITimetableTeachers[])=>{
+        return data.filter(
+            (value) =>
+                value.timetableNumber === day
+        )
+    }
+    return (
+        <PageWrapper >
+            <div className={styles.wrapper}>
+                <div className={styles.group}>
+                    <h3>{pageFor === 'group' ? 'Группа ' : 'Преподаватель'} <span>{group}</span></h3>
+                   <section>
+                        {days.map((day) => (
+                            <Day key={day} day={day} data={filterByDay(day, data)} pageFor={pageFor}/> 
+                        ))} 
+                   </section>
+                </div>
+            </div>
+        </PageWrapper>
+            
+    )
+}
+
 
 
 

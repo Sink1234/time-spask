@@ -1,0 +1,63 @@
+import { ITimetableTeachers } from "@/lib/data";
+import styles from './ui.module.css'
+import Timetable from '@/lib/data'
+import Card from "./Card";
+
+interface IDaySingle{
+    day: string,
+    data: ITimetableTeachers[],
+    pageFor: string
+}
+
+const Day = ({day, data, pageFor}:IDaySingle) => {
+
+    const getData = (day: number) => {
+        let dataWork: string[] = []
+        let date
+        Timetable.work.split(' ').map((data)=>{
+            data.split('/').length > 1 ? (
+                dataWork.push(data)
+            ) : ('')
+        })
+
+        
+
+        let year = 2000 + Number(dataWork[0].split('/')[2])
+        let monthFirst = Number(dataWork[0].split('/')[1]) - 1
+        let monthSecond = Number(dataWork[1].split('/')[1]) - 1
+        let dayStart = Number(dataWork[0].split('/')[0])
+        let dayEnd = Number(dataWork[1].split('/')[0])
+        let dayNow = day + dayStart - 1
+
+        monthFirst === monthSecond ? (
+            date = new Date(Date.UTC(year, monthFirst, dayNow))
+            
+        ) : (date = 1)
+        const timeWork = new Intl.DateTimeFormat("ru", {dateStyle: 'full', timeStyle: 'short'}).format(date)
+        console.log(timeWork)
+        return timeWork
+    }
+
+    const filterByLessonN = (N: string, data:ITimetableTeachers[])=>{
+        return data.filter(
+            (value) =>
+                value.lessonNumber === N
+        )
+    }
+
+    const dayOfWeek = getData(Number(day)).split(' ')[0]
+    const mainData = getData(Number(day)).split(' ')[1] + ' ' + getData(Number(day)).split(' ')[2]
+    const numberLesson = ['1', '2', '3', '4', '5']
+
+
+    return(
+        <div className={styles.day}>
+            <h3><span>{dayOfWeek} </span>{mainData}</h3>
+            {numberLesson.map((N)=>(
+                <Card key={N} N={N} data={filterByLessonN(N, data)} pageFor={pageFor}/>
+            ))}
+        </div>
+    )
+}
+
+export default Day
