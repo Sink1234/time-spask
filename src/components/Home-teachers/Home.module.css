@@ -1,0 +1,11 @@
+.wrapper{
+    width: 356px;
+    margin: 0 auto; 
+    margin-top: 26px;
+}
+
+@media(min-width: 800px) {
+    .wrapper{
+        width: fit-content;
+    }
+}
