@@ -2,7 +2,7 @@ import { Welcome } from "@/interfaces"
 import path from 'path';
 import fs from "fs"
 
-const getFixturePath = (filename: string) => path.join(process.cwd(), 'public', filename);
+const getFixturePath = (filename: string) => path.join(process.cwd(), 'src', 'lib', "data", filename);
 
 
 
