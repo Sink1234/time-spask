@@ -35,7 +35,7 @@ const Navbar = ({searchParams,}: {
 
     useEffect(() => {
         setSearch(false);
-        router.push(`${pathname}`)
+        router.push(`${pathname}#now`)
 
     }, [href])
 
