@@ -30,7 +30,6 @@ const Card= ({N, data, pageFor}: ILessonSingle) => {
     const teacherName = data[0]  ? (pageFor === 'group' ? (data[0].lessonPart.teacher) : (data[0].groupName)) : NoN
     const room = data[0]  ? data[0].lessonPart.auditorium?.number : "Нет данных"
     const Building = data[0] ? data[0].lessonPart.auditorium?.building : NoN
-    data[1] ? console.log(data[1]) : console.log(NoN)
     return(
         <>
                 { data.length < 2 ? (

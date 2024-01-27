@@ -23,23 +23,6 @@ const Navbar = ({searchParams,}: {
 
     const divRef = useRef<HTMLDivElement>(null)
 
-    const pathname = usePathname()
-    const router = useRouter()
-
-    const [href, setHref] = useState(pathname)
-    useEffect(() => {
-        pathname === href
-            ? ''
-            : setHref(pathname)
-    }, [pathname])
-
-    useEffect(() => {
-        setSearch(false);
-        router.push(`${pathname}#now`)
-
-    }, [href])
-
-
     const MobMenu = () => {
         setOpen(!open);
         setClick(true)

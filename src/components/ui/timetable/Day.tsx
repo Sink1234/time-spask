@@ -39,7 +39,6 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
             )
         )
         const timeWork = new Intl.DateTimeFormat("ru", {dateStyle: 'full', timeStyle: 'short'}).format(date)
-        console.log(timeWork)
         return timeWork
     }
 
@@ -59,7 +58,6 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
     const mainData = timeForCompare === dayForCompare ? (getData(Number(day)).split(' ')[1] + ' ' + getData(Number(day)).split(' ')[2]) + ' (Сегодня)' : (getData(Number(day)).split(' ')[1] + ' ' + getData(Number(day)).split(' ')[2])
     const numberLesson = ['1', '2', '3', '4', '5']
     const id = timeForCompare === dayForCompare ? 'now' : 'other'
-    console.log(timeNow, getData(Number(day)))
     return(
         <div className={styles.day} id={id}>
             <h3><span>{dayOfWeek} </span>{mainData}</h3>
