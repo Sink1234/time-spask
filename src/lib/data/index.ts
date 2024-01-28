@@ -89,13 +89,12 @@ class TimetableTeachers {
             if (!(group.timetable)) return result;
             group.timetable.forEach((timetable) =>
                 timetable.lesson.forEach((lesson) =>
-                    lesson.part.forEach((part)=> result.push({
+                    lesson.part.forEach((part) => result.push({
                         lessonPart: part,
                         groupName: group.name,
                         lessonNumber: lesson.number,
                         timetableNumber: timetable.number
                     }))
-
                 )
             );
             return result;
@@ -119,7 +118,7 @@ class TimetableTeachers {
         )
     }
 
-    groupName(){
+    groupName() {
         return Array.from(
             new Set(
                 this.dataset.map(
@@ -129,35 +128,63 @@ class TimetableTeachers {
         )
     }
 
-    searchByGroup(nameGroup: string){
+    searchByGroup(nameGroup: string) {
         return this.dataset.filter(
             (value) =>
                 value.groupName === nameGroup
         )
     }
 
-    roomName(){
+    roomName() {
         return Array.from(
             new Set(
-                this.dataset.map(
-                    value => Number(value.lessonPart.auditorium?.number)
-                )
+                this.dataset.reduce((previousValue, currentValue) => {
+                    if (currentValue.lessonPart.auditorium) {
+                        const number = Number(currentValue.lessonPart.auditorium.number)
+                        if (!isNaN(number))
+                            previousValue.push(number)
+                    }
+
+                    return previousValue
+                }, [] as number[])
             )
         )
     }
 
-    searchByRoom(nameRoom: number){
+    searchByRoom(nameRoom: number) {
         return this.dataset.filter(
-            (value) => 
+            (value) =>
                 value.lessonPart.auditorium?.number === String(nameRoom)
         )
     }
 
-    searchByRoomsPart(nameRoom: number, day: number, lesson: number){
+    searchByRoomsPart(nameRoom: number, day: string, lesson: string) {
         return this.dataset.filter(
             (value) =>
-                value.lessonNumber
+                value.lessonPart.auditorium
+                && value.lessonPart.auditorium.number === String(nameRoom)
+                && value.timetableNumber === String(day)
+                && value.lessonNumber === String(lesson)
         )
+    }
+
+    getListEmptyRoom(day: string) {
+        return ['1', '2', '3', '4']
+            .map(
+                lesson =>
+                    this.dataset
+                        .filter(
+                            value =>
+                                value.lessonNumber === lesson
+                                && value.timetableNumber === day
+                        )
+                        .map(value => Number(value.lessonPart.auditorium?.number))
+                        .filter(value => value)
+            )
+            .map(
+                lesson =>
+                    this.roomName().filter(room => !lesson.includes(room))
+            )
     }
 }
 
