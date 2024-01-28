@@ -36,7 +36,7 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
             day < day_n + 1? (
                 date = new Date(Date.UTC(year, monthFirst, dayNow))
             ) : (
-                date = new Date(Date.UTC(year, monthSecond, dayEnd - dayNow + day_n))
+                date = new Date(Date.UTC(year, monthSecond, dayNow - day_n))
             )
         )
         const timeWork = new Intl.DateTimeFormat("ru", {dateStyle: 'full', timeStyle: 'short'}).format(date)
