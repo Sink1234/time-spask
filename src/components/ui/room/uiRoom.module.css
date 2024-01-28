@@ -72,6 +72,22 @@
     padding: 0 10px;
 }
 
+@media(min-width: 600px) {
+    .dayOfWeek span{
+        display: none;
+    }
+    .lesson a{
+        width: calc((100vw - 100px) / 4);
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .lesson div{
+        width: fit-content;
+    }
+}
+
 
 
 
@@ -83,7 +99,8 @@
     flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 10px;
+    padding-bottom: 5px;
+    margin-top: 5px;
 }
 
 .onePart{
@@ -92,23 +109,51 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    flex-wrap: wrap;
 }
 
-.box, .box_full{
+.box_full{
     display: flex;
     flex-direction: column;
     width: 70px;
     height: 10px;
     overflow: hidden;
-    flex-wrap: nowrap;
+    
     background-color: brown;
-}
-
-
-.box{
-    background-color: aquamarine;
 }
 
 .box_full span{
     display: none;
+}
+
+@media(min-width: 600px) {
+    .box_full{
+        width: calc((100vw - 100px) / 4);
+        background: none;
+        height: fit-content;
+    }
+    .box_full span{
+        display: block;
+        height: fit-content;
+        overflow: visible;
+        margin: 0;
+        width: fit-content;
+    }
+    .box_full{
+        height: fit-content;
+        width: fit-content;
+    }
+    .contains{
+        height: fit-content;
+        border-bottom: solid 1px var(--blue);
+    }
+    .onePart{
+        justify-content: center;
+        height: fit-content;
+        min-height: 100%;
+        width: 100%;
+        background-color: var(--white);
+        margin: 0 10px;
+        border-radius: 20px;
+    }
 }

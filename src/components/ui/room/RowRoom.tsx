@@ -1,5 +1,6 @@
 import  Timetable from "@/lib/data"
 import styles from './uiRoom.module.css'
+import { useState } from "react"
 
 interface IRowRoom{
     room: number,
@@ -8,18 +9,18 @@ interface IRowRoom{
 }
 
 const RowRoom = ({room, day, lessonSort}: IRowRoom) => {
-
+    
     const data = Timetable.teacher.searchByRoom(room)
     const numberLesson = ['1', '2', '3', '4']
     return(
         <div className={styles.contains}>
             <span>{room}</span>
-            {numberLesson.map((N) => (
-                <div key={room + N} className={styles.onePart}>{
-                    data.map((value)=>(
+            {numberLesson.map((N, indexN) => (
+                <div key={indexN} className={styles.onePart}>{
+                    data.map((value, indexV)=>(
                         value.timetableNumber === day ? (
                             value.lessonNumber === N ? (
-                                <div key={value.groupName} className={styles.box_full}>
+                                <div key={indexV} className={styles.box_full}>
                                     <span>{value.groupName}</span>
                                     <span>{value.lessonPart.teacher}</span>
                                 </div>
