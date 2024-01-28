@@ -24,7 +24,7 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
 
         let year = 2000 + Number(dataWork[0].split('/')[2])
         let monthFirst = Number(dataWork[0].split('/')[1]) - 1
-        let monthSecond = Number(dataWork[1].split('/')[1]) 
+        let monthSecond = Number(dataWork[1].split('/')[1]) - 1
         let dayStart = Number(dataWork[0].split('/')[0])
         let dayEnd = Number(dataWork[1].split('/')[0])
         let dayNow = day + dayStart - 1
@@ -36,7 +36,7 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
             day < day_n + 1? (
                 date = new Date(Date.UTC(year, monthFirst, dayNow))
             ) : (
-                date = new Date(Date.UTC(year, monthSecond, dayNow - day_n))
+                date = new Date(Date.UTC(year, monthSecond, day - day_n))
             )
         )
         const timeWork = new Intl.DateTimeFormat("ru", {dateStyle: 'full', timeStyle: 'short'}).format(date)
