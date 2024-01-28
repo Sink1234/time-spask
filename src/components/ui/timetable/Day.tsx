@@ -32,7 +32,7 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
         monthFirst === monthSecond ? (
             date = new Date(Date.UTC(year, monthFirst, dayNow))
         ) : (
-            dayNow < day_n ? (
+            day < day_n ? (
                 date = new Date(Date.UTC(year, monthFirst, dayNow))
             ) : (
                 date = new Date(Date.UTC(year, monthSecond, dayEnd - dayNow + day_n))
