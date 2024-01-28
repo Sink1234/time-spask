@@ -27,6 +27,7 @@
     flex-direction: row;
     gap: 10px; 
     overflow: scroll;
+    overflow-y: visible;
     padding: 0 20px;
 }
 
@@ -43,8 +44,9 @@
 }
 
 .dayOfWeek span div{
+    overflow: visible;
     position: absolute;
-    height: 32px;
+    height: 22px;
     width: 50px;
     background: linear-gradient(90deg, rgba(255,255,255,0) 0%, var(--lite-grey) 100%);
     margin: 0;
@@ -75,6 +77,9 @@
 @media(min-width: 600px) {
     .dayOfWeek span{
         display: none;
+    }
+    .dayOfWeek div{
+        overflow: auto;
     }
     .lesson a{
         width: calc((100vw - 100px) / 4);
@@ -118,8 +123,8 @@
     width: 70px;
     height: 10px;
     overflow: hidden;
-    
-    background-color: brown;
+    border-radius: 12px;
+    background-color: var(--blue);
 }
 
 .box_full span{

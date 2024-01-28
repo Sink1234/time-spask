@@ -1,6 +1,6 @@
 "use client"
 import {usePathname, useRouter, useSearchParams} from "next/navigation";
-import {ChangeEvent, useEffect, useRef, useState} from "react"
+import {ChangeEvent, useCallback, useEffect, useRef, useState} from "react"
 import type {KeyboardEvent, FC} from "react"
 import {useDebouncedCallback} from "use-debounce";
 import Image from "next/image";
@@ -49,12 +49,13 @@ const Search: FC<IProps> = ({setStatus}) => {
         setInputValue(value);
         handleSearch(value);
     }
+    
 
     function handleChangeSearch() {
         setActive(active => !active);
-        useEffect(() => {
-            push(`${pathname}#now`)
-        }, [href])
+        useCallback(() => {
+            replace(`${pathname}#now`)
+        }, [href, active])
     }
 
 

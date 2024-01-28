@@ -152,6 +152,13 @@ class TimetableTeachers {
                 value.lessonPart.auditorium?.number === String(nameRoom)
         )
     }
+
+    searchByRoomsPart(nameRoom: number, day: number, lesson: number){
+        return this.dataset.filter(
+            (value) =>
+                value.lessonNumber
+        )
+    }
 }
 
 function Timetable(data: YhZav) {
