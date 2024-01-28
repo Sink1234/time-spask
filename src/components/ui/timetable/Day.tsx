@@ -24,15 +24,16 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
 
         let year = 2000 + Number(dataWork[0].split('/')[2])
         let monthFirst = Number(dataWork[0].split('/')[1]) - 1
-        let monthSecond = Number(dataWork[1].split('/')[1]) - 1
+        let monthSecond = Number(dataWork[1].split('/')[1]) 
         let dayStart = Number(dataWork[0].split('/')[0])
         let dayEnd = Number(dataWork[1].split('/')[0])
         let dayNow = day + dayStart - 1
-        let day_n = 6 - Number(dayEnd)
+        let day_n = 6 - Number(dayEnd) + 1
+        
         monthFirst === monthSecond ? (
             date = new Date(Date.UTC(year, monthFirst, dayNow))
         ) : (
-            day < day_n ? (
+            day < day_n + 1? (
                 date = new Date(Date.UTC(year, monthFirst, dayNow))
             ) : (
                 date = new Date(Date.UTC(year, monthSecond, dayEnd - dayNow + day_n))
