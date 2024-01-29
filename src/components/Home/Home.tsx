@@ -21,7 +21,6 @@ export default async function Home({data, pageFor}: IData) {
         )
     }
     return (
-        <PageWrapper >
             <div className={styles.wrapper}>
                 <div className={styles.group}>
                     <h3>{pageFor === 'group' ? 'Группа ' : 'Преподаватель'} <span>{group}</span></h3>
@@ -32,8 +31,6 @@ export default async function Home({data, pageFor}: IData) {
                    </section>
                 </div>
             </div>
-        </PageWrapper>
-            
     )
 }
 
