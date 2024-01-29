@@ -4,18 +4,22 @@ import styles from './Room.module.css'
 import { useSearchParams } from "next/navigation"
 import SearchRoom from "../ui/room/SearchRoom"
 import { Suspense } from "react"
+import  Timetable, { ITimetableTeachers } from "@/lib/data"
+
 
 interface IRoom {
-    data: number[]
-    query: { [key: string]: string } | undefined
+    data: number[],
+    day: string,
+    lesson: string
 }
 
-const Room = ({data, query}: IRoom) => {
+const Room = ({data, day, lesson}: IRoom) => {
 
-    const day = query ? query.day ? query.day : '1' : '1'
-    const lesson = query ? query.lesson ? query.lesson : 'non' : "non"
+    
+    
+    
 
-    console.log(day, lesson)
+
     return(
         <>
             <div className={styles.box}>
@@ -24,7 +28,7 @@ const Room = ({data, query}: IRoom) => {
                 <Suspense>
                     <div className={styles.table}>
                         {data.map((room)=>(
-                            room ? <RowRoom key={room} room={room} day={day} lessonSort={lesson}/> : ''
+                            room ? <RowRoom key={room} room={Number(room)} day={day} /> : ''
                         ))}
                     </div>
                 </Suspense>

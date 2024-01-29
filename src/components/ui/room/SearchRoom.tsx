@@ -60,7 +60,7 @@ const SearchRoom = ({day, lesson}: ISearchRoom) => {
             <div className={styles.lesson}>
                 <div>Каб</div>
                     {numberLesson.map((N)=> (
-                        <Link key={N} className={lesson === N ? styles.activeLink : styles.Link} href={pathname + '?' + createQueryString('lesson', N)}><div>{N + ' пара'}</div></Link>
+                        <Link key={N} className={lesson === N ? styles.activeLink : styles.Link} href={ lesson === N ? pathname + '?' + createQueryString('lesson', 'none') : pathname + '?' + createQueryString('lesson', N)}><div>{N + ' пара'}</div></Link>
                     ))}
             </div>
         </>

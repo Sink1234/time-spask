@@ -136,6 +136,7 @@
         width: calc((100vw - 100px) / 4);
         background: none;
         height: fit-content;
+        margin: 5px;
     }
     .box_full span{
         display: block;

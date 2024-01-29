@@ -18,16 +18,24 @@ export default function RoomPage({
   }){
 
     const query = searchParams
-    const data = Timetable.teacher.roomName()
+    const day = query ? query.day ? query.day : '1' : '1'
+    const lesson = query ? query.lesson ? query.lesson : 'none' : "none"
+
+    
+    const data = lesson === 'none' ? (
+        Timetable.teacher.roomName()
+    ) : (
+        Timetable.teacher.getListEmptyRoom(day)[Number(lesson) - 1]
+    )
+
     data.sort((a, b) => a - b)
     console.log(data)
 
     return(
         <PageWrapper >
             <h2 className={styels.h2}>Поиск по кабинетам</h2>
-
             <section className={montserrat.className}>
-                <Room data = {data} query={query}/>
+                <Room data = {data} day = {day} lesson = {lesson} />
             </section>
         </PageWrapper>
     )
