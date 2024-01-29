@@ -28,9 +28,9 @@ const Card= ({N, data, pageFor}: ILessonSingle) => {
     const NoN = "------------"
     const lessonName = data[0] ? data[0].lessonPart.name : NoN
     const teacherName = data[0]  ? (pageFor === 'group' ? (data[0].lessonPart.teacher) : (data[0].groupName)) : NoN
-    const room = data[0]  ? data[0].lessonPart.auditorium?.number : "Нет данных"
+    const room = data[0]  ? data[0].lessonPart.auditorium?.number ? data[0].lessonPart.auditorium?.number : "Нет данных" : "Нет данных"
+    const secondRoom = data[1] ? data[1].lessonPart.auditorium?.number ? data[1].lessonPart.auditorium?.number : "Нет данных" : "Нет данных"
     const Building = data[0] ? data[0].lessonPart.auditorium?.building : NoN
-    data[1] ? console.log(data[1]) : console.log(NoN)
     return(
         <>
                 { data.length < 2 ? (
@@ -63,7 +63,7 @@ const Card= ({N, data, pageFor}: ILessonSingle) => {
                         <span className={styles.box}>
                             <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
                             <div className={styles.lesson}><span>{lessonName }</span><span> | </span>{teacherName + ', ' + data[1].lessonPart.teacher}</div>
-                            <div className={styles.room}><span>{room + ', ' + data[1].lessonPart.auditorium?.number + " "}</span><div>{Building                                                        }</div></div>
+                            <div className={styles.room}><span>{room + ', ' + secondRoom + " "}</span><div>{Building}</div></div>
                         </span>
                     </div>
                 )}

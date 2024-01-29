@@ -1,0 +1,37 @@
+.sticky{
+    border-radius: 42px 42px 0 0;
+    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+    height: 120px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100vw - 32px);
+}
+
+.right{
+    height: 74px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: end;
+}
+
+.right svg{
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+}
+
+.right p{
+    color: #D1D1D1;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 142.1%;
+}

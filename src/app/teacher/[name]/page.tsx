@@ -1,5 +1,5 @@
 import {Montserrat} from "next/font/google"
-import Home from "@/components/Home-mobile/Home"
+import Home from "@/components/Home/Home"
 import Timetable from '@/lib/data'
 
 const montserrat = Montserrat({
@@ -15,7 +15,12 @@ export default function teacherPage(
     return (
         <section>
             <div className={montserrat.className}>
-                <Home data={data} pageFor='teacher'/>
+            {data.length ? (
+                    <Home data={data} pageFor='teacher'/>
+                ) : (
+                    <h2>Нет занятий</h2>
+                )}
+                
             </div>
         </section>
     )

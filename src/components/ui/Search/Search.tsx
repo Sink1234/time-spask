@@ -1,6 +1,6 @@
 "use client"
 import {usePathname, useRouter, useSearchParams} from "next/navigation";
-import {ChangeEvent, useEffect, useRef, useState} from "react"
+import {ChangeEvent, useCallback, useEffect, useRef, useState} from "react"
 import type {KeyboardEvent, FC} from "react"
 import {useDebouncedCallback} from "use-debounce";
 import Image from "next/image";
@@ -35,17 +35,29 @@ const Search: FC<IProps> = ({setStatus}) => {
     const inputRef = useRef<HTMLInputElement>(null)
     const page = useSearchParams();
     const pathname = usePathname();
-    const {replace} = useRouter();
+    const {replace, push} = useRouter();
+
+    const [href, setHref] = useState(pathname)
+    useEffect(() => {
+        pathname === href
+            ? ''
+            : setHref(pathname)
+    }, [pathname])
 
     function handleChangeInputValue(event: ChangeEvent<HTMLInputElement>) {
         const value = event.target.value;
         setInputValue(value);
         handleSearch(value);
     }
+    
 
     function handleChangeSearch() {
         setActive(active => !active);
+        useCallback(() => {
+            replace(`${pathname}#now`)
+        }, [href, active])
     }
+
 
     function handleCloseSearch() {
         setData([]);
@@ -122,7 +134,7 @@ const Search: FC<IProps> = ({setStatus}) => {
                         <ul className={styles.list}>
                             {data.map((value, index) => (
                                 <Link key={index}
-                                      href={`/${value.type === Type.Teacher ? "teacher" : "group"}/${value.name}`}
+                                      href={`/${value.type === Type.Teacher ? "teacher" : "group"}/${value.name}/#now`}
                                       className={styles.link}
                                       onClick={handleChangeSearch}>
                                     <li className={styles.item}>

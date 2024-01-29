@@ -1,13 +1,13 @@
 "use client"
 
-import {useEffect, useRef, useState, Suspense} from "react"
-import {usePathname, useRouter} from "next/navigation"
+import { useRef, useState, Suspense, useEffect} from "react"
 import Image from "next/image"
 import font from 'next/font/local'
 import PageWrapper from "@/components/PageWrapper"
 import Search from "@/components/ui/Search/Search"
 import styles from './Header.module.css'
 import classNames from "@/lib/classNames";
+import Link from "next/link"
 
 const myFont = font({src: './PT Sans Pro Extra Condensed Light.otf'})
 
@@ -17,42 +17,22 @@ const Navbar = ({searchParams,}: {
         page?: string;
     };
 }) => {
-    const [click, setClick] = useState(false)
+    
     const [open, setOpen] = useState(false);
     const [search, setSearch] = useState(false)
-
     const divRef = useRef<HTMLDivElement>(null)
-
-    const pathname = usePathname()
-    const router = useRouter()
-
-    const [href, setHref] = useState(pathname)
-    useEffect(() => {
-        pathname === href
-            ? ''
-            : setHref(pathname)
-    }, [pathname])
-
-    useEffect(() => {
-        setSearch(false);
-        router.push(`${pathname}#now`)
-
-    }, [href])
-
 
     const MobMenu = () => {
         setOpen(!open);
-        setClick(true)
     };
 
     function setStatusSearch(value: boolean) {
-        setClick(value)
         setSearch(value)
         // setOpen(value)
     }
     return (
         <div className={styles.sticky} ref={divRef}>
-            <header>
+            <header id="nav">
                 <PageWrapper>
                     <Suspense>
                         <div className={styles.flex}>
@@ -63,13 +43,11 @@ const Navbar = ({searchParams,}: {
                                        alt="Логотип СПАСКа"
                                        priority
                                        className={
-                                           click
-                                               ? (
+                                           
                                                    search
                                                        ? styles.disImg
                                                        : styles.image
-                                               )
-                                               : styles.not_animImage
+                                               
                                        }/>
                                 <span className={styles.v_line}/>
                                 <p className={myFont.className}>Расписание занятий</p>
@@ -79,13 +57,11 @@ const Navbar = ({searchParams,}: {
                                 <Search setStatus={setStatusSearch}/>
                                 <button
                                     className={
-                                        click
-                                            ? (
+                                        
                                                 search
                                                     ? styles.disBurger
                                                     : styles.burger
-                                            )
-                                            : styles.not_animBurger}
+                                            }
                                     onClick={MobMenu}
                                     style={
                                         {color: "white"}
@@ -131,6 +107,47 @@ const Navbar = ({searchParams,}: {
                     </Suspense>
                 </PageWrapper>
             </header>
+            {open && (
+            <div className={styles.mob_menu}>
+              <button className={styles.burger} onClick={MobMenu}>
+                <span className={styles.nav}>
+                  <div
+                    className={styles.open}
+                    style={{
+                      border: "1px solid white",
+                      width: 50,
+                      height: 0,
+                      marginTop: 5,
+                      transform: "rotateZ(45deg)",
+                    }}
+                  />
+                  <div
+                    style={{
+                      border: "1px solid white",
+                      width: 50,
+                      height: 0,
+                      marginTop: -1,
+                      transform: "rotateZ(-45deg)",
+                    }}
+                  />
+                </span>
+              </button>
+              <div>
+                <Link
+                  onClick={MobMenu}
+                  href="/"
+                >
+                  Главная
+                </Link>
+                <Link
+                  onClick={MobMenu}
+                  href="/room"
+                >
+                  Поиск по кабинетам
+                </Link>
+              </div>
+            </div>
+          )}
         </div>
     )
 }
