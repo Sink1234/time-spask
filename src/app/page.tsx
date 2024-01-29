@@ -33,7 +33,7 @@ export default async function HomePage() {
   
   return (
     <div className={montserrat.className}>
-      <PageWrapper >
+      
         <section className={styles.section}>
           <h1>
             Как пользоваться сайтом-расписание <span>СПАСК</span>а?
@@ -69,7 +69,6 @@ export default async function HomePage() {
             
           </div>
         </section>
-      </PageWrapper>
     </div>
   )
 }

@@ -118,6 +118,15 @@ class TimetableTeachers {
         )
     }
 
+    searchByNameDayLesson(nameTeacher: string, day: string, lesson: string) {
+        return this.dataset.filter(
+            (value) =>
+            value.lessonPart.teacher === nameTeacher
+                && value.timetableNumber === day
+                && value.lessonNumber === lesson
+        )
+    }
+
     groupName() {
         return Array.from(
             new Set(
@@ -132,6 +141,15 @@ class TimetableTeachers {
         return this.dataset.filter(
             (value) =>
                 value.groupName === nameGroup
+        )
+    }
+
+    searchByGroupDayLesson(nameGroup: string, day: string, lesson: string) {
+        return this.dataset.filter(
+            (value) =>
+                value.groupName === nameGroup
+                && value.timetableNumber === day
+                && value.lessonNumber === lesson
         )
     }
 

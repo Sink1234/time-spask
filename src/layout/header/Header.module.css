@@ -1,11 +1,22 @@
 .sticky{
-    display: flex;
-    position: static;
-    background-color: var(--blue);
-    color: var(--white);
-    height: 120px;
     border-radius: 0 0 42px 42px;
+    background-color: var(--blue);
+    display: flex;
     align-items: center;
+    height: 120px;
+    overflow: visible;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100vw - 32px);
+    max-width: 1140px;
+    margin: 0 16px;
+    color: var(--white);
+    height: 70px;
 }
 
 .sticky header{
@@ -17,11 +28,9 @@
     height: 70px;
     transition: .6s;
     opacity: 1;
-}
-
-.image {
     color: white;
 }
+
 .disImg{
     width: 40px;
     height: 40px;
@@ -30,32 +39,22 @@
     opacity: 0;
 }
 
-.flex{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    overflow: visible;
-}
-
 .left{
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.not_animBurger{
-    opacity: 1;
-}
 .burger{
     opacity: 1;
-    animation: opacityF .5s ease-in-out;
+    margin-right: 0;
+    transition: .5s;
 }
 .disBurger{
-    z-index: 0;
+    z-index: -1;
     margin-right: 15px;
     opacity: 0;
-    animation: opacityT .2s ease-in-out;
+    transition: .5s;
 }
 
 .left span{
@@ -77,6 +76,7 @@
     gap: 20px;
     flex-direction: row;
     align-items: center;
+    height: 70px;
 }
 
 /*.right img{*/
@@ -237,26 +237,6 @@
     }
 }
 
-@keyframes  opacityF {
-    0%{
-        opacity: 0;
-        margin-right: 8px
-    }
-    100%{
-        opacity: 1;
-    }
-}
-@keyframes  opacityT {
-    0%{
-        opacity: 1;
-        margin-right: -15px;
-    }
-    100%{
-        opacity: 0;
-        margin-right: 12px
-    }
-}
-
 @keyframes display {
     0%{
         display: block;
@@ -345,7 +325,7 @@
 
 
 
-.mob_menu {
+.mob_menu{
     width: 100vw;
     max-width: 600px;
     position: fixed;
@@ -358,36 +338,65 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    animation-name: menu;
-    animation-duration: 0.7s;
-    transition: .5s;
     overflow: hidden;
+    transition: .6s;
+}
+
+.mob_menuClose{
+    position: fixed;
+    height: 100vh;
+    max-width: 600px;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    width: 0vw;
+    transition: .6s;
+    opacity: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mob_menuClose div, .mob_menuClose a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    opacity: 0;
+    transition: .6s;
 }
 
 .mob_menu div {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: end;
     color: white;
+    opacity: 1;
+    transition: .6s;
 }
 
 .mob_menu a {
     color: white;
+    opacity: 1;
+    transition: .8s;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.mob_menuClose a{
+    transition: .6s;
+    text-decoration: none;
+    padding: 0px;
+    margin: -5px;
+    transition: .8s;
 }
 
 .mob_menu a:hover {
     text-decoration: underline;
     color: white;
-}
-
-.mob_menu .active {
-    text-decoration: underline;
-    color: white;
-}
-
-.mob_menu .active:hover {
-    cursor: default;
 }
 
 .mob_menu .info {
@@ -407,7 +416,15 @@
     top: 50px;
     background-color: var(--blue);
     opacity: 1;
-    animation: opacity 0.6s;
+    transition: .7s;
+}
+.mob_menuClose .burger{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    background-color: var(--blue);
+    opacity: 0;
+    transition: .7s;
 }
 
 .mob {
@@ -427,31 +444,19 @@
     margin-top: -5px;
 }
 
-
-@keyframes menu {
-    0% {
-        width: 0;
-    }
-
-    70% {
-        width: 90vw;
-    }
-
-    80% {
-        width: 98vw;
-    }
-
-    100% {
-        width: 100vw;
+@media(min-width:1140px) {
+    .flex{
+        margin: 0 auto;
     }
 }
+
 
 @keyframes opacity {
     0% {
         opacity: 0;
     }
 
-    80% {
+    50% {
         opacity: 0;
     }
 

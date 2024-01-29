@@ -129,7 +129,7 @@ const Search: FC<IProps> = ({setStatus}) => {
                         onKeyDown={handleKeyPress}
                     />
                 </div>
-                {active && data.length > 0 && <div className={styles.result}>
+                <div className={active && data.length > 0 ? styles.resultActive : styles.result}>
                     <div className={styles["result__wrapper"]}>
                         <ul className={styles.list}>
                             {data.map((value, index) => (
@@ -145,7 +145,7 @@ const Search: FC<IProps> = ({setStatus}) => {
                         </ul>
                     </div>
                 </div>
-                }
+                
             </div>
         </div>
     );

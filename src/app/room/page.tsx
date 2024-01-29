@@ -2,7 +2,7 @@ import {Montserrat} from "next/font/google"
 import PageWrapper from '@/components/PageWrapper'
 import Room from '@/components/Room/Room'
 import Timetable from '@/lib/data'
-import styels from './page.module.css'
+import styles from './page.module.css'
 
 const montserrat = Montserrat({
     variable: '--font-montserrat',
@@ -32,11 +32,11 @@ export default function RoomPage({
     console.log(data)
 
     return(
-        <PageWrapper >
-            <h2 className={styels.h2}>Поиск по кабинетам</h2>
-            <section className={montserrat.className}>
-                <Room data = {data} day = {day} lesson = {lesson} />
-            </section>
-        </PageWrapper>
+            <div className={montserrat.className}>
+                <section className={styles.section}>
+                    <h2 className={styles.h2}>Поиск по кабинетам</h2>
+                    <Room data = {data} day = {day} lesson = {lesson} />
+                </section>
+            </div>
     )
 }
