@@ -2,6 +2,7 @@
     max-width: 1140px;
     margin: 0 16px;
     box-sizing: content-box;
+    overflow-y: hidden;
 }
 
 @media(min-width:1140px) {
