@@ -1,11 +1,24 @@
-import {Montserrat} from "next/font/google"
 import Home from "@/components/Home/Home"
 import Timetable from '@/lib/data'
+import { Metadata, ResolvingMetadata } from "next"
 
-const montserrat = Montserrat({
-    variable: '--font-montserrat',
-    subsets: ['latin'],
-});
+
+type Props = {
+    params: { name: string }
+    searchParams: { [key: string]: string | string[] | undefined }
+  }
+
+export async function generateMetadata(
+    { params, searchParams }: Props,
+    parent: ResolvingMetadata
+  ): Promise<Metadata> {
+    // read route params
+    const id = decodeURIComponent(params.name)
+    return {
+      title: `Расписание ${id}`,
+    }
+  }
+  
 
 export default function teacherPage(
     req: { params: { name: string } }
@@ -14,7 +27,7 @@ export default function teacherPage(
     const data = Timetable.teacher.searchByName(id)
     return (
         <section>
-            <div className={montserrat.className}>
+            <div>
             {data.length ? (
                     <Home data={data} pageFor='teacher'/>
                 ) : (

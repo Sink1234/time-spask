@@ -2,16 +2,12 @@ import 'server-only'
 import { Welcome, YhZav } from '@/interfaces'
 import fs from "fs"
 import { parseString } from 'xml2js'
-import { Montserrat } from "next/font/google"
 import path from 'path';
 import PageWrapper from '@/components/PageWrapper'
 import styles from './page.module.css'
 
 
-const montserrat = Montserrat({ 
-    variable: '--font-montserrat',
-    subsets: ['latin'],
-})
+
 
 const getDataPath = (filename: string) => path.join(process.cwd(),'src', 'lib', 'data', filename);
 const getXMLPath = (filename: string) => path.join(process.cwd(), 'public', filename); 
@@ -32,8 +28,7 @@ export default async function HomePage() {
   const data: Welcome = JSON.parse(fs.readFileSync(getDataPath(`data.json`), 'utf-8'))
   
   return (
-    <div className={montserrat.className}>
-      
+    <div>
         <section className={styles.section}>
           <h1>
             Как пользоваться сайтом-расписание <span>СПАСК</span>а?
@@ -63,10 +58,6 @@ export default async function HomePage() {
               <li>Поиск по кабинетам</li>
               <li>Рабочая неделя, которая сейчас на сайте</li>
             </ul>
-            
-            
-            
-            
           </div>
         </section>
     </div>
