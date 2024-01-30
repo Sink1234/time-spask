@@ -3,6 +3,7 @@
     margin: 0 16px;
     box-sizing: content-box;
     overflow: hidden;
+    min-height: calc(100vh - 230px);
 }
 
 @media(min-width:1140px) {
