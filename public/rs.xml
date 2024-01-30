@@ -3245,14 +3245,10 @@
 <Part N="1">
 <Name>Системы Автоматизированного Проектирования</Name>
 <Teacher>Петрова Н С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Системы Автоматизированного Проектирования</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="418)" Building="Главный корпус">
-</Auditorium>
+<Teacher>Петрова Н С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3434,7 +3430,9 @@
 </Part>
 <Part N="2">
 <Name>Системы Автоматизированного Проектирования</Name>
-<Teacher>Свириденко Ж Л</Teacher>
+<Teacher>Петрова Н С</Teacher>
+<Auditorium Number="418" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -3620,7 +3618,7 @@
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
+<Teacher>Эрендженов А А</Teacher>
 <Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -3776,7 +3774,9 @@
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
+<Teacher>Петрова Н С</Teacher>
+<Auditorium Number="418" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4096,7 +4096,9 @@
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
+<Teacher>Петрова Н С</Teacher>
+<Auditorium Number="418" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
