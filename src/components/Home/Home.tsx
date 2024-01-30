@@ -3,6 +3,7 @@ import PageWrapper from '../PageWrapper'
 import styles from './Home.module.css'
 import Day from "../ui/timetable/Day"
 import Link from "next/link"
+import { Suspense } from "react"
 
 
 interface IData{

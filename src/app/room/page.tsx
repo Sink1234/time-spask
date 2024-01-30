@@ -1,13 +1,12 @@
-import {Montserrat} from "next/font/google"
-import PageWrapper from '@/components/PageWrapper'
 import Room from '@/components/Room/Room'
 import Timetable from '@/lib/data'
 import styles from './page.module.css'
 
-const montserrat = Montserrat({
-    variable: '--font-montserrat',
-    subsets: ['latin'],
-});
+export async function generateMetadata() {
+    return {
+      title: `Поиск по кабинетам`,
+    }
+  }
 
 export default function RoomPage({
     params,
@@ -32,7 +31,7 @@ export default function RoomPage({
     console.log(data)
 
     return(
-            <div className={montserrat.className}>
+            <div>
                 <section className={styles.section}>
                     <h2 className={styles.h2}>Поиск по кабинетам</h2>
                     <Room data = {data} day = {day} lesson = {lesson} />
