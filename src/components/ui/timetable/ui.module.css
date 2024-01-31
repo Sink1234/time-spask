@@ -157,8 +157,23 @@
     text-transform: lowercase;
 }
 
+.card .box .lesson span:first-child{
+    width: fit-content;
+    max-width: 173px;
+}
+
 .card .box .lesson span:first-letter{
     text-transform: uppercase;
+}
+
+.card .box .lesson p{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis
+}
+
+.card .box .lesson section{
+    gap: 2px;
 }
 
 .card .box .room{

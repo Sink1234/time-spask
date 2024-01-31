@@ -39,7 +39,7 @@ const Card= ({N, data, pageFor}: ILessonSingle) => {
                             <div className={styles.card}> 
                                 <span className={styles.box}>
                                     <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                                    <div className={styles.lesson}><span>{lessonName }</span><span> | </span>{teacherName}</div>
+                                    <div className={styles.lesson}><span>{lessonName }</span><span> | </span><p>{teacherName}</p></div>
                                     <div className={styles.room}><span>{room}</span><div>{Building}</div></div> 
                                 </span>
                             </div>
@@ -49,7 +49,7 @@ const Card= ({N, data, pageFor}: ILessonSingle) => {
                         <div className={styles.card}>
                             <span className={styles.box}>
                                 <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                                <div className={styles.lesson}><span>{lessonName }</span><span> | </span>{teacherName}</div>
+                                <div className={styles.lesson}><span>{lessonName }</span><span> | </span><p>{teacherName}</p></div>
                                 <div className={styles.room}><span>{room}</span><div>{Building}</div></div> 
                             </span>
                         </div> ) : (
@@ -62,7 +62,7 @@ const Card= ({N, data, pageFor}: ILessonSingle) => {
                     <div className={styles.card}>
                         <span className={styles.box}>
                             <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                            <div className={styles.lesson}><span>{lessonName }</span><span> | </span>{teacherName + ', ' + data[1].lessonPart.teacher}</div>
+                            <div className={styles.lesson}><span>{lessonName }</span><span> | </span><section><p>{teacherName + ', '}</p><p>{data[1].lessonPart.teacher}</p></section></div>
                             <div className={styles.room}><span>{room + ', ' + secondRoom + " "}</span><div>{Building}</div></div>
                         </span>
                     </div>
