@@ -16,7 +16,7 @@ export default function RoomPage(){
     return(
             <div>
                 <section className={styles.section}>
-                    <h2 className={styles.h2}>Кабинеты по преподавателям</h2>
+                    <h2 className={styles.h2}>Кабинеты по группам</h2>
                     <Suspense>
                         <Table data = {data}  pageFor="group"/>
                     </Suspense>
