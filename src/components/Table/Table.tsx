@@ -38,18 +38,22 @@ const Table = ({data, pageFor}: ITable ) => {
     }
 
     return (
-        <section className={pageFor === 'group' ? styles.tableGroup : styles.table}>
-            {data.map((data) => (
-            <div key={data}>
-                <span >{data}</span>
-                {numberLesson.map((N) => (
-                    <span className={styles.room} key={N}>{getRoom(data, day, N, pageFor)[0] ? getRoom(data, day, N, pageFor)[0].lessonPart.auditorium?.number : ''}
-                    {getRoom(data, day, N, pageFor)[1] ? ', ' + getRoom(data, day, N, pageFor)[1].lessonPart.auditorium?.number : ''}</span>
-                    
+        <div>
+            <h3 className={styles.h3}>{timeNow}</h3>
+            <section className={pageFor === 'group' ? styles.tableGroup : styles.table}>
+                {data.map((data) => (
+                <div key={data}>
+                    <span >{data}</span>
+                    {numberLesson.map((N) => (
+                        <span className={styles.room} key={N}>{getRoom(data, day, N, pageFor)[0] ? getRoom(data, day, N, pageFor)[0].lessonPart.auditorium?.number : ''}
+                        {getRoom(data, day, N, pageFor)[1] ? ', ' + getRoom(data, day, N, pageFor)[1].lessonPart.auditorium?.number : ''}</span>
+
+                    ))}
+                </div>
                 ))}
-            </div>
-            ))}
-        </section>
+            </section>
+        </div>
+        
     )
 }
 
