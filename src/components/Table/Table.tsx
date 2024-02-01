@@ -19,7 +19,7 @@ const Table = ({data, pageFor, week}: ITable) => {
         }
     }
     return (
-        <div>
+        <div className={styles.wrapper}>
             <h3 className={styles.h3}>{timeNow}</h3>
             <section className={pageFor === 'group' ? styles.tableGroup : styles.table}>
                 {data.map((data) => (

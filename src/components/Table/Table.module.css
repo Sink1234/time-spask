@@ -1,4 +1,4 @@
-.h3{
+.h3 {
     color: #5A5A5A;
     font-size: 23px;
     font-style: normal;
@@ -6,11 +6,12 @@
     margin-bottom: 30px;
 }
 
-.h3::first-letter{
+.h3::first-letter {
     text-transform: uppercase;
 }
 
-.table{
+
+.table, .tableGroup {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -18,7 +19,7 @@
     max-width: 600px;
 }
 
-.table div{
+.table div, .tableGroup div {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -26,13 +27,27 @@
     align-items: center;
 }
 
-.table div span{
+.table div span,
+.tableGroup div span {
     width: 100%;
     height: 100%;
+}
+
+.table div span {
     min-height: 29px;
 }
 
-.table div span:first-child{
+/*     group      */
+.tableGroup {
+    padding-bottom: 10px;
+}
+
+.tableGroup div span {
+    min-height: 20px;
+}
+
+.table div span:first-child,
+.tableGroup div span:first-child {
     color: #5A5A5A;
     font-size: 14px;
     font-style: normal;
@@ -44,7 +59,11 @@
     flex-basis: 250%;
 }
 
-.room{
+.tableGroup div span:first-child {
+    flex-basis: 110%;
+}
+
+.room {
     color: #FFF;
     font-size: 14px;
     font-style: normal;
@@ -57,50 +76,31 @@
     padding: 5px 2px;
 }
 
-
-
-
-/*     group      */
-
-
-
-.tableGroup{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    gap: 5px;
-    max-width: 600px;
-    padding-bottom: 10px;
-}
-
-.tableGroup div{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    gap: 5px;
-    align-items: center;
-}
-
-.tableGroup div span{
-    width: 100%;
-    height: 100%;
-    min-height: 20px;
-}
-
-.tableGroup div span:first-child{
-    color: #5A5A5A;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 140%;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    flex-basis: 110%;
-}
-
-.tableGroup .room{
+.tableGroup .room {
     text-align: center;
     height: 29px;
-    padding: 5px 2px;
+}
+
+
+@media print {
+    .wrapper {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .tableGroup, .table {
+        width: 100%;
+    }
+    .tableGroup div, .table div {
+        border-bottom: 1px solid black;
+    }
+    .room {
+        background: white;
+        color: black;
+    }
+
+    .h3 {
+        margin-bottom: 10px;
+    }
 }
