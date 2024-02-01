@@ -1,5 +1,5 @@
 import styles from './ui.module.css'
-import { ITimetableTeachers } from "@/lib/data";
+import type {ITimetableTeachers} from "@/interfaces/timetable";
 
 interface ILessonSingle{
     N: string,

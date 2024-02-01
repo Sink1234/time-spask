@@ -1,4 +1,4 @@
-import { ITimetableTeachers } from "@/lib/data";
+import type {ITimetableTeachers} from "@/interfaces/timetable";
 import styles from './ui.module.css'
 import Timetable from '@/lib/data'
 import Card from "./Card";
