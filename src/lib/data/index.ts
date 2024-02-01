@@ -111,8 +111,8 @@ class TimetableTeachers {
     }
 
     filterTeachersNotHavePairs(day: string) {
-        const dataDay = this.dataset.filter(v => v.timetableNumber === day)
-        const teachers = dataDay.reduce(
+        const data = this.dataset.filter(v => v.timetableNumber === day)
+        const teachers = data.reduce(
             (previousValue, currentValue) => {
                 const name = currentValue.lessonPart.teacher
                 const number = currentValue.lessonPart.auditorium?.number
@@ -132,6 +132,31 @@ class TimetableTeachers {
         )
         return (name: string) => {
             return teachers?.[name]?.length > 0
+        }
+    }
+
+    filterGroupNotHavePairs (day: string) {
+        const data = this.dataset.filter(v => v.timetableNumber === day)
+        const groups = data.reduce(
+            (previousValue, currentValue) => {
+                const name = currentValue.groupName
+                const number = currentValue.lessonPart.auditorium?.number
+                if (!number) return previousValue
+
+                if (previousValue[name]) {
+                    previousValue[name].push(number)
+                } else {
+                    previousValue[name] = [number]
+                }
+                if (name === "Сущик Е В"){
+                    console.log(previousValue)
+                }
+                return previousValue
+            },
+            {} as { [key: string]: string[] }
+        )
+        return (name: string) => {
+            return groups?.[name]?.length > 0
         }
     }
 
