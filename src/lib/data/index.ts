@@ -1,85 +1,8 @@
 import db from './data.json'
-import {
-    Group,
-    YhZav,
-    DayElement,
-    Lesson,
-    Part,
-    AuditoriumElement,
-} from "@/interfaces";
-
-interface IListGroup {
-    name: string;
-    timetable?: ITimetable[];
-}
-
-interface ITimetable {
-    number: string;
-    lesson: ILesson[];
-}
-
-interface ILesson {
-    number: string;
-    part: IPart[];
-}
-
-interface IPart {
-    number: string;
-    name: string;
-    teacher: string;
-    auditorium?: IAuditorium;
-}
-
-interface IAuditorium {
-    number: string;
-    building: string;
-}
-
-export interface ITimetableTeachers {
-    lessonPart: IPart; //Данные пары
-    groupName: string;//Имя группы
-    lessonNumber: string; //Какая по счету пара
-    timetableNumber: string; //День недели
-}
-
-function getListGroup(data: Group[]): IListGroup[] {
-    return data.map((value) => ({
-        name: value.$.Name,
-        timetable: getListTimeTable(value.Timetable?.[0].Day)
-    }));
-}
-
-function getListTimeTable(data: DayElement[] | undefined) {
-    if (!data) return undefined;
-    return data.map((value) => ({
-        number: value.$.N,
-        lesson: getListLesson(value.Lesson)
-    }));
-}
-
-function getListLesson(data: Lesson[]) {
-    return data.map((value) => ({
-        number: value.$.N,
-        part: value.Part.map(value => getPart(value))
-    }));
-}
-
-function getPart(data: Part) {
-    return {
-        number: data.$.N,
-        name: data.Name[0],
-        teacher: data.Teacher[0],
-        auditorium: getAuditorium(data.Auditorium?.[0])
-    };
-}
-
-function getAuditorium(data: AuditoriumElement | undefined) {
-    if (!data) return undefined;
-    return {
-        number: data.$.Number,
-        building: data.$.Building
-    };
-}
+import dbRoom from './roomNames.json'
+import {type YhZav} from "@/interfaces";
+import type {IListGroup, ITimetableTeachers} from "@/interfaces/timetable";
+import {getListGroup} from "@/app/api/timetable/utils";
 
 class TimetableTeachers {
     public dataset: ITimetableTeachers[];
@@ -121,7 +44,7 @@ class TimetableTeachers {
     searchByNameDayLesson(nameTeacher: string, day: string, lesson: string) {
         return this.dataset.filter(
             (value) =>
-            value.lessonPart.teacher === nameTeacher
+                value.lessonPart.teacher === nameTeacher
                 && value.timetableNumber === day
                 && value.lessonNumber === lesson
         )
@@ -154,19 +77,20 @@ class TimetableTeachers {
     }
 
     roomName() {
-        return Array.from(
-            new Set(
-                this.dataset.reduce((previousValue, currentValue) => {
-                    if (currentValue.lessonPart.auditorium) {
-                        const number = Number(currentValue.lessonPart.auditorium.number)
-                        if (!isNaN(number))
-                            previousValue.push(number)
-                    }
-
-                    return previousValue
-                }, [] as number[])
-            )
-        )
+        return dbRoom
+        // return Array.from(
+        //     new Set(
+        //         this.dataset.reduce((previousValue, currentValue) => {
+        //             if (currentValue.lessonPart.auditorium) {
+        //                 const number = Number(currentValue.lessonPart.auditorium.number)
+        //                 if (!isNaN(number))
+        //                     previousValue.push(number)
+        //             }
+        //
+        //             return previousValue
+        //         }, [] as number[])
+        //     )
+        // )
     }
 
     searchByRoom(nameRoom: number) {
@@ -176,14 +100,39 @@ class TimetableTeachers {
         )
     }
 
-    searchByRoomsPart(nameRoom: number, day: string, lesson: string) {
+    searchByRoomsPart(nameRoom: string, day: string, lesson: string) {
         return this.dataset.filter(
             (value) =>
                 value.lessonPart.auditorium
-                && value.lessonPart.auditorium.number === String(nameRoom)
-                && value.timetableNumber === String(day)
-                && value.lessonNumber === String(lesson)
+                && value.lessonPart.auditorium.number === nameRoom
+                && value.timetableNumber === day
+                && value.lessonNumber === lesson
         )
+    }
+
+    filterTeachersNotHavePairs(day: string) {
+        const dataDay = this.dataset.filter(v => v.timetableNumber === day)
+        const teachers = dataDay.reduce(
+            (previousValue, currentValue) => {
+                const name = currentValue.lessonPart.teacher
+                const number = currentValue.lessonPart.auditorium?.number
+                if (!number) return previousValue
+
+                if (previousValue[name]) {
+                    previousValue[name].push(number)
+                } else {
+                    previousValue[name] = [number]
+                }
+                if (name === "Сущик Е В"){
+                    console.log(previousValue)
+                }
+                return previousValue
+            },
+            {} as { [key: string]: string[] }
+        )
+        return (name: string) => {
+            return teachers?.[name]?.length > 0
+        }
     }
 
     getListEmptyRoom(day: string) {
@@ -196,7 +145,7 @@ class TimetableTeachers {
                                 value.lessonNumber === lesson
                                 && value.timetableNumber === day
                         )
-                        .map(value => Number(value.lessonPart.auditorium?.number))
+                        .map(value => value.lessonPart.auditorium?.number)
                         .filter(value => value)
             )
             .map(

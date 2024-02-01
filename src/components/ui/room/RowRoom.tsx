@@ -5,7 +5,7 @@ import styles from './uiRoom.module.css'
 import { useState } from "react"
 
 interface IRowRoom{
-    room: number,
+    room: string,
     day: string,
 }
 

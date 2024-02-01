@@ -27,7 +27,7 @@ export default function RoomPage({
         Timetable.teacher.getListEmptyRoom(day)[Number(lesson) - 1]
     )
 
-    data.sort((a, b) => a - b)
+    data.sort() //(a, b) => a - b
     console.log(data)
 
     return(
