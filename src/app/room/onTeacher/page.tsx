@@ -13,7 +13,7 @@ export async function generateMetadata() {
 export default function RoomPage() {
 
     const week = getWeek();
-    const data = Timetable.teacher.listName().filter(Timetable.teacher.filterGroupNotHavePairs(week[1]));
+    const data = Timetable.teacher.listName().filter(Timetable.teacher.filterTeachersNotHavePairs(week[1]));
     data.sort(function (a, b) {
         if (a > b) {
             return 1;
