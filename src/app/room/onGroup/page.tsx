@@ -3,6 +3,7 @@ import styles from './page.module.css'
 import Table from "@/components/Table/Table"
 import {Suspense} from "react"
 import {getWeek} from "@/lib/date";
+import ButtonPrint from "@/components/ui/Button/ButtonPrint";
 
 export async function generateMetadata() {
     return {
@@ -19,7 +20,8 @@ export default function RoomPage() {
             <section className={styles.section}>
                 <h2 className={styles.h2}>Кабинеты по группам</h2>
                 <Suspense>
-                    <Table data={data} week={week} pageFor="group"/>
+                    <ButtonPrint><Table data={data} week={week} pageFor="group"/></ButtonPrint>
+                    {/*<Table data={data} week={week} pageFor="group"/>*/}
                 </Suspense>
             </section>
         </div>
