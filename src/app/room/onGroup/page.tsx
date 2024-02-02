@@ -10,10 +10,10 @@ export async function generateMetadata() {
         title: `Кабинеты по группам`,
     }
 }
+export const dynamic = 'force-dynamic'
+export default async function RoomPage() {
 
-export default function RoomPage() {
-
-    const week = getWeek();
+    const week = getWeek(new Date());
     const data = Timetable.teacher.groupName().filter(Timetable.teacher.filterGroupNotHavePairs(week[1]));
     return (
         <div>
@@ -21,7 +21,6 @@ export default function RoomPage() {
                 <h2 className={styles.h2}>Кабинеты по группам</h2>
                 <Suspense>
                     <ButtonPrint><Table data={data} week={week} pageFor="group"/></ButtonPrint>
-                    {/*<Table data={data} week={week} pageFor="group"/>*/}
                 </Suspense>
             </section>
         </div>

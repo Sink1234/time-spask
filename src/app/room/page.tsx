@@ -28,7 +28,6 @@ export default function RoomPage({
     )
 
     data.sort() //(a, b) => a - b
-    console.log(data)
 
     return(
             <div>

@@ -1,8 +1,8 @@
-export function getWeek() {
-    const timeNow: string = new Intl.DateTimeFormat("ru", {
-        dateStyle: 'full',
-        timeStyle: 'short'
-    }).format(new Date).split(',')[0];
+export function getWeek(date: Date) {
+    const timeNow: string = new Intl.DateTimeFormat(
+        'ru-RU',
+        {weekday: 'long'}
+    ).format(date);
     const getDay = (dayOfWeek: string) => {
         switch (dayOfWeek) {
             case "понедельник":
