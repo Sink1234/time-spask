@@ -49,7 +49,7 @@
 .table div span:first-child,
 .tableGroup div span:first-child {
     color: #5A5A5A;
-    font-size: 14px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 700;
     line-height: 140%;
@@ -65,7 +65,7 @@
 
 .room {
     color: #FFF;
-    font-size: 14px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 400;
     line-height: 140%;
@@ -73,7 +73,13 @@
     border-radius: 10px;
     text-align: center;
     height: 29px;
-    padding: 5px 2px;
+    padding: 5px 1px;
+}
+
+.tableGroup .room{
+    font-size: 11px;
+    padding: 8px 1px;
+    min-width: 50px;
 }
 
 .tableGroup .room {
@@ -86,21 +92,41 @@
     .wrapper {
         padding: 20px;
         display: flex;
-        flex-direction: column;
+        flex-direction: column; 
         align-items: center;
+        max-height: 100vh; 
     }
     .tableGroup, .table {
+        display: flex;
+        flex-direction: column;
+        align-content: space-between;
+        flex-wrap: wrap;
         width: 100%;
+        max-height: calc(100vh - 50px);
     }
     .tableGroup div, .table div {
+        gap: 2px;
         border-bottom: 1px solid black;
     }
     .room {
+        min-width: 25px;
         background: white;
         color: black;
+    }
+    .table div span:first-child{
+        min-width: 100px;
+    }
+    .tableGroup .room{
+        font-size: 12px;
+        min-width: 48px;
+        padding: 6px 0px;
     }
 
     .h3 {
         margin-bottom: 10px;
+    }
+
+    .tableGroup div span:first-child {
+        flex-basis: 170%;
     }
 }

@@ -9,7 +9,7 @@ interface ITable {
 
 const Table = ({data, pageFor, week}: ITable) => {
     const [timeNow, day] = week;
-    const numberLesson = ['1', '2', '3', '4'];
+    const numberLesson = ['1', '2', '3', '4', '5'];
 
     const getRoom = (name: string, day: string, lesson: string, pageFor: string) => {
         if (pageFor === 'group') {

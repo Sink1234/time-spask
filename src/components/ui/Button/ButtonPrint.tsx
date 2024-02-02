@@ -15,7 +15,7 @@ export default function ButtonPrint({children}:IProps) {
         <div style={{
             display: "flex",
             justifyContent: "center",
-            padding: "20px"
+            padding: "5px"
         }}>
             <ReactToPrint
                 trigger={() => <button style={{padding: "10px", borderRadius: "10px", cursor: "pointer"}}>Распечатать</button>}
