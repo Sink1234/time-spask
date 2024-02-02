@@ -41,8 +41,8 @@
     }
 }
 .search-active {
-    width: calc(100vw - 91px);
-    transform: translateX(44.5px);
+    width: calc(100vw - 70px);
+    transform: translateX(66.5px);
     box-shadow: 0 0 0 6px #fff;
     transition: .6s;
     z-index: 1;
