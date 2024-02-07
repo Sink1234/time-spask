@@ -21,7 +21,7 @@ const nextConfig = {};
 let start = true;
 module.exports = () => {
     if (start) {
-        createDataJsonFile("rs.xml", 'data.json');
+        createDataJsonFile("rs.xml", '../lib/data/data.json');
         createDataJsonFile("rs202356.xml", 'even_data.json');
         createDataJsonFile("rs202355.xml", 'odd_data.json');
         start = false;
