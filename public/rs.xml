@@ -94,8 +94,8 @@
 <Lesson N="3">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
+<Teacher>Степанов В П</Teacher>
+<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2373,22 +2373,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
-<Teacher>Глазова О С</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
@@ -4482,8 +4466,8 @@
 <Lesson N="2">
 <Part N="1">
 <Name>Проект. ж. дома усадебн. типа</Name>
-<Teacher>Глазова О С</Teacher>
-<Auditorium Number="314." Building="Главный корпус">
+<Teacher>Пожарская В В</Teacher>
+<Auditorium Number="314" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4496,8 +4480,8 @@
 <Lesson N="3">
 <Part N="1">
 <Name>Проект. ж. дома усадебн. типа</Name>
-<Teacher>Глазова О С</Teacher>
-<Auditorium Number="314." Building="Главный корпус">
+<Teacher>Пожарская В В</Teacher>
+<Auditorium Number="314" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4845,14 +4829,6 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ЛАНДШАФТ. АРХ.</Name>
-<Teacher>Глазова О С</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Стр.констр.эл.стат</Name>
