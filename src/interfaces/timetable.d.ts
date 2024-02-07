@@ -14,18 +14,18 @@ export interface ILesson {
 }
 
 export interface IPart {
-    number: string;
-    name: string;
-    teacher: string;
+    number: string; //какая по счету пара
+    name: string; //Имя пары
+    teacher: string; //Ф.И.О. учителя
     auditorium?: IAuditorium;
 }
 
 export interface IAuditorium {
-    number: string;
-    building: string;
+    number: string; //Номер кабинета
+    building: string; //Название
 }
 
-export interface ITimetableTeachers {
+export interface ITimetableFlutter {
     lessonPart: IPart; //Данные пары
     groupName: string;//Имя группы
     lessonNumber: string; //Какая по счету пара

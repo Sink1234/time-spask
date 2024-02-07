@@ -1,9 +1,9 @@
 import styles from './ui.module.css'
-import type {ITimetableTeachers} from "@/interfaces/timetable";
+import type {ITimetableFlutter} from "@/interfaces/timetable";
 
 interface ILessonSingle{
     N: string,
-    data: ITimetableTeachers[],
+    data: ITimetableFlutter[],
     pageFor: string
 }
 

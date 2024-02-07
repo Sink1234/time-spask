@@ -39,9 +39,8 @@ const Search: FC<IProps> = ({setStatus}) => {
 
     const [href, setHref] = useState(pathname)
     useEffect(() => {
-        pathname === href
-            ? ''
-            : setHref(pathname)
+        if(pathname !== href)
+            setHref(pathname)
     }, [pathname])
 
     function handleChangeInputValue(event: ChangeEvent<HTMLInputElement>) {

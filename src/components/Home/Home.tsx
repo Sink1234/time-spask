@@ -1,9 +1,9 @@
 import styles from './Home.module.css'
 import Day from "../ui/timetable/Day"
-import type {ITimetableTeachers} from "@/interfaces/timetable";
+import type {ITimetableFlutter} from "@/interfaces/timetable";
 
 interface IData{
-    data:  ITimetableTeachers[]
+    data:  ITimetableFlutter[]
     pageFor: string
 }
 export default async function Home({data, pageFor}: IData) {
@@ -11,7 +11,7 @@ export default async function Home({data, pageFor}: IData) {
     const group = pageFor === 'group' ? data[0].groupName : data[0].lessonPart.teacher
     const days = ['1', '2', '3', '4', '5', '6']
 
-    const filterByDay = (day: string, data:ITimetableTeachers[])=>{
+    const filterByDay = (day: string, data:ITimetableFlutter[])=>{
         return data.filter(
             (value) =>
                 value.timetableNumber === day

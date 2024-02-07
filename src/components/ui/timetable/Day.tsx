@@ -1,11 +1,11 @@
-import type {ITimetableTeachers} from "@/interfaces/timetable";
+import type {ITimetableFlutter} from "@/interfaces/timetable";
 import styles from './ui.module.css'
 import Timetable from '@/lib/data'
 import Card from "./Card";
 
 interface IDaySingle{
     day: string,
-    data: ITimetableTeachers[],
+    data: ITimetableFlutter[],
     pageFor: string
 }
 
@@ -43,7 +43,7 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
         return timeWork
     }
 
-    const filterByLessonN = (N: string, data:ITimetableTeachers[])=>{
+    const filterByLessonN = (N: string, data:ITimetableFlutter[])=>{
         return data.filter(
             (value) =>
                 value.lessonNumber === N

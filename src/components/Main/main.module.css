@@ -1,0 +1,78 @@
+.pt-26px {
+    padding-top: 26px;
+}
+
+.pt-35px {
+    padding-top: 35px;
+}
+
+.pt-14px {
+    padding-top: 14px;
+}
+.mt-16px {
+    margin-top: 16px;
+}
+.pt-42px {
+    padding-top: 42px;
+}
+.mb-50px {
+    margin-bottom: 50px;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.wrapper {
+    margin: 0 16px;
+}
+.title {
+    font-size: 21px;
+    line-height: 26px;
+    font-weight: 700;
+    color: var(--blue);
+}
+input.search {
+    font-size: 12px;
+}
+.group {
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 26px;
+    color: var(--blue);
+}
+
+.group-accent {
+    font-weight: 500;
+}
+
+.table-title {
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    color: var(--grey);
+}
+
+.table-content {
+    margin-top: 26px;
+    padding-bottom: 10px;
+    overflow: auto;
+    text-align: center;
+}
+
+.part_number {
+    padding: 0 16px;
+}
+
+.part_name, .part_teacher {
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.name_part {
+    font-weight: 500;
+}
+
+.table-loading {
+
+}

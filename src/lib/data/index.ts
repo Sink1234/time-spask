@@ -1,27 +1,42 @@
 import db from './data.json'
 import dbRoom from './roomNames.json'
-import {type YhZav} from "@/interfaces";
-import type {IListGroup, ITimetableTeachers} from "@/interfaces/timetable";
-import {getListGroup} from "@/app/api/timetable/utils";
+import {AuditoriumElement, DayElement, Group, Lesson, Part, type YhZav} from "@/interfaces";
+import {IListGroup, ITimetableFlutter} from "@/interfaces/timetable";
 
-class TimetableTeachers {
-    public dataset: ITimetableTeachers[];
+class TimetableGroup {
+    public dataset: IListGroup[];
 
     constructor(listGroup: IListGroup[]) {
-        this.dataset = listGroup.reduce((result, group) => {
-            if (!(group.timetable)) return result;
-            group.timetable.forEach((timetable) =>
-                timetable.lesson.forEach((lesson) =>
-                    lesson.part.forEach((part) => result.push({
-                        lessonPart: part,
-                        groupName: group.name,
-                        lessonNumber: lesson.number,
-                        timetableNumber: timetable.number
-                    }))
-                )
-            );
-            return result;
-        }, [] as ITimetableTeachers[]);
+        this.dataset = listGroup
+    }
+
+    listNameGroup() {
+        return Array.from(new Set(this.dataset.map((group) => group.name)))
+    }
+}
+
+export function flattenArray(listGroup: IListGroup[]) {
+    return listGroup.reduce((result, group) => {
+        if (!(group.timetable)) return result;
+        group.timetable.forEach((timetable) =>
+            timetable.lesson.forEach((lesson) =>
+                lesson.part.forEach((part) => result.push({
+                    lessonPart: part,
+                    groupName: group.name,
+                    lessonNumber: lesson.number,
+                    timetableNumber: timetable.number
+                }))
+            )
+        );
+        return result;
+    }, [] as ITimetableFlutter[])
+}
+
+class TimetableTeachers {
+    public dataset: ITimetableFlutter[];
+
+    constructor(listGroup: IListGroup[]) {
+        this.dataset = flattenArray(listGroup);
     }
 
     listName() {
@@ -123,9 +138,6 @@ class TimetableTeachers {
                 } else {
                     previousValue[name] = [number]
                 }
-                if (name === "Сущик Е В"){
-                    console.log(previousValue)
-                }
                 return previousValue
             },
             {} as { [key: string]: string[] }
@@ -135,21 +147,19 @@ class TimetableTeachers {
         }
     }
 
-    filterGroupNotHavePairs (day: string) {
+    filterGroupNotHavePairs(day: string) {
         const data = this.dataset.filter(v => v.timetableNumber === day)
         const groups = data.reduce(
             (previousValue, currentValue) => {
                 const name = currentValue.groupName
                 const number = currentValue.lessonPart.auditorium?.number
-                if (!number) return previousValue
+                if (!number)
+                    return previousValue
 
                 if (previousValue[name]) {
                     previousValue[name].push(number)
                 } else {
                     previousValue[name] = [number]
-                }
-                if (name === "Сущик Е В"){
-                    console.log(previousValue)
                 }
                 return previousValue
             },
@@ -180,18 +190,62 @@ class TimetableTeachers {
     }
 }
 
+export function getListGroup(data: Group[]): IListGroup[] {
+    return data.map((value) => ({
+        name: value.$.Name,
+        timetable: getListTimeTable(value.Timetable?.[0].Day)
+    }));
+}
+
+function getListTimeTable(data: DayElement[] | undefined) {
+    if (!data) return undefined;
+    return data.map((value) => ({
+        number: value.$.N,
+        lesson: getListLesson(value.Lesson)
+    }));
+}
+
+function getListLesson(data: Lesson[]) {
+    return data.map((value) => ({
+        number: value.$.N,
+        part: value.Part.map(value => getPart(value))
+    }));
+}
+
+function getPart(data: Part) {
+    return {
+        number: fixPartNumber(data.$.N),
+        name: data.Name[0],
+        teacher: data.Teacher[0],
+        auditorium: getAuditorium(data.Auditorium?.[0])
+    };
+}
+function fixPartNumber(number: string){
+    return number.replace(/\.(?=\s*$)/, "")
+}
+
+function getAuditorium(data: AuditoriumElement | undefined) {
+    if (!data) return undefined;
+    return {
+        number: fixPartNumber(data.$.Number),
+        building: data.$.Building
+    };
+}
 function Timetable(data: YhZav) {
+
     const listGroup = getListGroup(data.ListGroup?.[0].Group)
     return {
         year: data.Year[0],
         week: data.Week[0],
         numerator: data.Numerator[0],
-        monday: data.Monday[0],
+        // monday: data.Monday[0],
         work: data.Work[0],
         listGroup: listGroup,
+        group: new TimetableGroup(listGroup),
         teacher: new TimetableTeachers(listGroup)
     }
 }
 
+export {Timetable}
 export default Timetable(db.YhZav as YhZav)
 

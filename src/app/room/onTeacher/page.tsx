@@ -10,19 +10,12 @@ export async function generateMetadata() {
         title: `Кабинеты по преподавателям`,
     }
 }
+
 export const dynamic = 'force-dynamic'
 export default async function RoomPage({}) {
     const week = getWeek(new Date());
     const data = Timetable.teacher.listName().filter(Timetable.teacher.filterTeachersNotHavePairs(week[1]));
-    data.sort(function (a, b) {
-        if (a > b) {
-            return 1;
-        }
-        if (a < b) {
-            return -1;
-        }
-        return 0;
-    });
+    data.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
     return (
         <div>
             <section className={styles.section}>

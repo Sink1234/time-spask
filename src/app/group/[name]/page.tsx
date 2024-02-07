@@ -1,6 +1,6 @@
+import { Metadata, ResolvingMetadata } from "next"
 import Home from "@/components/Home/Home"
 import Timetable from '@/lib/data'
-import { Metadata, ResolvingMetadata } from "next"
 
 type Props = {
     params: { name: string }
