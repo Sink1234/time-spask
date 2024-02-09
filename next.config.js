@@ -1,13 +1,8 @@
 const path = require("path");
 const fs = require("fs");
 const {parseString} = require("xml2js");
-const withPWA = require('next-pwa')({
+const withPWA = require('@ducanh2912/next-pwa').default({
     dest: "public",
-    disable: false,
-    register: true,
-    scope: '/',
-    sw: "/sw.js"
-
 });
 
 /** @type {import('next').NextConfig} */

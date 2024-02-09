@@ -6,6 +6,11 @@ import styles from "./ApplicationInstallButton.module.css";
 const ApplicationInstallButton = () => {
     const [deferredPrompt , setDeferredPrompt ] = useState<any>()
     useEffect(() => {
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker
+                .register('/sw.js')
+                .then((registration) => console.log('scope is: ', registration.scope));
+        }
         window.addEventListener('beforeinstallprompt', function(event) {
             event.preventDefault();
             setDeferredPrompt(event);
