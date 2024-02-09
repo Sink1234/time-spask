@@ -1,6 +1,6 @@
 import 'server-only'
 import styles from './page.module.css'
-import ApplicationInstallButton from "@/components/ui/ApplicationInstallButton/ApplicationInstallButton";
+import AppletPWAInstruction from "@/components/ui/AppletPWAInstruction";
 
 export default async function HomePage() {
     return (
@@ -40,10 +40,7 @@ export default async function HomePage() {
                     </ul>
                 </div>
 
-                <div>
-                    <div>Установить как приложение</div>
-                    <ApplicationInstallButton />
-                </div>
+                <AppletPWAInstruction />
             </section>
         </div>
     )
