@@ -1,5 +1,6 @@
 import 'server-only'
 import styles from './page.module.css'
+import ApplicationInstallButton from "@/components/ui/ApplicationInstallButton/ApplicationInstallButton";
 
 export default async function HomePage() {
     return (
@@ -37,6 +38,11 @@ export default async function HomePage() {
                         <li>Поиск по кабинетам</li>
                         <li>Рабочая неделя, которая сейчас на сайте</li>
                     </ul>
+                </div>
+
+                <div>
+                    <div>Установить как приложение</div>
+                    <ApplicationInstallButton />
                 </div>
             </section>
         </div>

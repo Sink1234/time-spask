@@ -1,30 +1,31 @@
 "use client"
-import {usePathname, useRouter, useSearchParams} from "next/navigation";
-import {ChangeEvent, useCallback, useEffect, useRef, useState} from "react"
-import type {KeyboardEvent, FC} from "react"
-import {useDebouncedCallback} from "use-debounce";
+import type {KeyboardEvent, ChangeEvent, FC} from "react"
+import {useCallback, useEffect, useRef, useState} from "react"
+import Link from "next/link";
 import Image from "next/image";
+import {usePathname, useRouter, useSearchParams} from "next/navigation";
+import {useDebouncedCallback} from "use-debounce";
 import Timetable from "@/lib/data"
 import classNames from "@/lib/classNames";
 import styles from "./Search.module.css";
-import Link from "next/link";
 
 enum Type {
     Teacher,
     Group
 }
 
+
 const listNames = Timetable.teacher.listName().map(value => ({
     type: Type.Teacher,
     name: value
-}))
+}));
 const listGroups = Timetable.listGroup.map((value) => ({
     type: Type.Group,
     name: value.name
-}))
+}));
 
 interface IProps {
-    setStatus: (v: boolean) => void
+    setStatus: (v: boolean) => void;
 }
 
 const Search: FC<IProps> = ({setStatus}) => {
@@ -32,29 +33,29 @@ const Search: FC<IProps> = ({setStatus}) => {
     const [active, setActive] = useState(false);
     const [data, setData] = useState<{ type: Type, name: string }[]>([]);
     const nodeRef = useRef<HTMLDivElement>(null);
-    const inputRef = useRef<HTMLInputElement>(null)
+    const inputRef = useRef<HTMLInputElement>(null);
     const page = useSearchParams();
     const pathname = usePathname();
-    const {replace, push} = useRouter();
+    const {replace} = useRouter();
 
-    const [href, setHref] = useState(pathname)
+    const [href, setHref] = useState(pathname);
     useEffect(() => {
-        if(pathname !== href)
-            setHref(pathname)
-    }, [pathname])
+        if(pathname !== href){
+            setHref(pathname);
+        }
+    }, [pathname]);
 
     function handleChangeInputValue(event: ChangeEvent<HTMLInputElement>) {
         const value = event.target.value;
         setInputValue(value);
         handleSearch(value);
     }
-    
 
     function handleChangeSearch() {
         setActive(active => !active);
         useCallback(() => {
-            replace(`${pathname}#now`)
-        }, [href, active])
+            replace(`${pathname}#now`);
+        }, [href, active]);
     }
 
 
@@ -72,11 +73,11 @@ const Search: FC<IProps> = ({setStatus}) => {
             setData([]);
             return;
         }
-        setData(
-            term[0].toLowerCase() === term[0].toUpperCase()
-                ? listGroups.filter(value => value.name.toLowerCase().startsWith(term.toLowerCase()))
-                : listNames.filter(value => value.name.toLowerCase().startsWith(term.toLowerCase()))
-        );
+        if (term[0].toLowerCase() === term[0].toUpperCase()){
+            setData(listGroups.filter(value => value.name.toLowerCase().startsWith(term.toLowerCase())));
+        } else {
+            setData(listNames.filter(value => value.name.toLowerCase().startsWith(term.toLowerCase())));
+        }
         params.set('query', term);
         replace(`${pathname}?${params.toString()}`);
     }, 300);
@@ -90,15 +91,17 @@ const Search: FC<IProps> = ({setStatus}) => {
     }
 
     useEffect(() => {
-        if (active)
-            inputRef.current?.focus()
-        setStatus(active)
+        if (active){
+            inputRef.current?.focus();
+        }
+        setStatus(active);
     }, [active]);
 
     useEffect(() => {
         const handleOutsideClick = (e: globalThis.MouseEvent) => {
-            if (!nodeRef.current?.contains(e.target as Node))
+            if (!nodeRef.current?.contains(e.target as Node)){
                 handleCloseSearch();
+            }
         }
         window.addEventListener("click", handleOutsideClick);
         return () => {
@@ -144,7 +147,6 @@ const Search: FC<IProps> = ({setStatus}) => {
                         </ul>
                     </div>
                 </div>
-                
             </div>
         </div>
     );

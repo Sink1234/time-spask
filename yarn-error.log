@@ -16,7 +16,7 @@ Platform:
 Trace: 
   Error: EPERM: operation not permitted, unlink 'C:\Users\velob\OneDrive\Desktop\timetable\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node'
 
-npm manifest: 
+npm manifest:
   {
     "name": "timetable",
     "version": "0.1.0",
@@ -40,7 +40,7 @@ npm manifest:
     }
   }
 
-yarn manifest: 
+yarn manifest:
   No manifest
 
 Lockfile: 

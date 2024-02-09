@@ -1,6 +1,14 @@
-const path = require("path")
-const fs = require("fs")
-const {parseString} = require("xml2js")
+const path = require("path");
+const fs = require("fs");
+const {parseString} = require("xml2js");
+const withPWA = require('next-pwa')({
+    dest: "public",
+    disable: false,
+    register: true,
+    scope: '/',
+    sw: "/sw.js"
+
+});
 
 /** @type {import('next').NextConfig} */
 
@@ -14,10 +22,11 @@ function createDataJsonFile(readName, writeName) {
         } else {
             fs.writeFileSync(getDataPath(writeName), JSON.stringify(results), 'utf-8');
         }
-    })
+    });
 }
 
 const nextConfig = {};
+
 let start = true;
 module.exports = () => {
     if (start) {
@@ -26,5 +35,5 @@ module.exports = () => {
         createDataJsonFile("rs202355.xml", 'odd_data.json');
         start = false;
     }
-    return nextConfig;
+    return withPWA(nextConfig);
 }

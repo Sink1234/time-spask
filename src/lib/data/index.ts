@@ -238,7 +238,7 @@ function Timetable(data: YhZav) {
         year: data.Year[0],
         week: data.Week[0],
         numerator: data.Numerator[0],
-        // monday: data.Monday[0],
+        monday: data?.Monday?.[0],
         work: data.Work[0],
         listGroup: listGroup,
         group: new TimetableGroup(listGroup),
