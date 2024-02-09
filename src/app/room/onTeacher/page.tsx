@@ -13,15 +13,22 @@ export async function generateMetadata() {
 
 export const dynamic = 'force-dynamic'
 export default async function RoomPage({}) {
-    const week = getWeek(new Date());
+    const currentDate = new Date();
+    if (currentDate.getMilliseconds() % 2){
+        currentDate.setDate(currentDate.getDate() + 2);
+    }
+    const week = getWeek(currentDate);
     const data = Timetable.teacher.listName().filter(Timetable.teacher.filterTeachersNotHavePairs(week[1]));
     data.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
+
     return (
         <div>
             <section className={styles.section}>
                 <h2 className={styles.h2}>Кабинеты по преподавателям </h2>
                 <Suspense>
-                    <ButtonPrint><Table data={data} week={week} pageFor="teacher"/></ButtonPrint>
+                    <ButtonPrint>
+                        <Table data={data} week={week} pageFor="teacher"/>
+                    </ButtonPrint>
                 </Suspense>
             </section>
         </div>

@@ -20,8 +20,6 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
             ) : ('')
         })
 
-        
-
         let year = 2000 + Number(dataWork[0].split('/')[2])
         let monthFirst = Number(dataWork[0].split('/')[1]) - 1
         let monthSecond = Number(dataWork[1].split('/')[1]) - 1
@@ -50,8 +48,6 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
         )
     }
 
-    
-
     const timeNow = new Intl.DateTimeFormat("ru", {dateStyle: 'full', timeStyle: 'short'}).format(new Date)
     const timeForCompare = timeNow.split(' ')[0] + ' ' + timeNow.split(' ')[1] + ' ' + timeNow.split(' ')[2]
     const dayForCompare = getData(Number(day)).split(' ')[0] + ' ' + getData(Number(day)).split(' ')[1] + ' ' + getData(Number(day)).split(' ')[2]
@@ -59,6 +55,7 @@ const Day = ({day, data, pageFor}:IDaySingle) => {
     const mainData = timeForCompare === dayForCompare ? (getData(Number(day)).split(' ')[1] + ' ' + getData(Number(day)).split(' ')[2]) + ' (Сегодня)' : (getData(Number(day)).split(' ')[1] + ' ' + getData(Number(day)).split(' ')[2])
     const numberLesson = ['1', '2', '3', '4', '5']
     const id = timeForCompare === dayForCompare ? 'now' : 'other'
+
     return(
         <div className={styles.day} id={id}>
             <h3><span>{dayOfWeek} </span>{mainData}</h3>
