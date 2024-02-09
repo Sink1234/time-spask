@@ -14,9 +14,7 @@ export async function generateMetadata() {
 export const dynamic = 'force-dynamic'
 export default async function RoomPage({}) {
     const currentDate = new Date();
-    if (currentDate.getMilliseconds() % 2){
-        currentDate.setDate(currentDate.getDate() + 2);
-    }
+    
     const week = getWeek(currentDate);
     const data = Timetable.teacher.listName().filter(Timetable.teacher.filterTeachersNotHavePairs(week[1]));
     data.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
