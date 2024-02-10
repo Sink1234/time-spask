@@ -3,9 +3,9 @@ import {notFound} from "next/navigation";
 import {IListGroup, ITimetableFlutter} from "@/interfaces/timetable";
 import {Timetable, default as defaultTimetable, flattenArray} from "@/lib/data";
 import classNames from "@/lib/classNames";
-import {readDataJsonFile} from "@/scripts/utils";
-import Group from "@/components/ui/SemesterSearch/Group";
-import TableHead from "@/components/Main/Table/TableHead";
+import {readDataJsonFile} from "@/shared/scripts/utils";
+import Group from "@/features/SearchSemestr/Group";
+import TableHead from "@/entities/Table/TableHead";
 import styles from "@/components/Main/main.module.css";
 
 const MainGroupName = async ({params}: { params: { name: string } }) => {

@@ -1,21 +1,16 @@
 import type {Metadata, Viewport} from 'next'
 import type {ReactNode} from "react";
 import {Montserrat} from "next/font/google"
-import Navbar from '@/layout/header/Header'
-import Footer from '@/layout/footer/Footer'
-import PageWrapper from '@/components/PageWrapper'
-import ScrollUpButton from "@/components/ui/ScrollUpButton/ScrollUpButton";
+import Navbar from '@/widgets/header/Header'
+import Footer from '@/widgets/footer/Footer'
+import PageWrapper from '@/entities/PageWrapper/PageWrapper'
+import ScrollUpButton from "@/features/ScrollUpButton/ScrollUpButton";
 import './globals.css'
 
 const APP_DEFAULT_TITLE = "Расписание СПАСКа"
 export const metadata: Metadata = {
     applicationName: APP_DEFAULT_TITLE,
     manifest: "/manifest.json",
-    appleWebApp: {
-        capable: true,
-        statusBarStyle: "default",
-        title: APP_DEFAULT_TITLE,
-    },
     title: APP_DEFAULT_TITLE,
     description: 'Здесь можно посмотреть актуальное расписание пар как студентам, так и преподавателям',
     openGraph: {

@@ -16,7 +16,7 @@ const getDay = (dayOfWeek: string) => {
     return '1';
 }
 export function getWeek(date: Date) {
-    const timeNow: string = new Intl.DateTimeFormat(
+    const timeNow = new Intl.DateTimeFormat(
         'ru-RU',
         {weekday: 'long'}
     ).format(date);
