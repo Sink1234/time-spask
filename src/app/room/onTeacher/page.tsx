@@ -13,8 +13,15 @@ export async function generateMetadata() {
 
 export const dynamic = 'force-dynamic'
 export default async function RoomPage({}) {
-    const currentDate = new Date();
-    
+    const currentDate = new Date(new Date().toLocaleString('en', {timeZone: 'Europe/Moscow'}))
+    if (currentDate.getDay() === 0) {
+        currentDate.setDate(currentDate.getDate() + 1)
+    } else if (currentDate.getDay() !== 6) {
+        if (currentDate.getHours() > 17) {
+            currentDate.setDate(currentDate.getDate() + 1)
+        }
+    }
+
     const week = getWeek(currentDate);
     const data = Timetable.teacher.listName().filter(Timetable.teacher.filterTeachersNotHavePairs(week[1]));
     data.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);

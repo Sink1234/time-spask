@@ -1,9 +1,11 @@
+const {
+    PHASE_DEVELOPMENT_SERVER,
+    PHASE_PRODUCTION_BUILD,
+} = require("next/constants");
+
 const path = require("path");
 const fs = require("fs");
 const {parseString} = require("xml2js");
-const withPWA = require('@ducanh2912/next-pwa').default({
-    dest: "public",
-});
 
 /** @type {import('next').NextConfig} */
 
@@ -23,12 +25,18 @@ function createDataJsonFile(readName, writeName) {
 const nextConfig = {};
 
 let start = true;
-module.exports = () => {
+module.exports = (phase) => {
     if (start) {
         createDataJsonFile("rs.xml", '../lib/data/data.json');
         createDataJsonFile("rs202356.xml", 'even_data.json');
         createDataJsonFile("rs202355.xml", 'odd_data.json');
         start = false;
     }
-    return withPWA(nextConfig);
+    if (phase === PHASE_DEVELOPMENT_SERVER || phase === PHASE_PRODUCTION_BUILD) {
+        const withPWA = require("@ducanh2912/next-pwa").default({
+            dest: "public",
+        });
+        return withPWA(nextConfig);
+    }
+    return nextConfig;
 }
