@@ -10,7 +10,7 @@ const {parseString} = require("xml2js");
 /** @type {import('next').NextConfig} */
 
 function createDataJsonFile(readName, writeName) {
-    const getDataPath = (filename) => path.join(process.cwd(), 'src', 'data', filename);
+    const getDataPath = (filename) => path.join(process.cwd(), 'src', 'shared',     'data', filename);
     const getXMLPath = (filename) => path.join(process.cwd(), 'public', filename);
     const xmlData = fs.readFileSync(getXMLPath(readName), 'utf-8');
     parseString(xmlData, function (err, results) {
@@ -19,8 +19,8 @@ function createDataJsonFile(readName, writeName) {
         } else {
             fs.writeFileSync(getDataPath(writeName), JSON.stringify(results), 'utf-8');
         }
-    });
-}
+    });                                         
+}                                                                                       
 
 const nextConfig = {};
 
