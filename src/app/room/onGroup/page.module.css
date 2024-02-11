@@ -1,9 +1,0 @@
-.h2{
-    margin-top: 30px;
-    color: var(--blue);
-    margin-bottom: 20px;
-}
-
-.section{
-    min-height: calc(100vh - 200px);
-}
