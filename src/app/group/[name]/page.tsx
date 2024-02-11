@@ -1,5 +1,5 @@
 import { Metadata, ResolvingMetadata } from "next"
-import TimeTable from "@/pages/Timetable/TimetablePage"
+import TimeTable from "@/ppages/Timetable/TimetablePage"
 import Timetable from '@/shared/lib/data'
 
 type Props = {

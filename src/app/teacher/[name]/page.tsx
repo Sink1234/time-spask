@@ -1,4 +1,4 @@
-import TimetablePage from "@/pages/Timetable/TimetablePage"
+import TimetablePage from "@/ppages/Timetable/TimetablePage"
 import Timetable from '@/shared/lib/data'
 import { Metadata, ResolvingMetadata } from "next"
 
