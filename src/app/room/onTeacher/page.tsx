@@ -1,9 +1,9 @@
 import Timetable from '@/lib/data'
 import styles from './page.module.css'
-import Table from "@/components/Table/Table"
+import TablePage from "@/pages/TableRoom/TablePage"
 import {Suspense} from "react"
 import {getWeek} from "@/lib/date";
-import ButtonPrint from "@/components/ui/Button/ButtonPrint";
+import ButtonPrint from "@/features/Button/ButtonPrint";
 
 export async function generateMetadata() {
     return {
@@ -32,7 +32,7 @@ export default async function RoomPage({}) {
                 <h2 className={styles.h2}>Кабинеты по преподавателям </h2>
                 <Suspense>
                     <ButtonPrint>
-                        <Table data={data} week={week} pageFor="teacher"/>
+                        <TablePage data={data} week={week} pageFor="teacher"/>
                     </ButtonPrint>
                 </Suspense>
             </section>

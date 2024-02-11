@@ -1,6 +1,6 @@
 import 'server-only'
 import styles from './page.module.css'
-import AppletPWAInstruction from "@/components/ui/AppletPWAInstruction";
+import AppletPWAInstruction from "@/features/AppletPWAInstruction";
 
 export default async function HomePage() {
     return (

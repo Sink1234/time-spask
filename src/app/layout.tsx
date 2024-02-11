@@ -1,10 +1,10 @@
 import type {Metadata, Viewport} from 'next'
 import type {ReactNode} from "react";
 import {Montserrat} from "next/font/google"
-import Navbar from '@/layout/header/Header'
-import Footer from '@/layout/footer/Footer'
-import PageWrapper from '@/components/PageWrapper'
-import ScrollUpButton from "@/components/ui/ScrollUpButton/ScrollUpButton";
+import Navbar from '@/widgets/header/Header'
+import Footer from '@/widgets/footer/Footer'
+import PageWrapper from '@/entities/PageWrapper/PageWrapper'
+import ScrollUpButton from "@/features/ScrollUpButton/ScrollUpButton";
 import './globals.css'
 
 const APP_DEFAULT_TITLE = "Расписание СПАСКа"

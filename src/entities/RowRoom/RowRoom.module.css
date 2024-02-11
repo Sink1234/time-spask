@@ -1,0 +1,68 @@
+
+/* room */
+
+.contains{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+
+.onePart{
+    width: 70px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box_full{
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    height: 10px;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: var(--blue);
+}
+
+.box_full span{
+    display: none;
+}
+
+@media(min-width: 600px) {
+    .box_full{
+        width: calc((100vw - 100px) / 4);
+        background: none;
+        height: fit-content;
+        margin: 5px;
+    }
+    .box_full span{
+        display: block;
+        height: fit-content;
+        overflow: visible;
+        margin: 0;
+        width: fit-content;
+    }
+    .box_full{
+        height: fit-content;
+        width: fit-content;
+    }
+    .contains{
+        height: fit-content;
+        border-bottom: solid 1px var(--blue);
+    }
+    .onePart{
+        justify-content: center;
+        height: fit-content;
+        min-height: 100%;
+        width: 100%;
+        background-color: var(--white);
+        margin: 0 10px;
+        border-radius: 20px;
+    }
+}

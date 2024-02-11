@@ -1,4 +1,4 @@
-import Room from '@/components/Room/Room'
+import SearchRoomPage from '@/pages/SearchRoom/SearchRoomPage'
 import Timetable from '@/lib/data'
 import styles from './page.module.css'
 
@@ -33,7 +33,7 @@ export default function RoomPage({
             <div>
                 <section className={styles.section}>
                     <h2 className={styles.h2}>Поиск по кабинетам</h2>
-                    <Room data = {data} day = {day} lesson = {lesson} />
+                    <SearchRoomPage data = {data} day = {day} lesson = {lesson} />
                 </section>
             </div>
     )

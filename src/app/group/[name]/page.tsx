@@ -1,5 +1,5 @@
 import { Metadata, ResolvingMetadata } from "next"
-import Home from "@/components/Home/Home"
+import TimeTable from "@/pages/Timetable/TimetablePage"
 import Timetable from '@/lib/data'
 
 type Props = {
@@ -27,7 +27,7 @@ export default function groupPage(
         <section>
             <div>
                 {data.length ? (
-                    <Home data={data} pageFor='group'/>
+                    <TimeTable data={data} pageFor='group'/>
                 ) : (
                     <h2>Нет занятий</h2>
                 )}

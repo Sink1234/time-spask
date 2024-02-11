@@ -1,0 +1,13 @@
+.wrapper {
+    font-size: 14px;
+    line-height: 19px;
+    color: var(--grey);
+    font-weight: 600;
+}
+.one {
+    text-align: start;
+    min-width: 35px;
+}
+.week {
+    padding: 0 20px;
+}

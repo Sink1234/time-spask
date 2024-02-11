@@ -1,4 +1,4 @@
-import Home from "@/components/Home/Home"
+import TimetablePage from "@/pages/Timetable/TimetablePage"
 import Timetable from '@/lib/data'
 import { Metadata, ResolvingMetadata } from "next"
 
@@ -29,7 +29,7 @@ export default function teacherPage(
         <section>
             <div>
             {data.length ? (
-                    <Home data={data} pageFor='teacher'/>
+                    <TimetablePage data={data} pageFor='teacher'/>
                 ) : (
                     <h2>Нет занятий</h2>
                 )}
