@@ -1,0 +1,102 @@
+
+.day{
+    margin-bottom: 42px;
+    width: 340px;
+}
+
+.day h3{
+    color: #5A5A5A;
+    font-size: 14.5px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 8px;
+}
+
+.day h3 span{
+    color: #5A5A5A;
+    font-size: 13.534px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.day h3 span{
+    text-transform: capitalize
+}
+
+.groupDiv{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    background-color: var(--white);
+    right: 25px;
+    top: 85px;
+    width: calc(100vw - 85px);
+    border-end-end-radius: 27px;
+    border-bottom-left-radius: 27px;
+    background-color: var(--white);
+    animation: down .6s;
+    min-height: 0px;
+    height: auto;
+    max-height: 100px;
+    overflow-y: scroll;
+    padding: 20px ;
+}
+
+.groupDiv a{
+    width: fit-content;
+    color: #5A5A5A;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px;
+}
+
+.disGroup{
+    display: none;
+    opacity: 0;
+    height: 0;
+    transition: .5s;
+}
+
+@media(min-width: 600px) {
+    .groupDiv{
+        width: 290px;
+    }
+}
+
+@keyframes down{
+    0%{
+        height: 0;
+        padding: 0;
+        margin: 0;
+        opacity: 0;
+    }
+    80%{
+        height: 0;
+        padding: 0;
+        margin: 0;
+        opacity: 0;
+    }
+    100%{
+        min-height: 0px;
+        height: auto;
+        max-height: 100px;
+        overflow-y: scroll;
+    }
+}
+
+
+
+
+
+/* ------ Card ------- */
+
+
+

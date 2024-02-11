@@ -1,0 +1,26 @@
+:root {
+  --blue: #1C1AC3;
+  --grey: #5A5A5A;
+  --lite-grey: #e9e0d2;
+  --dark: #2D2D2D;
+  --white: #e9e0d2;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  border: none; 
+  outline: none;
+  z-index: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: #e9e0d29f;
+}
