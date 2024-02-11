@@ -11,10 +11,10 @@ const myFont = font({src: './PT Sans Pro Extra Condensed Light.otf'});
 const navList = [
     {link: "/", content: "Главная"},
     {link: "/room", content: "Поиск по кабинетам"},
-    {link: "/room/onTeacher", content: "Кабинеты по преподавателям"},
     {link: "/room/onGroup", content: "Кабинеты по группам"},
+    {link: "/room/onTeacher", content: "Кабинеты по преподавателям"},
     {link: '/main/group', content: "Расписание на семестр для групп"},
-    {link: '/main/teacher', content: "Расписание на семестр для преподавателям"},
+    {link: '/main/teacher', content: "Расписание для преподавателей"},
 ];
 const Navbar = () => {
     const [open, setOpen] = useState(false);
