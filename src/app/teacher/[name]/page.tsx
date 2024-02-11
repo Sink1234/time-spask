@@ -1,5 +1,5 @@
 import TimetablePage from "@/pages/Timetable/TimetablePage"
-import Timetable from '@/lib/data'
+import Timetable from '@/shared/lib/data'
 import { Metadata, ResolvingMetadata } from "next"
 
 

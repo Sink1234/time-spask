@@ -1,9 +1,9 @@
 import type {ITimetableFlutter} from "@/interfaces/timetable";
-import Timetable from '@/lib/data'
+import Timetable from '@/shared/lib/data'
 import styles from './Day.module.css'
 import Card from "../../entities/Card/Card";
 import FollowTo from "@/features/FollowTo/FollowTo";
-import {getWeek} from "@/lib/date";
+import {getWeek} from "@/shared/lib/date";
 
 interface IDaySingle {
     day: string,

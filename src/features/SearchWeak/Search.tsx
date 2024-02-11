@@ -5,8 +5,8 @@ import Link from "next/link";
 import Image from "next/image";
 import {usePathname, useRouter, useSearchParams} from "next/navigation";
 import {useDebouncedCallback} from "use-debounce";
-import Timetable from "@/lib/data"
-import classNames from "@/lib/classNames";
+import Timetable from "@/shared/lib/data"
+import classNames from "@/shared/lib/classNames";
 import styles from "./Search.module.css";
 
 enum Type {

@@ -1,6 +1,6 @@
 import { Metadata, ResolvingMetadata } from "next"
 import TimeTable from "@/pages/Timetable/TimetablePage"
-import Timetable from '@/lib/data'
+import Timetable from '@/shared/lib/data'
 
 type Props = {
     params: { name: string }

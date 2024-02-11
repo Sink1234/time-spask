@@ -1,8 +1,8 @@
 import {JSXElementConstructor, PromiseLikeOfReactNode, ReactElement, ReactNode, ReactPortal, Suspense} from 'react';
 import {notFound} from "next/navigation";
 import {IListGroup, ITimetableFlutter} from "@/interfaces/timetable";
-import {Timetable, default as defaultTimetable, flattenArray} from "@/lib/data";
-import classNames from "@/lib/classNames";
+import {Timetable, default as defaultTimetable, flattenArray} from "@/shared/lib/data";
+import classNames from "@/shared/lib/classNames";
 import {readDataJsonFile} from "@/shared/scripts/utils";
 import Group from "@/features/SearchSemestr/Group";
 import TableHead from "@/entities/Table/TableHead";

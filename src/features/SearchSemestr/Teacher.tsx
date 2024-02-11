@@ -1,7 +1,7 @@
 "use client"
 import {ChangeEvent, InputHTMLAttributes, useState} from 'react';
 import styles from "./SemesterSearch.module.css"
-import classNames from "@/lib/classNames";
+import classNames from "@/shared/lib/classNames";
 import Link from "next/link";
 
 interface IProps extends InputHTMLAttributes<HTMLInputElement> {

@@ -1,4 +1,4 @@
-import Timetable from '@/lib/data'
+import Timetable from '@/shared/lib/data'
 import styles from './TablePage.module.css'
 
 interface ITable {

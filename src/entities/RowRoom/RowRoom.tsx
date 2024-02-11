@@ -1,4 +1,4 @@
-import  Timetable from "@/lib/data"
+import  Timetable from "@/shared/lib/data"
 import styles from './RowRoom.module.css'
 
 interface IRowRoom{

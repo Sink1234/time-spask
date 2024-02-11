@@ -1,6 +1,6 @@
 "use client"
 import {useEffect, useState} from 'react';
-import classNames from "@/lib/classNames";
+import classNames from "@/shared/lib/classNames";
 import styles from "./ScrollUpButton.module.css";
 
 const ScrollUpButton = () => {

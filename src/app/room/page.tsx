@@ -1,5 +1,5 @@
 import SearchRoomPage from '@/pages/SearchRoom/SearchRoomPage'
-import Timetable from '@/lib/data'
+import Timetable from '@/shared/lib/data'
 import styles from './page.module.css'
 
 export async function generateMetadata() {

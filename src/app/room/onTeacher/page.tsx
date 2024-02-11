@@ -1,8 +1,8 @@
-import Timetable from '@/lib/data'
+import Timetable from '@/shared/lib/data'
 import styles from './page.module.css'
 import TablePage from "@/pages/TableRoom/TablePage"
 import {Suspense} from "react"
-import {getWeek} from "@/lib/date";
+import {getWeek} from "@/shared/lib/date";
 import ButtonPrint from "@/features/Button/ButtonPrint";
 
 export async function generateMetadata() {
