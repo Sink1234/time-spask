@@ -71,6 +71,7 @@ const Day = ({day, data, pageFor}: IDaySingle) => {
         }
     }
 
+    console.log({isEdit})
 
     let follow = undefined
     if (currentDate.getDay() === 6 || currentDate.getDay() === 0) {
@@ -91,6 +92,9 @@ const Day = ({day, data, pageFor}: IDaySingle) => {
         if (week[0] === dayOfWeek.replace(/,/g, "")) {
             follow = "follow"
         }
+    }
+    if (currentDate.getHours() < 18){
+        follow = undefined
     }
     return (
         <div className={styles.day} id={id}>
