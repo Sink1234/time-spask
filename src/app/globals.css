@@ -1,9 +1,9 @@
 :root {
-  --blue: #1C1AC3;
+  --blue: #3843BD;
   --grey: #5A5A5A;
-  --lite-grey: #e9e0d2;
+  --lite-grey: #f3f6f8;
   --dark: #2D2D2D;
-  --white: #e9e0d2;
+  --white: white;
 }
 
 
@@ -22,5 +22,5 @@ html {
 }
 
 body{
-  background-color: #e9e0d29f;
+  background-color: var(--lite-grey);
 }
