@@ -1,5 +1,5 @@
 :root {
-  --blue: #1D5770;
+  --blue: #3843BD;
   --grey: #5A5A5A;
   --lite-grey: #f3f6f8;
   --dark: #2D2D2D;
@@ -22,5 +22,5 @@ html {
 }
 
 body{
-  background-color: var(--lite-grey);;
+  background-color: var(--lite-grey);
 }
