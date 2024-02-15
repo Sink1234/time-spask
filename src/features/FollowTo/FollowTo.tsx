@@ -6,7 +6,7 @@ import { useEffect} from "react";
 
 const FollowTo = () => {
     useEffect(() => {
-        setTimeout(() => document.querySelector("#follow")?.scrollIntoView({behavior: "smooth"}), 100)
+       setTimeout(() => document.querySelector("#follow") ?  document.querySelector("#follow")?.scrollIntoView({behavior: "smooth"}) : document.querySelector("#now")?.scrollIntoView({behavior: "smooth"}), 100)
     }, []);
 
     return (<div></div>);
