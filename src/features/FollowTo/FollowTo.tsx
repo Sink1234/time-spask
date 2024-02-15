@@ -1,10 +1,14 @@
 "use client"
-import {useEffect} from "react";
+
+import { useEffect} from "react";
+
+
 
 const FollowTo = () => {
     useEffect(() => {
-        document.querySelector("#follow")?.scrollIntoView({behavior: "smooth"});
+        setTimeout(() => document.querySelector("#follow")?.scrollIntoView({behavior: "smooth"}), 100)
     }, []);
+
     return (<div></div>);
 };
 

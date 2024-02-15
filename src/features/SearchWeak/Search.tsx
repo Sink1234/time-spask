@@ -133,7 +133,7 @@ const Search: FC<IProps> = ({setStatus}) => {
                         <ul className={styles.list}>
                             {data.map((value, index) => (
                                 <Link key={index}
-                                      href={`/${value.type === Type.Teacher ? "teacher" : "group"}/${value.name}/#now`}
+                                      href={`/${value.type === Type.Teacher ? "teacher" : "group"}/${value.name}`}
                                       className={styles.link}
                                       onClick={handleChangeSearch}>
                                     <li className={styles.item}>

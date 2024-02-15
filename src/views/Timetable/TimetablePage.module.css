@@ -24,6 +24,7 @@
 
 .group h3 span{
     font-weight: 500;
+    white-space: nowrap;
 }
 
 @media(min-width: 440px) {
