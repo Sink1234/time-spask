@@ -1221,22 +1221,6 @@
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
@@ -2522,32 +2506,6 @@
 <Name>РИСУНОК.ЖИВОПИСЬ</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 <Auditorium Number="325" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
