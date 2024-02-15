@@ -53,9 +53,6 @@ const Search: FC<IProps> = ({setStatus}) => {
 
     function handleChangeSearch() {
         setActive(active => !active);
-        useCallback(() => {
-            replace(`${pathname}#now`);
-        }, [href, active]);
     }
 
 
