@@ -13,7 +13,7 @@ const raleway = Raleway({
 
 const Footer = () => {
     return (
-        <footer className={styles.sticky}>
+        <footer id='custom' className={styles.sticky}>
                     <Suspense>
                         <div className={styles.flex}>
                             <div className={styles.left}>

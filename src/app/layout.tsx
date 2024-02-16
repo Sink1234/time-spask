@@ -33,19 +33,20 @@ const montserrat = Montserrat({
 export default function RootLayout(
     {children,}: { children: ReactNode }
 ) {
+
     return (
         <html lang="ru">
         <head>
             <link rel="manifest" href="/manifest.json"/>
         </head>
-        <body className={montserrat.className}>
-        <Navbar/>
-        <PageWrapper>
-            {children}
-        </PageWrapper>
-        <ScrollUpButton/>
-        <Footer/>
-        </body>
+            <body className={montserrat.className}>
+                    <Navbar/>
+                    <PageWrapper>
+                        {children}
+                    </PageWrapper>
+                    <ScrollUpButton/>
+                    <Footer/>
+            </body>
         </html>
     )
 }

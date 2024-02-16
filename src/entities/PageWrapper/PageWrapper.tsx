@@ -10,7 +10,7 @@ const PageWrapper = ({
 }) => {
     return(
         <div 
-            className={className ? className : styles.wrapper}>
+            className={className ? className : styles.wrapper} id='custom'>
             {children}
         </div>
     )

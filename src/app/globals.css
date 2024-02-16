@@ -24,3 +24,38 @@ html {
 body{
   background-color: var(--lite-grey);
 }
+
+#withoutLayout{
+  max-height: 100vh !important;
+  max-width: 100vw !important;
+  padding: 0 50px;
+}
+
+#withoutLayout #custom{
+  display: none;
+}
+
+#withoutLayout #tableRoom{
+  max-width: calc(100vw - 100px);
+  max-height: 90vh;
+  margin: 0 auto;
+}
+
+#withoutLayout #tableRoom section{
+  max-width: 100%;
+  width: 100%;
+  max-height: calc(100vh - 150px);
+}
+
+#withoutLayout #tableRoom section div{
+  max-width: 600px;
+  margin: 0 10px;
+}
+
+#withoutLayout #tableRoom section div span{
+  font-size: 16px;
+}
+
+#withoutLayout #tableRoom section div span:first-child{
+  font-size: 20px;
+}

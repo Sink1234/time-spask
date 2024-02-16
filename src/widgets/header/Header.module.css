@@ -397,6 +397,7 @@
     text-decoration: none;
     padding: 10px;
     margin: 0;
+    white-space: nowrap;
 }
 
 .mob_menuClose a {
@@ -405,6 +406,8 @@
     margin: -5px;
     transition: .8s;
     z-index: -1;
+    white-space: nowrap;
+    width: 0;
 }
 
 .mob_menu a:hover {

@@ -58,7 +58,7 @@ const Navbar = () => {
     }
 
     return (
-        <div className={styles.sticky}>
+        <div id='custom' className={styles.sticky}>
             <header id="nav" className={styles.header}>
                 <Suspense>
                     <div className={styles.flex}>

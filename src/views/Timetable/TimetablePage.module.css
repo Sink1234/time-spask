@@ -19,7 +19,8 @@
     font-style: normal;
     font-weight: 300;
     line-height: normal;
-    margin: 26px 0;
+    margin-top: 26px;
+    margin-bottom: 15px;
 }
 
 .group h3 span{
