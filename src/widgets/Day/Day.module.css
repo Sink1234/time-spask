@@ -5,19 +5,19 @@
 }
 
 .day h3{
-    color: #5A5A5A;
-    font-size: 14.5px;
+    color: #5A5A5A !important;
+    font-size: 14.5px !important;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400 !important;
     line-height: normal;
     margin-bottom: 8px;
 }
 
 .day h3 span{
-    color: #5A5A5A;
-    font-size: 13.534px;
+    color: #5A5A5A !important;
+    font-size: 13.534px !important;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 800 !important;
     line-height: normal;
 }
 
