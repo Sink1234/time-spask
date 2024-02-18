@@ -1,6 +1,7 @@
 import SearchRoomPage from '@/views/SearchRoom/SearchRoomPage'
 import Timetable from '@/shared/lib/data'
 import styles from './page.module.css'
+import { Suspense } from 'react';
 
 export async function generateMetadata() {
     return {
@@ -8,7 +9,7 @@ export async function generateMetadata() {
     }
   }
 
-export default function RoomPage({
+export default async function RoomPage({
     params,
     searchParams,
   }: {
@@ -30,11 +31,11 @@ export default function RoomPage({
     data.sort() //(a, b) => a - b
 
     return(
-            <div>
-                <section className={styles.section}>
+            <div className={styles.section}>
+                <Suspense >
                     <h2 className={styles.h2}>Поиск по кабинетам</h2>
                     <SearchRoomPage data = {data} day = {day} lesson = {lesson} />
-                </section>
+                </Suspense>
             </div>
     )
 }

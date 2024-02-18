@@ -13,9 +13,9 @@ export default async function HomePage() {
                     Основная работа ведется через поисковую
                     модель со значком <span>“лупа” </span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none">
-                        <path d="M9.86816 10.8293L13.8642 15.3373" stroke="#1D5770" strokeWidth="3"
+                        <path d="M9.86816 10.8293L13.8642 15.3373" stroke="#3d46a1" strokeWidth="3"
                               strokeLinecap="round"/>
-                        <circle cx="6.38953" cy="6.38953" r="4.88953" stroke="#1D5770" strokeWidth="3"/>
+                        <circle cx="6.38953" cy="6.38953" r="4.88953" stroke="#3d46a1" strokeWidth="3"/>
                     </svg>
                     <br/>
                     При ее нажатии открывается <span>поиск</span> и вы можете
@@ -25,10 +25,10 @@ export default async function HomePage() {
                 <div>
                     В правом верхнем углу есть <span>меню </span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" fill="none">
-                        <line x1="2" y1="2" x2="17.9993" y2="2" stroke="#1D5770" strokeWidth="4" strokeLinecap="round"/>
-                        <line x1="2" y1="7.90881" x2="17.9993" y2="7.90881" stroke="#1D5770" strokeWidth="4"
+                        <line x1="2" y1="2" x2="17.9993" y2="2" stroke="#3d46a1" strokeWidth="4" strokeLinecap="round"/>
+                        <line x1="2" y1="7.90881" x2="17.9993" y2="7.90881" stroke="#3d46a1" strokeWidth="4"
                               strokeLinecap="round"/>
-                        <line x1="12" y1="13.8177" x2="17.9996" y2="13.8177" stroke="#1D5770" strokeWidth="4"
+                        <line x1="12" y1="13.8177" x2="17.9996" y2="13.8177" stroke="#3d46a1" strokeWidth="4"
                               strokeLinecap="round"/>
                     </svg>
                     <br/> в котором вы можете посмотреть:

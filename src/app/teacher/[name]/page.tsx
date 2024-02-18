@@ -1,6 +1,7 @@
 import TimetablePage from "@/views/Timetable/TimetablePage"
 import Timetable from '@/shared/lib/data'
 import { Metadata, ResolvingMetadata } from "next"
+import { Suspense } from "react"
 
 
 type Props = {
@@ -20,21 +21,20 @@ export async function generateMetadata(
   }
   
 
-export default function teacherPage(
+export default async function teacherPage(
     req: { params: { name: string } }
 ) {
     const id = decodeURIComponent(req.params.name);
     const data = Timetable.teacher.searchByName(id)
     return (
         <section>
-            <div>
+            <Suspense>
             {data.length ? (
                     <TimetablePage data={data} pageFor='teacher'/>
                 ) : (
                     <h2>Нет занятий</h2>
                 )}
-                
-            </div>
+            </Suspense>
         </section>
     )
 }

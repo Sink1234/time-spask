@@ -1,3 +1,4 @@
+import classNames from "@/shared/lib/classNames";
 import styles from './Card.module.css'
 import type {ITimetableFlutter} from "@/interfaces/timetable";
 
@@ -24,19 +25,34 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
         }
     }
 
+    let i = 0
+
     const NoN = "------------"
     const lessonName = data[0] ? data[0].lessonPart.name : NoN;
     const teacherName = data[0] ? (pageFor === 'group' ? (data[0].lessonPart.teacher) : (data[0].groupName)) : NoN;
-    const room = data[0] ? data[0].lessonPart.auditorium?.number ? data[0].lessonPart.auditorium?.number : "Нет данных" : "Нет данных";
-    const secondRoom = data[1] ? data[1].lessonPart.auditorium?.number ? data[1].lessonPart.auditorium?.number : "Нет данных" : "Нет данных";
-    const Building = data[0] ? data[0].lessonPart.auditorium?.building : NoN;
+    const room = data[0] ? data[0].lessonPart.auditorium?.number ? `Кабинет ${data[0].lessonPart.auditorium?.number}` : "Нет данных" : "Нет данных";
+    const secondRoom = data[1] ? data[1].lessonPart.auditorium?.number ? `Кабинет ${data[1].lessonPart.auditorium?.number}` : "Нет данных" : "Нет данных";
+    //const Building = data[0] ? data[0].lessonPart.auditorium?.building : NoN;
+    const Building = ''
+
     return (
-        <>
+        <div className={N === '1' ? (
+            styles.box1
+            ) : (N === '2' ? (
+                styles.box2
+            ) : (N === '3' ? (
+                styles.box3
+            ) : (N === '4' ? (
+                styles.box4
+            ) : (N === '5' ? (
+                styles.box5
+            ) : ('')))))} id = {styles.box}>
+            
             {data.length < 2
                 ? (N === '5'
                         ? (
                             data[0] ? (
-                                <div className={styles.card}>
+                                <div className={styles.card} >
                                 <span className={styles.box}>
                                     <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
                                     <div
@@ -48,14 +64,14 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                         )
                         : (
                             data[0]
-                                ? (<div className={styles.card}>
+                                ? (<div className={styles.card} >
                                         <span className={styles.box}>
                                             <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
                                             <div className={styles.lesson}><span>{lessonName}</span><span> | </span><p>{teacherName}</p></div>
                                             <div className={styles.room}><span>{room}</span><div>{Building}</div></div>
                                         </span>
                                     </div>)
-                                : (<div className={styles.notCard}>
+                                : (<div className={styles.notCard} >
                                         <div>Нет пары</div>
                                     </div>)
                         )
@@ -64,13 +80,13 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                     <div className={styles.card}>
                         <span className={styles.box}>
                             <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                            <div className={styles.lesson}><span>{lessonName}</span><span> | </span><section><p>{teacherName + ', '}</p><p>{data[1].lessonPart.teacher}</p></section></div>
+                            <div className={styles.lesson}><span>{lessonName}</span><span> | </span><section><p>{teacherName + ', '}</p><p>{pageFor === 'group' ? (data[1].lessonPart.teacher) : (data[1].groupName)}</p></section></div>
                             <div className={styles.room}><span>{room + ', ' + secondRoom + " "}</span><div>{Building}</div></div>
                         </span>
                     </div>
                 )}
 
-        </>
+        </div>
     )
 }
 

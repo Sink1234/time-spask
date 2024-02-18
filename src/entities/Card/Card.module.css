@@ -18,27 +18,33 @@
     margin-bottom: 6px;
 }
 
-.card .box .part, .card .box .lesson{
-    color: #2D2D2D;
-
-    font-size: 16px;
+.card .box .part{
+    color: var(--dark-grey);
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
 }
 
+.lesson section{
+    gap: 0px !important;
+}
+
 .card .box .lesson{
+    color: var(--dark-grey);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
     margin-bottom: 10px;
     display: flex;
     flex-direction: row;
     gap: 5px;
     align-items: center;
 }
-
 .card .box .part span{
-    color: #2D2D2D;
-
-    font-size: 16px;
+    color: var(--dark-grey);
+    font-size: 15px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -47,8 +53,7 @@
 .card .box .lesson span{
     display: block;
     color: var(--blue);
-    margin-bottom: -1.5px;
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -70,7 +75,7 @@
     text-overflow: ellipsis
 }
 
-.card .box .lesson section{
+.card .box .lesson box{
     gap: 2px;
 }
 
@@ -123,3 +128,67 @@
     font-weight: 600;
     line-height: normal;
 }
+
+
+.box1 div{
+    animation: fromLeft;
+    animation-duration: .3s;
+}
+.box1 div{
+    animation: fromLeft;
+    animation-duration: .3s;
+}
+
+.box2 div{
+    animation: fromLeft;
+    animation-duration: .55s;
+}
+.box2 div span{
+    animation: fromLeft;
+    animation-duration: .55s;
+}
+
+
+.box3 div{
+    animation: fromLeft;
+    animation-duration: .8s;
+}
+
+.box3 div span{
+    animation: fromLeft;
+    animation-duration: .8s;
+}
+
+
+.box4 div{
+    animation: fromLeft;
+    animation-duration: 1.05s;
+}
+.box4 div span{
+    animation: fromLeft;
+    animation-duration: 1.05s;
+}
+
+
+.box5 div{
+    animation: fromLeft;
+    animation-duration: 1.3s;
+}
+.box5 div span{
+    animation: fromLeft;
+    animation-duration: 1.3s;
+}
+
+
+
+@keyframes fromLeft {
+    0%{
+        opacity: 0;
+        transform: translateX(-15px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px)
+    }
+}
+
