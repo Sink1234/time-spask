@@ -53,7 +53,7 @@
 .card .box .lesson span{
     display: block;
     color: var(--blue);
-    font-size: 15px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -62,22 +62,27 @@
 
 .card .box .lesson span:first-child{
     width: fit-content;
-    max-width: 173px;
+    max-width: 190px;
 }
 
 .card .box .lesson span:first-letter{
     text-transform: uppercase;
 }
 
-.card .box .lesson p{
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis
+.card .box .lesson section{
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
 }
 
-.card .box .lesson box{
-    gap: 2px;
+.card .box .lesson p{
+    font-size: 13px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-bottom: -2px;
 }
+
 
 .card .box .room{
     border-radius: 5px;
