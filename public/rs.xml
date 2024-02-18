@@ -929,7 +929,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Auditorium Number="а.зал" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
