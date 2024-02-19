@@ -27,8 +27,9 @@ body{
 
 #withoutLayout{
   max-height: 100vh !important;
-  max-width: 100vw !important;
-  padding: 0 50px;
+  max-width: 98vw !important;
+  padding-top: 5px;
+  overflow: hidden;
 }
 
 #withoutLayout #custom{
@@ -36,26 +37,51 @@ body{
 }
 
 #withoutLayout #tableRoom{
-  max-width: calc(100vw - 100px);
-  max-height: 90vh;
-  margin: 0 auto;
+  max-width: calc(100vw - 150px);
+  max-height: 100vh;
+  margin: 0 25px;
 }
 
 #withoutLayout #tableRoom section{
-  max-width: 100%;
-  width: 100%;
-  max-height: calc(100vh - 150px);
+  max-width:  calc(100vw - 200px);
+  width:  calc(100vw - 200px);
+  max-height: calc(100vh - 70px);
+}
+
+#withoutLayout #tableRoom h3{
+  display: none;
 }
 
 #withoutLayout #tableRoom section div{
-  max-width: 600px;
+  max-width: 700px;
+  width: 350px;
   margin: 0 10px;
+  height: 16px;
+  max-height: 16px;
+  gap: 5px;
+  margin: 5px 0;
 }
 
 #withoutLayout #tableRoom section div span{
-  font-size: 16px;
+  font-size: 12px;
+  height: 16px;
+  min-height: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 #withoutLayout #tableRoom section div span:first-child{
-  font-size: 20px;
+  height: 35px;
+  flex-basis: 370%;
+  font-size: 14px;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  white-space: wrap;
+  overflow: clip;
+  text-overflow: clip;
+  justify-content: start;
+  text-align: start !important;
 }

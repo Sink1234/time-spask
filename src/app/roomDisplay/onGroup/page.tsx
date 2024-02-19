@@ -25,7 +25,6 @@ export default async function RoomPage() {
     return (
         <div className={`current-house-${currentDate.getHours()}`}>
             <section className={styles.section}>
-                <h2 className={styles.h2}>Кабинеты по группам</h2>
                 <Suspense>
                         <TablePage data={data} week={week} pageFor="group"/>
                 </Suspense>

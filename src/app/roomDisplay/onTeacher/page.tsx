@@ -28,7 +28,6 @@ export default async function RoomPage({}) {
     return (
         <div>
             <section className={styles.section}>
-                <h2 className={styles.h2}>Кабинеты по преподавателям </h2>
                 <Suspense>
                         <TablePage data={data} week={week} pageFor="teacher"/>
                 </Suspense>
