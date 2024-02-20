@@ -799,6 +799,8 @@
 <Part N="1">
 <Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
 <Teacher>Капырин В П</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -2377,6 +2379,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Михайлова Л А</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -2391,13 +2395,13 @@
 <Part N="1">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="310" Building="Главный корпус">
+<Auditorium Number="351" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2405,7 +2409,7 @@
 <Part N="1">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2551,7 +2555,7 @@
 <Part N="1">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2565,7 +2569,7 @@
 <Part N="1">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2577,9 +2581,15 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Комарова Л С</Teacher>
+<Auditorium Number="332" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Турпак А Б</Teacher>
+<Auditorium Number="351" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2863,14 +2873,6 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Осн.проф.Монтажник</Name>
@@ -3157,14 +3159,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
@@ -3433,19 +3427,11 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
+<Lesson N="2">
 <Part N="1">
 <Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
 <Teacher>Сафронова С В</Teacher>
 <Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3535,7 +3521,7 @@
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Петрова Н С</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="412" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3767,6 +3753,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Гребеникова Л А</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4805,6 +4793,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Гусейнова О Р</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -5659,6 +5649,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Комарова Л С</Teacher>
+<Auditorium Number="332" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
