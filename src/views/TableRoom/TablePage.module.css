@@ -33,7 +33,8 @@
     height: 100%;
 }
 
-.table div span {
+.table div span,
+.tableGroup div span{
     min-height: 19px;
 }
 
@@ -73,18 +74,13 @@
     border-radius: 10px;
     text-align: center;
     height: 29px;
-    padding: 5px 1px;
+    padding: 3px 1px;
 }
 
 .tableGroup .room{
     font-size: 11px;
-    padding: 8px 1px;
+    padding: 4px 1px;
     min-width: 50px;
-}
-
-.tableGroup .room {
-    text-align: center;
-    height: 29px;
 }
 
 
@@ -102,7 +98,7 @@
         align-content: space-between;
         flex-wrap: wrap;
         width: 100%;
-        max-height: calc(100vh - 50px);
+        max-height: calc(100vh - 100px);
     }
     .tableGroup div, .table div {
         gap: 2px;
