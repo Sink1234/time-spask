@@ -30,11 +30,15 @@ const Table = ({data, pageFor, week}: ITable) => {
                                 key={N}
                                 className={styles.room}
                             >
-                                {
+                                { pageFor === 'group' ? (
                                     getRoom(data, day, N, pageFor)
                                         .map(value => value.lessonPart.auditorium?.number)
                                         .filter(v => v)
                                         .join(",")
+                                    ) : (
+                                        getRoom(data, day, N, pageFor)
+                                        .map(value => value.lessonPart.auditorium?.number)[0]
+                                    )
                                 }
                             </span>
                         ))}
