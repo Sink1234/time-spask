@@ -37,15 +37,15 @@ body{
 }
 
 #withoutLayout #tableRoom{
-  max-width: calc(100vw - 150px);
+  max-width: calc(100vw - 100px);
   max-height: 100vh;
   margin: 0 25px;
 }
 
 #withoutLayout #tableRoom section{
-  max-width:  calc(100vw - 200px);
-  width:  calc(100vw - 200px);
-  max-height: calc(100vh - 70px);
+  max-width:  calc(100vw - 100px);
+  width:  calc(100vw - 100px);
+  max-height: calc(100vh - 25px);
 }
 
 #withoutLayout #tableRoom h3{
@@ -53,19 +53,19 @@ body{
 }
 
 #withoutLayout #tableRoom section div{
-  max-width: 700px;
-  width: 350px;
+  max-width: 600px;
+  width: 300px;
   margin: 0 10px;
-  height: 16px;
-  max-height: 16px;
+  height: 11px;
+  max-height: 11px;
   gap: 5px;
   margin: 5px 0;
 }
 
 #withoutLayout #tableRoom section div span{
-  font-size: 12px;
-  height: 16px;
-  min-height: 16px;
+  font-size: 10px;
+  height: 12px;
+  min-height: 12px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -74,8 +74,8 @@ body{
 
 #withoutLayout #tableRoom section div span:first-child{
   height: 35px;
-  flex-basis: 370%;
-  font-size: 14px;
+  flex-basis: 340%;
+  font-size: 12px;
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
