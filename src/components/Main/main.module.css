@@ -69,6 +69,12 @@ input.search {
     line-height: 17px;
 }
 
+.part_name {
+    font-weight: 600;
+    color: var(--blue);
+    text-transform: uppercase;
+}
+
 .name_part {
     font-weight: 500;
 }
