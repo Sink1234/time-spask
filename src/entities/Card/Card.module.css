@@ -2,121 +2,79 @@
     max-width: 340px;
     flex-shrink: 0;
     border-radius: 19px;
-    padding-left: 20px;
-    padding-bottom: 17px;
+    padding-left: 15px;
+    padding-bottom: 10px;
     background-color: var(--white);
-    margin-bottom: 8px;
+    margin-bottom: 9px;
 }
 
 .card .box{
+    position: relative;
     width: calc(340px - 40px);
-    margin-top: 17px;
-    margin-left: 20px;
 }
 
 .card .box div{
     margin-bottom: 6px;
 }
 
-.card .box .part{
-    color: var(--dark-grey);
-    font-size: 15px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-
-.lesson section{
-    gap: 0px !important;
-}
-
 .card .box .lesson{
-    color: var(--dark-grey);
+    padding-top: 12px;
+    color: var(--blue);
     font-size: 15px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 600;
     line-height: normal;
     margin-bottom: 8px;
     display: flex;
     flex-direction: row;
     gap: 5px;
     align-items: center;
-}
-.card .box .part span{
-    color: var(--dark-grey);
-    font-size: 15px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
-}
-
-.card .box .lesson span{
-    display: block;
-    color: var(--blue);
-    font-size: 13px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
     text-transform: uppercase;
 }
 
-.card .box .lesson span:first-child{
-    width: fit-content;
-    max-width: 190px;
-}
-
-.card .box .lesson section{
-    display: flex;
-    flex-direction: column;
-    max-width: 150px;
-}
-
-.card .box .lesson p{
-    font-size: 13px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    margin-bottom: 0px;
-}
-
-
 .card .box .room{
+    display: flex;
+    flex-direction: row;
+
+    font-size: 14px;
+}
+
+.card .box .room span{
     border-radius: 5px;
     background: #F8F8F8;
-    width: fit-content;
+    width: 60px;
     height: 20px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
     padding: 0 5px;
-}
-
-.card .box .room div{
-    color: #5A5A5A;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-bottom: -1px;
-}
-
-.card .box .room span{
-    color: #5A5A5A;
-    font-size: 13.5px;
-    font-style: normal;
+    font-size: 13px;
     font-weight: 600;
-    line-height: normal;
-    margin-right: 17px;
-    margin-top: -1px;
 }
+
+.card .box .room p{
+    margin-top: 1px;
+    margin-left: 10px;
+}
+
+.card .box .time{
+    position: absolute;
+    right: 10px;
+    margin-top: -12px;
+    font-size: 14px;
+
+    color: var(--dark);
+}
+
+
 
 .notCard{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 340px;
-    height: 110px;
+    height: 90px;
     border-radius: 19.4px;
     background-color: var(--white);
     margin-bottom: 8px;

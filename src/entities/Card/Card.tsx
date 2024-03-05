@@ -30,8 +30,8 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
     const NoN = "------------"
     const lessonName = data[0] ? data[0].lessonPart.name : NoN;
     const teacherName = data[0] ? (pageFor === 'group' ? (data[0].lessonPart.teacher) : (data[0].groupName)) : NoN;
-    const room = data[0] ? data[0].lessonPart.auditorium?.number ? `Кабинет ${data[0].lessonPart.auditorium?.number}` : "Нет данных" : "Нет данных";
-    const secondRoom = data[1] ? data[1].lessonPart.auditorium?.number ? `Кабинет ${data[1].lessonPart.auditorium?.number}` : "Нет данных" : "Нет данных";
+    const room = data[0] ? data[0].lessonPart.auditorium?.number ? `Каб. ${data[0].lessonPart.auditorium?.number}` : "Каб. -----" : "Каб. -----";
+    const secondRoom = data[1] ? data[1].lessonPart.auditorium?.number ? `Каб. ${data[1].lessonPart.auditorium?.number}` : "Каб. -----" : "Каб. -----";
     //const Building = data[0] ? data[0].lessonPart.auditorium?.building : NoN;
     const Building = ''
 
@@ -52,13 +52,12 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                 ? (N === '5'
                         ? (
                             data[0] ? (
-                                <div className={styles.card} >
-                                <span className={styles.box}>
-                                    <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                                    <div
-                                        className={styles.lesson}><span>{lessonName}</span><span> | </span><p>{teacherName}</p></div>
-                                    <div className={styles.room}><span>{room}</span><div>{Building}</div></div> 
-                                </span>
+                                <div className={styles.card}>
+                                    <span className={styles.box}>
+                                        <div className={styles.lesson}>{lessonName}</div>
+                                        <div className={styles.room}><span>{room}</span><p>{teacherName}</p></div>
+                                        <div className={styles.time}>{getTime(N)}</div>
+                                    </span>
                                 </div>
                             ) : ('')
                         )
@@ -66,9 +65,9 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                             data[0]
                                 ? (<div className={styles.card} >
                                         <span className={styles.box}>
-                                            <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                                            <div className={styles.lesson}><span>{lessonName}</span><span> | </span><p>{teacherName}</p></div>
-                                            <div className={styles.room}><span>{room}</span><div>{Building}</div></div>
+                                            <div className={styles.lesson}>{lessonName}</div>
+                                            <div className={styles.room}><span>{room}</span><p>{teacherName}</p></div>
+                                            <div className={styles.time}>{getTime(N)}</div>
                                         </span>
                                     </div>)
                                 : (<div className={styles.notCard} >
@@ -79,9 +78,10 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                 : (
                     <div className={styles.card}>
                         <span className={styles.box}>
-                            <div className={styles.part}><span>{N + ' пара | '}</span> {getTime(N)} </div>
-                            <div className={styles.lesson}><span>{lessonName}</span><span> | </span><section><p>{teacherName + ', '}</p><p>{pageFor === 'group' ? (data[1].lessonPart.teacher) : (data[1].groupName)}</p></section></div>
-                            <div className={styles.room}><span>{room + ', ' + secondRoom + " "}</span><div>{Building}</div></div>
+                            <div className={styles.lesson}>{lessonName}</div>
+                            <div className={styles.room}><span>{room}</span><p>{teacherName}</p></div>
+                            <div className={styles.room}><span>{secondRoom}</span><p>{pageFor === 'group' ? (data[1].lessonPart.teacher) : (data[1].groupName)}</p></div>
+                            <div className={styles.time}> {getTime(N)} </div>
                         </span>
                     </div>
                 )}
