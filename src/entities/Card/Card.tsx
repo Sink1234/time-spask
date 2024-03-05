@@ -56,7 +56,7 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                                     <span className={styles.box}>
                                         <div className={styles.lesson}>{lessonName}</div>
                                         <div className={styles.room}><span>{room}</span><p>{teacherName}</p></div>
-                                        <div className={styles.time}>{getTime(N)}</div>
+                                        <div className={styles.time}><span>{getTime(N)}</span></div>
                                     </span>
                                 </div>
                             ) : ('')
@@ -67,7 +67,7 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                                         <span className={styles.box}>
                                             <div className={styles.lesson}>{lessonName}</div>
                                             <div className={styles.room}><span>{room}</span><p>{teacherName}</p></div>
-                                            <div className={styles.time}>{getTime(N)}</div>
+                                            <div className={styles.time}><span>{getTime(N)}</span></div>
                                         </span>
                                     </div>)
                                 : (<div className={styles.notCard} >
@@ -81,7 +81,7 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
                             <div className={styles.lesson}>{lessonName}</div>
                             <div className={styles.room}><span>{room}</span><p>{teacherName}</p></div>
                             <div className={styles.room}><span>{secondRoom}</span><p>{pageFor === 'group' ? (data[1].lessonPart.teacher) : (data[1].groupName)}</p></div>
-                            <div className={styles.time}> {getTime(N)} </div>
+                            <div className={styles.time}> <span>{getTime(N)}</span> </div>
                         </span>
                     </div>
                 )}
