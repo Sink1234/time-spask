@@ -42,7 +42,7 @@
 }
 .search-active {
     width: calc(100vw - 70px);
-    transform: translateX(71.5px);
+    transform: translateX(74.5px);
     box-shadow: 0 0 0 6px var(--white);
     transition: .6s;
     z-index: 1;
