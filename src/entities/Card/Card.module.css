@@ -1,16 +1,17 @@
 .card{
-    max-width: 340px;
+    max-width: 325px;
     flex-shrink: 0;
     border-radius: 19px;
     padding-left: 15px;
-    padding-bottom: 10px;
+    padding-bottom: 12px;
     background-color: var(--white);
     margin-bottom: 9px;
+    width: calc(100vw - 50px);
 }
 
 .card .box{
     position: relative;
-    width: calc(340px - 40px);
+    width: calc(100vw - 32px - 40px);
 }
 
 .card .box div{
@@ -18,7 +19,7 @@
 }
 
 .card .box .lesson{
-    padding-top: 12px;
+    padding-top: 17px;
     color: var(--blue);
     font-size: 15px;
     font-style: normal;
@@ -59,12 +60,17 @@
 }
 
 .card .box .time span{
+    position: relative;
+    width: fit-content;
+    font-size: 14px;
+    color: var(--dark);
+}
+
+.card .box .time{
     position: absolute;
     width: fit-content;
-    transform: translate(240px, -12px);
-    font-size: 14px;
-
-    color: var(--dark);
+    right: 10px;
+    bottom: -18px;
 }
 
 
@@ -73,11 +79,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 340px;
+    max-width: 340px;
     height: 90px;
     border-radius: 19.4px;
     background-color: var(--white);
     margin-bottom: 8px;
+    width: calc(100vw - 35px);
 }
 
 .notCard div{
@@ -95,7 +102,11 @@
 }
 .box1 div{
     animation: fromLeft;
-    animation-duration: .5s;
+    animation-duration: .6s;
+}
+.box1 div .time{
+    animation: fromLeft;
+    animation-duration: .7s;
 }
 
 .box2 div{
@@ -105,6 +116,10 @@
 .box2 div span{
     animation: fromLeft;
     animation-duration: .95s;
+}
+.box2 div .time{
+    animation: fromLeft;
+    animation-duration: 1.05s;
 }
 
 
@@ -117,6 +132,10 @@
     animation: fromLeft;
     animation-duration: 1.2s;
 }
+.box3 div .time{
+    animation: fromLeft;
+    animation-duration: 1.3s;
+}
 
 
 .box4 div{
@@ -126,6 +145,10 @@
 .box4 div span{
     animation: fromLeft;
     animation-duration: 1.45s;
+}
+.box4 div .time{
+    animation: fromLeft;
+    animation-duration: 1.55s;
 }
 
 
@@ -137,8 +160,23 @@
     animation: fromLeft;
     animation-duration: 1.7s;
 }
+.box5 div .time{
+    animation: fromLeft;
+    animation-duration: 1.8s;
+}
 
 
+
+@keyframes fromLeft {
+    0%{
+        opacity: 0;
+        transform: translateX(-15px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px)
+    }
+}
 
 @keyframes fromLeft {
     0%{

@@ -13,7 +13,7 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
     const getTime = (N: string) => {
         switch (N) {
             case '1':
-                return '9:30 - 11:05';
+                return '09:30 - 11:05';
             case '2':
                 return '11:25 - 13:00';
             case '3':
