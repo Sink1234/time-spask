@@ -6,6 +6,7 @@ import Footer from '@/widgets/footer/Footer'
 import PageWrapper from '@/entities/PageWrapper/PageWrapper'
 import ScrollUpButton from "@/features/ScrollUpButton/ScrollUpButton";
 import './globals.css'
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const APP_DEFAULT_TITLE = "Расписание СПАСКа"
 export const metadata: Metadata = {
@@ -38,6 +39,7 @@ export default function RootLayout(
         <html lang="ru">
         <head>
             <link rel="manifest" href="/manifest.json"/>
+            <GoogleAnalytics gaId="GTM-PRF66MH3" />
         </head>
             <body className={montserrat.className}>
                     <Navbar/>
@@ -50,4 +52,3 @@ export default function RootLayout(
         </html>
     )
 }
-
