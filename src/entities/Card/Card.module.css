@@ -42,8 +42,8 @@
 }
 
 .card .box .room span{
-    border-radius: 5px;
-    background: #F8F8F8;
+    border-radius: 10px;
+    background: #e7e7e7;
     width: 60px;
     height: 20px;
     display: flex;
@@ -53,6 +53,7 @@
     padding: 0 5px;
     font-size: 13px;
     font-weight: 600;
+    color: var(--dark);
 }
 
 .card .box .room p{
@@ -67,6 +68,7 @@
     bottom: -7px;
     font-size: 14px;
     color: var(--dark);
+    opacity: .7;
 }
 
 
