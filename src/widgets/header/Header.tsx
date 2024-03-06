@@ -70,7 +70,6 @@ const Navbar = () => {
                                    priority
                                    className={search ? styles.disImg : styles.image}
                             />
-                            <span className={styles.v_line}/>
                             <p className={myFont.className}>Расписание занятий</p>
                         </div>
 
