@@ -51,7 +51,7 @@ const Search: FC<IProps> = ({setStatus}) => {
         handleSearch(value);
     }
 
-    function handleChangeSearch() {
+    function changeActiveSearch() {
         setActive(active => !active);
     }
 
@@ -110,7 +110,7 @@ const Search: FC<IProps> = ({setStatus}) => {
         <div className={styles.wrapper}>
             <div ref={nodeRef} className={classNames(styles.search, active && styles["search-active"])}>
                 <div className={styles.box}>
-                    <button className={styles.button} onClick={handleChangeSearch}>
+                    <button className={styles.button} onClick={changeActiveSearch}>
                         <Image
                             src={"/Zoom.svg"}
                             width={22} height={22}
@@ -135,7 +135,7 @@ const Search: FC<IProps> = ({setStatus}) => {
                                 <Link key={index}
                                       href={`/${value.type === Type.Teacher ? "teacher" : "group"}/${value.name}`}
                                       className={styles.link}
-                                      onClick={handleChangeSearch}>
+                                      onClick={handleCloseSearch}>
                                     <li className={styles.item}>
                                         {value.name}
                                     </li>
