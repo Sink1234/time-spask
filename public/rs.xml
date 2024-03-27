@@ -939,15 +939,9 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
+<Teacher>Капырин В П</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -962,14 +956,6 @@
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Мелешев И С</Teacher>
 <Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
-<Teacher>Капырин В П</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1073,12 +1059,6 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Соколова А С</Teacher>
 <Auditorium Number="205" Building="Главный корпус">
@@ -2795,15 +2775,15 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Бонапартова Г В</Teacher>
+<Auditorium Number="331" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Чуднов В В</Teacher>
+<Auditorium Number="434" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3009,7 +2989,7 @@
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="310" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3023,7 +3003,7 @@
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="310" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
