@@ -783,7 +783,7 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
+<Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
 <Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
@@ -2607,7 +2607,7 @@
 <Part N="1">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="309" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2621,7 +2621,7 @@
 <Part N="1">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="309" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2641,7 +2641,7 @@
 <Part N="2">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Чуднов В В</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3281,7 +3281,7 @@
 <Part N="2">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="434" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3359,7 +3359,7 @@
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="434" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3373,7 +3373,7 @@
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="434" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3829,7 +3829,7 @@
 <Part N="1">
 <Name>Проект. и стр. в усл. РЕСТАВР.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
+<Auditorium Number="351" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3837,7 +3837,7 @@
 <Part N="1">
 <Name>Проект. ж. дома усадебн. типа</Name>
 <Teacher>Антонов В М</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3851,7 +3851,7 @@
 <Part N="1">
 <Name>Проект. ж. дома усадебн. типа</Name>
 <Teacher>Антонов В М</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4189,7 +4189,7 @@
 <Part N="2">
 <Name>Проект. ж. дома усадебн. типа</Name>
 <Teacher>Антонов В М</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4203,7 +4203,7 @@
 <Part N="2">
 <Name>Проект. ж. дома усадебн. типа</Name>
 <Teacher>Антонов В М</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4211,7 +4211,7 @@
 <Part N="1">
 <Name>Проект. и стр. в усл. РЕСТАВР.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
+<Auditorium Number="351" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
