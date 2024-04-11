@@ -3457,7 +3457,7 @@
 <Part N="1">
 <Name>ПРОЕКТ.Сис.Вент</Name>
 <Teacher>Наумова О Я</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+<Auditorium Number="432" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3465,7 +3465,7 @@
 <Part N="1">
 <Name>ПРОЕКТ.Сис.Вент</Name>
 <Teacher>Наумова О Я</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+<Auditorium Number="432" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5521,7 +5521,7 @@
 <Part N="1">
 <Name>Общ.сведен ИНЖ.СИС</Name>
 <Teacher>Наумова О Я</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+<Auditorium Number="214" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5529,7 +5529,7 @@
 <Part N="1">
 <Name>Общ.сведен ИНЖ.СИС</Name>
 <Teacher>Наумова О Я</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+<Auditorium Number="432" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
