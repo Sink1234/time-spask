@@ -949,7 +949,7 @@
 <Part N="1">
 <Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1305,14 +1305,10 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
-<Teacher>Соколова А С</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
+<Teacher>Недосекина С А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2440,12 +2436,6 @@
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
 <Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Соколова А С</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4405,7 +4395,7 @@
 <Part N="1">
 <Name>Экологическ.осн. арх.проект.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4475,7 +4465,7 @@
 <Part N="1">
 <Name>Экологическ.осн. арх.проект.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
