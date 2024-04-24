@@ -839,7 +839,7 @@
 <Part N="1">
 <Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1185,7 +1185,7 @@
 <Part N="1">
 <Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1487,9 +1487,9 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Name>Кураторский час</Name>
+<Teacher>Михайлова Л А</Teacher>
+<Auditorium Number="А.Зал" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1647,14 +1647,6 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Иностр.язык</Name>
@@ -1835,14 +1827,6 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="2">
-<Part N="1">
-<Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
@@ -2054,14 +2038,6 @@
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
 <Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСН. БЕЗОП. ЖИЗНЕД.</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4875,7 +4851,7 @@
 <Part N="1">
 <Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
