@@ -115,6 +115,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Гусейнова О Р</Teacher>
+<Auditorium Number="а.зал" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -1021,7 +1023,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Auditorium Number="А.зал" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1671,7 +1673,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Михайлова Л А</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Auditorium Number="А.зал" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2043,7 +2045,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Сычева И Н</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="а.зал" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2825,7 +2827,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Веселова Н Н</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2993,7 +2995,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Веселова Н Н</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3661,7 +3663,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Веселова Н Н</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3861,7 +3863,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Веселова Н Н</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5509,7 +5511,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Кармацкая Н Н</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
