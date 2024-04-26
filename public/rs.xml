@@ -4179,14 +4179,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-<Auditorium Number="524" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -4224,14 +4216,6 @@
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
 <Teacher>Васильева Е И</Teacher>
 <Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-<Auditorium Number="524" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5825,9 +5809,9 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-<Auditorium Number="524" Building="Главный корпус">
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Воробьева И В</Teacher>
+<Auditorium Number="455" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
