@@ -3297,12 +3297,6 @@
 <Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
-<Teacher>Кармацкая Н Н</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
@@ -4839,6 +4833,12 @@
 </Lesson>
 </Day>
 <Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
@@ -4969,6 +4969,18 @@
 </Lesson>
 </Day>
 <Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ОРГ.ПЛАН.СТР.ПОДРЗ</Name>
