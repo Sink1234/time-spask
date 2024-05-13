@@ -2625,7 +2625,7 @@
 <Part N="1">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="330" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2639,7 +2639,7 @@
 <Part N="1">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="330" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -2653,7 +2653,7 @@
 <Part N="1">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="330" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3812,12 +3812,6 @@
 <Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
-<Part N="2">
-<Name>Проект. ж. дома усадебн. типа</Name>
-<Teacher>Забояркин И В</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
-</Auditorium>
-</Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
@@ -3826,15 +3820,15 @@
 <Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
-<Part N="2">
-<Name>Проект. ж. дома усадебн. типа</Name>
-<Teacher>Забояркин И В</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
-</Auditorium>
-</Part>
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>Проект. ж. дома усадебн. типа</Name>
+<Teacher>Забояркин И В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>РИСУНОК.ЖИВОПИСЬ</Name>
