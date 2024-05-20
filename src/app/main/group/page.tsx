@@ -34,7 +34,13 @@ const MainGroupName = async () => {
                         <h3 className={styles["table-title"]}>Четная неделя</h3>
                         <div className={styles["table-content"]}>
                             <Suspense fallback={<div className={styles["table-loading"]}>Загрузка...</div>}>
-                                <Table data={await getOddData(name)}/>
+                                {
+                                    await getOddData(name) ? (
+                                        <Table data={await getOddData(name)}/>
+                                    ) : (
+                                        ''
+                                    )
+                                }
                             </Suspense>
                         </div>
                     </div>
@@ -43,7 +49,13 @@ const MainGroupName = async () => {
                         <h3 className={styles["table-title"]}>Нечетная неделя</h3>
                         <div className={styles["table-content"]}>
                             <Suspense fallback={<div className={styles["table-loading"]}>Загрузка...</div>}>
-                                <Table data={await getEvenData(name)}/>
+                                {
+                                    await getEvenData(name) ? (
+                                        <Table data={await getEvenData(name)}/>
+                                    ) : (
+                                        ''
+                                    )
+                                }
                             </Suspense>
                         </div>
                     </div>
@@ -108,7 +120,7 @@ async function getOddData(group: string) {
 async function getEvenData(group: string) {
     const data = await readDataJsonFile("even_data.json");
     const timetable = Timetable(data.YhZav);
-    return timetable.listGroup.filter(value => value.name === group)[0];
+        return timetable.listGroup.filter(value => value.name === group)[0];
 }
 
 export default MainGroupName;
