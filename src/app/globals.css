@@ -53,13 +53,12 @@ body{
 }
 
 #withoutLayout #tableRoom section div{
-  max-width: 600px;
-  width: 300px;
-  margin: 0 10px;
-  height: 11px;
-  max-height: 11px;
-  gap: 5px;
-  margin: 5px 0;
+    max-width: 600px;
+    width: 340px;
+    height: 10px;
+    max-height: 11px;
+    gap: 5px;
+    margin: 5px 0;
 }
 
 #withoutLayout #tableRoom section div span{
