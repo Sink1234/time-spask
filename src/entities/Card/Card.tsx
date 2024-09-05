@@ -10,7 +10,8 @@ interface ILessonSingle {
 const Card = ({N, data, pageFor}: ILessonSingle) => {
     const getTime = (N: string) => {
         const name = data[0].groupName;
-        const isUndergraduate = /^1\d{1,2}$|^2\d{1,2}$/.test(name.split('-')[0]);
+        const isUndergraduate = (/^(1\d{1,2}|2\d)-/).test(name);
+        console.log({name, isUndergraduate})
         const times: { [key: string]: string } = {
             '1': '09:00 - 10:35',
             '2': '10:55 - 12:30',
