@@ -1,5 +1,4 @@
-import {JSXElementConstructor, PromiseLikeOfReactNode, ReactElement, ReactNode, ReactPortal, Suspense} from 'react';
-import {notFound} from "next/navigation";
+import {Suspense} from 'react';
 import {IListGroup, ITimetableFlutter} from "@/interfaces/timetable";
 import {Timetable, default as defaultTimetable, flattenArray} from "@/shared/lib/data";
 import classNames from "@/shared/lib/classNames";
@@ -20,13 +19,13 @@ const MainGroupName = async () => {
     return (
         <div className={classNames(styles.wrapper, styles["pt-26px"])}>
             <h1 className={styles.title}>Расписание на семестр</h1>
-                        <Group
-                            listGroup={listGroup}
-                            className={classNames(styles.search, styles['mt-16px'])}
-                            maxLength={maxLength}
-                        />
-            {listGroup.map(async (name)=> (
-               <div>
+            <Group
+                listGroup={listGroup}
+                className={classNames(styles.search, styles['mt-16px'])}
+                maxLength={maxLength}
+            />
+            {listGroup.map(async (name) => (
+                <div>
                     <h2 className={classNames(styles.group, styles["pt-42px"])}>
                         Группа <strong className={styles['group-accent']}>{name}</strong>
                     </h2>
@@ -59,8 +58,8 @@ const MainGroupName = async () => {
                             </Suspense>
                         </div>
                     </div>
-               </div>
-            ))} 
+                </div>
+            ))}
         </div>
     );
 };
@@ -120,7 +119,7 @@ async function getOddData(group: string) {
 async function getEvenData(group: string) {
     const data = await readDataJsonFile("even_data.json");
     const timetable = Timetable(data.YhZav);
-        return timetable.listGroup.filter(value => value.name === group)[0];
+    return timetable.listGroup.filter(value => value.name === group)[0];
 }
 
 export default MainGroupName;

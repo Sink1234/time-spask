@@ -1,4 +1,3 @@
-import classNames from "@/shared/lib/classNames";
 import styles from './Card.module.css'
 import type {ITimetableFlutter} from "@/interfaces/timetable";
 
@@ -9,23 +8,18 @@ interface ILessonSingle {
 }
 
 const Card = ({N, data, pageFor}: ILessonSingle) => {
-
     const getTime = (N: string) => {
-        switch (N) {
-            case '1':
-                return '09:30 - 11:05';
-            case '2':
-                return '11:25 - 13:00';
-            case '3':
-                return '13:40 - 15:15';
-            case '4':
-                return '15:25 - 17:00';
-            case '5':
-                return 'По договоренности :)';
-        }
-    }
-
-    let i = 0
+        const name = data[0].groupName;
+        const isUndergraduate = /^1\d{1,2}$|^2\d{1,2}$/.test(name.split('-')[0]);
+        const times: { [key: string]: string } = {
+            '1': '09:00 - 10:35',
+            '2': '10:55 - 12:30',
+            '3': isUndergraduate ? '13:10 - 14:45' : '12:40 - 14:15',
+            '4': '14:55 - 16:30',
+            '5': '16:40 - 18:15'
+        };
+        return times[N] || '';
+    };
 
     const NoN = "------------"
     const lessonName = data[0] ? data[0].lessonPart.name : NoN;
@@ -33,7 +27,7 @@ const Card = ({N, data, pageFor}: ILessonSingle) => {
     const room = data[0] ? data[0].lessonPart.auditorium?.number ? `Каб. ${data[0].lessonPart.auditorium?.number}` : "Каб. -----" : "Каб. -----";
     const secondRoom = data[1] ? data[1].lessonPart.auditorium?.number ? `Каб. ${data[1].lessonPart.auditorium?.number}` : "Каб. -----" : "Каб. -----";
     //const Building = data[0] ? data[0].lessonPart.auditorium?.building : NoN;
-    const Building = ''
+    // const Building = ''
 
     return (
         <div className={N === '1' ? (
