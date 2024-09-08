@@ -32,7 +32,7 @@ const MainTeacherName = async () => {
                     </h2>
 
                     <div className={classNames(styles.table, styles["pt-26px"])}>
-                        <h3 className={styles["table-title"]}>Четная неделя</h3>
+                        <h3 className={styles["table-title"]}>Неделя 1</h3>
                         <div className={styles["table-content"]}>
                             <Suspense fallback={<div className={styles["table-loading"]}>Загрузка...</div>}>
                                 <Table data={await getOddData(name)}/>
@@ -41,7 +41,7 @@ const MainTeacherName = async () => {
                     </div>
 
                     <div className={classNames(styles.table, styles["pt-35px"], styles["mb-50px"])}>
-                        <h3 className={styles["table-title"]}>Нечетная неделя</h3>
+                        <h3 className={styles["table-title"]}>Неделя 2</h3>
                         <div className={styles["table-content"]}>
                             <Suspense fallback={<div className={styles["table-loading"]}>Загрузка...</div>}>
                                 <Table data={await getEvenData(name)}/>
