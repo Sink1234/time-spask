@@ -1061,7 +1061,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1237,7 +1237,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6081,7 +6081,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="205" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7807,7 +7807,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="205" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8325,32 +8325,6 @@
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 <Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="2">
-<Part N="1">
-<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
-<Teacher>Шведов С В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
-<Teacher>Шведов С В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
-<Teacher>Шведов С В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
-<Teacher>Шведов С В</Teacher>
 </Part>
 </Lesson>
 </Day>
