@@ -5425,7 +5425,7 @@
 <Part N="2">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5439,7 +5439,7 @@
 <Part N="2">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5599,7 +5599,7 @@
 <Part N="1">
 <Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="335" Building="Главный корпус">
+<Auditorium Number="351" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6083,7 +6083,7 @@
 <Part N="1">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Кокорин А Е</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
+<Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -6097,7 +6097,7 @@
 <Part N="1">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Кокорин А Е</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
+<Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -7373,7 +7373,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="335" Building="Главный корпус">
+<Auditorium Number="351" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
