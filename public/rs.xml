@@ -231,7 +231,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Базаров С М</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -239,7 +239,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Базаров С М</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -727,7 +727,7 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -893,7 +893,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Базаров С М</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -901,7 +901,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Базаров С М</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1179,7 +1179,7 @@
 <Part N="1">
 <Name>БИОЛОГИЯ</Name>
 <Teacher>Дудникова Е В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="213" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1335,7 +1335,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Auditorium Number="213" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1343,7 +1343,7 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2363,7 +2363,7 @@
 <Part N="1">
 <Name>БИОЛОГИЯ</Name>
 <Teacher>Дудникова Е В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="213" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2813,7 +2813,7 @@
 <Part N="1">
 <Name>Финанс.грам</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
