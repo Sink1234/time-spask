@@ -5315,7 +5315,7 @@
 <Part N="2">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5329,7 +5329,7 @@
 <Part N="2">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5823,7 +5823,7 @@
 <Part N="2">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Кутузов Д А</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
+<Auditorium Number="332." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5837,7 +5837,7 @@
 <Part N="2">
 <Name>ПРОЕКТ.неб.отк.пр</Name>
 <Teacher>Кутузов Д А</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="332." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5959,7 +5959,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7279,7 +7279,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="330" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7287,7 +7287,7 @@
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="330" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7829,7 +7829,7 @@
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7837,7 +7837,7 @@
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8003,7 +8003,7 @@
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8011,7 +8011,7 @@
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="145" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
