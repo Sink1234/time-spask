@@ -2041,7 +2041,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
+<Auditorium Number="348" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2049,7 +2049,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
+<Auditorium Number="348" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5709,7 +5709,7 @@
 <Part N="1">
 <Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5819,7 +5819,7 @@
 <Part N="1">
 <Name>СТР.МАШ.лр</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5943,7 +5943,7 @@
 <Part N="1">
 <Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7325,7 +7325,7 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
