@@ -775,7 +775,7 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="456" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1163,6 +1163,8 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Демидович Н Э</Teacher>
+<Auditorium Number="205" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1323,6 +1325,8 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
+<Auditorium Number="456" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1501,7 +1505,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="213" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2683,14 +2687,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Костикова Н А</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
@@ -3325,7 +3321,7 @@
 <Part N="2">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3525,7 +3521,7 @@
 <Part N="2">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3539,7 +3535,7 @@
 <Part N="2">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
+<Auditorium Number="311." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3555,8 +3551,6 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4687,7 +4681,7 @@
 <Part N="1">
 <Name>ПОЛУЧ.ПРОФЕССИИ</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4873,6 +4867,8 @@
 <Part N="1">
 <Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
 <Teacher>Петрова Е А</Teacher>
+<Auditorium Number="456" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4887,6 +4883,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Петрова Е А</Teacher>
+<Auditorium Number="456" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -5355,7 +5353,7 @@
 <Part N="1">
 <Name>ПОЛУЧ.ПРОФЕССИИ</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6695,7 +6693,7 @@
 <Part N="1">
 <Name>ОСНОВЫ СТР. ПРОИЗВОДСТВА</Name>
 <Teacher>Кирсанова В Г</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6859,7 +6857,7 @@
 <Part N="1">
 <Name>СТР.МАШ.лр</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7023,7 +7021,7 @@
 <Part N="1">
 <Name>СТР.МАШ.лр</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8747,7 +8745,7 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Кирсанова В Г</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8755,7 +8753,7 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Кирсанова В Г</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8883,7 +8881,7 @@
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
 <Teacher>Матвеева Е С</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8891,7 +8889,7 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8899,7 +8897,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9183,7 +9181,7 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9191,7 +9189,7 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9337,7 +9335,7 @@
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
 <Teacher>Матвеева Е С</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9345,7 +9343,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Матвеева Е С</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
