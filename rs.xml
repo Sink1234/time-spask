@@ -1,10 +1,10 @@
 
 <YhZav>
 <Year>2024</Year>
-<Week>3</Week>
+<Week>9</Week>
 <Numerator>false</Numerator>
-<Monday>16.09.2024</Monday>
-<Work> с 16/09/24 по 22/09/24</Work>
+<Monday>28.10.2024</Monday>
+<Work> с 28/10/24 по 3/11/24</Work>
 <ListGroup>
 <Group Name="11-С-24">
 <Timetable>
@@ -17,8 +17,12 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Баранов А А</Teacher>
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -83,22 +87,24 @@
 <Teacher>Баранов А А</Teacher>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Сагаева Э М</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Костыренко Н В</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -163,12 +169,6 @@
 <Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Данилов М А</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
@@ -185,8 +185,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -215,6 +215,12 @@
 <Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Данилов М А</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
@@ -235,14 +241,14 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -261,6 +267,12 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Демидович Н Э</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -289,6 +301,12 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Магадова К К</Teacher>
 </Part>
@@ -297,8 +315,8 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -315,12 +333,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -399,6 +413,16 @@
 <Teacher>Петров А Ю</Teacher>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
+</Part>
+</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -407,12 +431,8 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -437,7 +457,7 @@
 <Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
+<Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
@@ -463,14 +483,14 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Кузнецова М Н</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Сычева И Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -489,7 +509,7 @@
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
+<Name>ЛИТЕРАТУРА</Name>
 <Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
@@ -507,38 +527,42 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="2">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Teacher>Матвеева Д В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -549,8 +573,12 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -567,25 +595,11 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
+<Name>ЛИТЕРАТУРА</Name>
 <Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Петрова Е А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
+<Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
@@ -618,17 +632,43 @@
 </Part>
 </Lesson>
 </Day>
-<Day N="5">
+<Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Веселова М Н</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Камаева А А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Камаева А А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -639,8 +679,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Веселова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -659,12 +699,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -722,7 +758,7 @@
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -761,26 +797,26 @@
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Веселова М Н</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="2">
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="3">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Камаева А А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -838,7 +874,7 @@
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -877,14 +913,14 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Вельмякина Н Н</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Благовещенская К А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Благовещенская К А</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Вельмякина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -957,12 +993,8 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Мелешев И С</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Name>БИОЛОГИЯ</Name>
+<Teacher>Дудникова Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -973,8 +1005,12 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Дудникова Е В</Teacher>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -985,6 +1021,12 @@
 </Lesson>
 </Day>
 <Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
@@ -999,6 +1041,12 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Сычева И Н</Teacher>
 </Part>
@@ -1007,14 +1055,14 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Вельмякина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Вельмякина Н Н</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1033,26 +1081,20 @@
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="2">
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Веселова М Н</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="3">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Крапивин И С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1098,17 +1140,13 @@
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Сагаева Э М</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Костыренко Н В</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -1121,26 +1159,30 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Благовещенская К А</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Петрова Е А</Teacher>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1165,8 +1207,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Благовещенская К А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1179,8 +1221,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1189,14 +1231,14 @@
 <Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="6">
-<Lesson N="1">
+<Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
+</Day>
+<Day N="6">
 <Lesson N="2">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
@@ -1229,8 +1271,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1241,6 +1283,12 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Зелинская Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>БИОЛОГИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1331,6 +1379,12 @@
 </Lesson>
 </Day>
 <Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>БИОЛОГИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
@@ -1373,12 +1427,18 @@
 <Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Баранов А А</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Баранов А А</Teacher>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -1399,8 +1459,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Баранов А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -1419,8 +1479,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Баранов А А</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1455,14 +1515,14 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Веселова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Веселова М Н</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1621,8 +1681,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1633,8 +1693,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ковалева И П</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1651,6 +1711,12 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
 </Part>
@@ -1659,16 +1725,10 @@
 <Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="4">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
 <Teacher>Степанов В П</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1692,6 +1752,12 @@
 <Lesson N="3">
 <Part N="1">
 <Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
 <Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
@@ -1735,12 +1801,24 @@
 <Teacher>Веселова М Н</Teacher>
 </Part>
 </Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ковалева И П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1751,8 +1829,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1845,14 +1923,14 @@
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1877,18 +1955,28 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
+<Name>БИОЛОГИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Х Х Информ</Teacher>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="4">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1917,10 +2005,16 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="2">
+<Lesson N="1">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1969,8 +2063,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1981,8 +2075,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2024,13 +2118,13 @@
 <Lesson N="1">
 <Part N="1">
 <Name>Кураторский час</Name>
-<Teacher>Краснова К В</Teacher>
+<Teacher>Александрова С М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
+<Name>БИОЛОГИЯ</Name>
+<Teacher>Краснова К В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -2079,8 +2173,8 @@
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Краснова К В</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Рожкова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -2163,8 +2257,8 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -2173,12 +2267,28 @@
 <Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Огарков Г А</Teacher>
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
+<Teacher>Пекур И Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -2189,20 +2299,14 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНЖ.ГЕОЛОГИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Рожкова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Ильин А О</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2229,6 +2333,26 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
+<Name>ИНЖ.ГЕОЛОГИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Рожкова А В</Teacher>
 </Part>
@@ -2237,20 +2361,6 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Рожкова А В</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
-<Teacher>Пекур И Н</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Кирплюк А И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2277,29 +2387,23 @@
 <Group Name="101-А-24">
 <Timetable>
 <Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
-<Teacher>Гавриленко О В</Teacher>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Гребеникова Л А</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Сердюкова Н Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Гребеникова Л А</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Сердюкова Н Г</Teacher>
 </Part>
 </Lesson>
@@ -2337,8 +2441,12 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>История России</Name>
-<Teacher>Крапивин И С</Teacher>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Краснощекова Д Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -2351,8 +2459,8 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
+<Teacher>Глазова О С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -2385,12 +2493,8 @@
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Краснощекова Д Л</Teacher>
+<Name>История России</Name>
+<Teacher>Крапивин И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -2401,22 +2505,36 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
+<Teacher>Гавриленко О В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
+<Teacher>Глазова О С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2427,11 +2545,11 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Гребеникова Л А</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Сердюкова Н Г</Teacher>
 </Part>
 </Lesson>
@@ -2503,26 +2621,52 @@
 <Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Гавриленко О В</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>История России</Name>
+<Teacher>Ильин А О</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
+<Teacher>Глазова О С</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -2538,20 +2682,6 @@
 </Part>
 </Lesson>
 </Day>
-<Day N="6">
-<Lesson N="2">
-<Part N="1">
-<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
-<Teacher>Глазова О С</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
-<Teacher>Глазова О С</Teacher>
-</Part>
-</Lesson>
-</Day>
 </Timetable>
 </Group>
 <Group Name="21-А-23">
@@ -2559,18 +2689,14 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
-<Teacher>Гавриленко О В</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кирнос А Ю</Teacher>
-</Part>
-<Part N="2">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кузьмицкая К В</Teacher>
+<Name>ПРИКЛ. МАТЕМАТИКА</Name>
+<Teacher>Рожкова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -2584,6 +2710,16 @@
 </Part>
 </Lesson>
 <Lesson N="4">
+<Part N="1">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кирнос А Ю</Teacher>
+</Part>
+<Part N="2">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кузьмицкая К В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Кузьмицкая К В</Teacher>
@@ -2651,18 +2787,12 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
@@ -2671,18 +2801,18 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Петренко С С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Турпак А Б</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПРИКЛ. МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2705,7 +2835,7 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Воронина Э А</Teacher>
 </Part>
 </Lesson>
@@ -2717,21 +2847,21 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
@@ -2757,22 +2887,10 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="1">
+<Lesson N="3">
 <Part N="1">
 <Name>АРХ.МАТЕРИАЛОВЕД.</Name>
 <Teacher>Пекур И Н</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ПРИКЛ. МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -2797,18 +2915,18 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Петренко С С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Турпак А Б</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Турпак А Б</Teacher>
+<Name>ПРИКЛ. МАТЕМАТИКА</Name>
+<Teacher>Рожкова А В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2835,12 +2953,28 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Гущина Н А</Teacher>
+</Part>
+<Part N="2">
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Мартынова-Фидельман А Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Кудрявцева Л Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Турпак А Б</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2921,51 +3055,39 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-</Part>
-<Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
 <Teacher>Васильева Е И</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="2">
 <Part N="1">
-<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
-<Teacher>Пекур И Н</Teacher>
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Гущина Н А</Teacher>
 </Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
+<Part N="2">
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Комарова Л С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Макарьева Г. И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Комарова Л С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Макарьева Г. И</Teacher>
 </Part>
 </Lesson>
@@ -2983,6 +3105,12 @@
 </Lesson>
 </Day>
 <Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
+<Teacher>Пекур И Н</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
@@ -3035,26 +3163,42 @@
 <Day N="1">
 <Lesson N="3">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Гущина Н А</Teacher>
+</Part>
+<Part N="2">
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Мартынова-Фидельман А Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
@@ -3095,11 +3239,11 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Комарова Л С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Макарьева Г. И</Teacher>
 </Part>
 </Lesson>
@@ -3113,8 +3257,12 @@
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Огарков Г А</Teacher>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -3173,16 +3321,6 @@
 <Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -3191,14 +3329,14 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ПРИКЛ. МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
+<Name>ПРИКЛ. МАТЕМАТИКА</Name>
+<Teacher>Рожкова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -3251,11 +3389,11 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
@@ -3267,28 +3405,22 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Комарова Л С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Кирнос А Ю</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Комарова Л С</Teacher>
 </Part>
 <Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Name>ОПК</Name>
 <Teacher>Кирнос А Ю</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3355,154 +3487,6 @@
 </Timetable>
 </Group>
 <Group Name="21-М-23">
-<Timetable>
-<Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА</Name>
-<Teacher>Сухаревский А Т</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Вып.раб.проф.Монтажник</Name>
-<Teacher>Скулкина Е В</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>Устр.сис.ОТОПЛЕН.</Name>
-<Teacher>Назаров В А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА</Name>
-<Teacher>Сухаревский А Т</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>История России</Name>
-<Teacher>Крапивин И С</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Краснощекова Д Л</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>Пр.КОМПЬ.Пр.</Name>
-<Teacher>Мелешев И С</Teacher>
-</Part>
-<Part N="2">
-<Name>Пр.КОМПЬ.Пр.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>Устр.сис.ОТОПЛЕН.</Name>
-<Teacher>Назаров В А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Вып.раб.проф.Монтажник</Name>
-<Teacher>Скулкина Е В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Сычева И Н</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ОСНОВЫ ГИДРАВЛИКИ</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Устр.сис.ОТОПЛЕН.</Name>
-<Teacher>Назаров В А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>История России</Name>
-<Teacher>Крапивин И С</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ОСНОВЫ ГИДРАВЛИКИ</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>Устр.сис.ВОДОСНАБ</Name>
-<Teacher>Барченков С Д</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Устр.сис.ВОДОСНАБ</Name>
-<Teacher>Барченков С Д</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Устр.сис.ВОДОСНАБ</Name>
-<Teacher>Барченков С Д</Teacher>
-</Part>
-</Lesson>
-</Day>
-</Timetable>
 </Group>
 <Group Name="22-М-23">
 <Timetable>
@@ -3515,14 +3499,14 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА</Name>
-<Teacher>Сухаревский А Т</Teacher>
+<Name>ОСНОВЫ ГИДРАВЛИКИ</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСНОВЫ ГИДРАВЛИКИ</Name>
-<Teacher>Поденкова А А</Teacher>
+<Name>Устр.сис.ОТОПЛЕН.</Name>
+<Teacher>Назаров В А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3559,19 +3543,13 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Устр.сис.ОТОПЛЕН.</Name>
-<Teacher>Назаров В А</Teacher>
+<Name>ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА</Name>
+<Teacher>Сухаревский А Т</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
-<Part N="1">
-<Name>Устр.сис.ВОДОСНАБ</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
 <Part N="1">
 <Name>Пр.КОМПЬ.Пр.</Name>
 <Teacher>Мелешев И С</Teacher>
@@ -3579,6 +3557,16 @@
 <Part N="2">
 <Name>Пр.КОМПЬ.Пр.</Name>
 <Teacher>Свириденко Ж Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -3591,31 +3579,27 @@
 <Teacher>Ступкина С А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Сагаева Э М</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Костыренко Н В</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
+<Part N="1">
+<Name>Устр.сис.ВОДОСНАБ</Name>
+<Teacher>Поденкова А А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
 <Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
-<Lesson N="2">
+<Lesson N="3">
 <Part N="1">
 <Name>Устр.сис.ОТОПЛЕН.</Name>
 <Teacher>Назаров В А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="4">
 <Part N="1">
 <Name>История России</Name>
 <Teacher>Крапивин И С</Teacher>
@@ -3625,20 +3609,138 @@
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>Вып.раб.проф.Монтажник</Name>
-<Teacher>Скулкина Е В</Teacher>
+<Name>ОСНОВЫ ГИДРАВЛИКИ</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ГИДРАВЛИКИ</Name>
-<Teacher>Поденкова А А</Teacher>
+<Name>Вып.раб.проф.Монтажник</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 </Day>
 </Timetable>
 </Group>
 <Group Name="21-С-23">
+<Timetable>
+<Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИНЖ.ГЕОЛОГИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Магадова К К</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Бонапартова Г В</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
 </Group>
 <Group Name="22-С-23">
 <Timetable>
@@ -3663,7 +3765,7 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
 <Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
@@ -3697,12 +3799,6 @@
 <Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Васильева Е И</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="1">
@@ -3715,6 +3811,12 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3749,6 +3851,12 @@
 <Part N="2">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Сомов В В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Васильева Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3771,136 +3879,10 @@
 <Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
 <Group Name="23-С-23">
-<Timetable>
-<Day N="1">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
-<Teacher>Осипова В М</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Груздев Ю А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИНЖ.ГЕОЛОГИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Комовкина Р А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Кудрявцева Л Н</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Сомов В В</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
-<Teacher>Петрова Е А</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Петрова Е А</Teacher>
-</Part>
-</Lesson>
-</Day>
-</Timetable>
 </Group>
 <Group Name="24-С-23">
 <Timetable>
@@ -3913,14 +3895,14 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
-<Teacher>Петрова Е А</Teacher>
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Кирплюк А И</Teacher>
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3931,10 +3913,16 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="2">
+<Lesson N="1">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Дудникова Е В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -4039,7 +4027,7 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
 <Teacher>Пекур И Н</Teacher>
 </Part>
 </Lesson>
@@ -4063,12 +4051,6 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
@@ -4077,8 +4059,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Крапивин И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4126,6 +4108,12 @@
 <Lesson N="3">
 <Part N="1">
 <Name>ИНЖ.ГЕОЛОГИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
 <Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
@@ -4165,22 +4153,16 @@
 <Group Name="26-С-23">
 <Timetable>
 <Day N="1">
-<Lesson N="2">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
+<Lesson N="1">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="2">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Сафронова С В</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4199,8 +4181,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
-<Teacher>Осипова В М</Teacher>
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4217,14 +4199,14 @@
 <Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -4251,7 +4233,7 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ЭКОЛОГ. ОСНОВЫ ПРИРОДОПОЛЬЗ-Я</Name>
+<Name>ЭКОЛОГ. ОСН. ПРИРОД.</Name>
 <Teacher>Пекур И Н</Teacher>
 </Part>
 </Lesson>
@@ -4271,14 +4253,20 @@
 <Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
+<Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
 <Lesson N="3">
 <Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
@@ -4287,8 +4275,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4297,16 +4285,6 @@
 <Group Name="201-А-23">
 <Timetable>
 <Day N="2">
-<Lesson N="2">
-<Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-</Part>
-<Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
@@ -4349,7 +4327,7 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 </Lesson>
@@ -4357,8 +4335,12 @@
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Самойлов А Г</Teacher>
+<Name>ПРОЕКТ.неб.отк.пр</Name>
+<Teacher>Антонова Е Ю</Teacher>
+</Part>
+<Part N="2">
+<Name>ПРОЕКТ.неб.отк.пр</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -4373,20 +4355,32 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПРОЕКТ.неб.отк.пр</Name>
-<Teacher>Антонова Е Ю</Teacher>
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>ПРОЕКТ.неб.отк.пр</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>РИСУНОК.ЖИВ.</Name>
+<Teacher>Мартынова-Фидельман А Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Самойлов А Г</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Гавриленко О В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>Инж.оборуд.зд.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -4423,20 +4417,14 @@
 <Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>АРХИТЕКТУРНАЯ ФИЗИКА</Name>
 <Teacher>Пекур И Н</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="3">
 <Part N="1">
-<Name>Инж.оборуд.зд.</Name>
-<Teacher>Гавриленко О В</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4461,6 +4449,12 @@
 <Teacher>Петренко С С</Teacher>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="2">
@@ -4475,39 +4469,39 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="2">
+<Lesson N="3">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>Инж.оборуд.зд.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="4">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
@@ -4517,10 +4511,10 @@
 <Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="5">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Недосекина С А</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4555,16 +4549,10 @@
 <Group Name="31-А-22">
 <Timetable>
 <Day N="1">
-<Lesson N="2">
+<Lesson N="3">
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ФИЗИКА</Name>
 <Teacher>Пекур И Н</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4575,8 +4563,8 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>Инж.оборуд.зд.</Name>
-<Teacher>Гавриленко О В</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4589,19 +4577,19 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
+<Teacher>Глазова О С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
@@ -4635,7 +4623,7 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 </Lesson>
@@ -4643,7 +4631,7 @@
 <Day N="5">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 </Lesson>
@@ -4683,19 +4671,19 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>Инж.оборуд.зд.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Воронина Э А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Воронина Э А</Teacher>
 </Part>
 </Lesson>
@@ -4727,8 +4715,8 @@
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
+<Teacher>Антонов В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -4737,27 +4725,15 @@
 <Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Антонов В М</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Сущик Е В</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
@@ -4789,9 +4765,15 @@
 </Lesson>
 </Day>
 <Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 </Lesson>
@@ -4807,8 +4789,8 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4847,44 +4829,38 @@
 <Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Инж.оборуд.зд.</Name>
-<Teacher>Гавриленко О В</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Груздев Ю А</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
+<Teacher>Глазова О С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4917,14 +4893,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Груздев Ю А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Глазова О С</Teacher>
+<Name>Инж.оборуд.зд.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4957,8 +4927,8 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Бегий О И</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4971,14 +4941,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>Инж.оборуд.зд.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4989,14 +4953,14 @@
 <Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Кирплюк А И</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Инж.оборуд.зд.</Name>
-<Teacher>Гавриленко О В</Teacher>
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5019,21 +4983,21 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Name>РИСУНОК.ЖИВ.</Name>
 <Teacher>Гущина Н А</Teacher>
 </Part>
 </Lesson>
@@ -5047,26 +5011,26 @@
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Антонов В М</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Кирплюк А И</Teacher>
 </Part>
 </Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
+<Teacher>Бегий О И</Teacher>
+</Part>
+</Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
+<Teacher>Антонов В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Бегий О И</Teacher>
+<Name>ТИПОЛОГИЯ ЗДАНИЙ</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5107,7 +5071,7 @@
 <Day N="5">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
+<Name>ОСН. ГРАДОСТР-ВА</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 </Lesson>
@@ -5149,14 +5113,14 @@
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>ПРОЕКТ.СИСТ.ОТОПЛ.</Name>
-<Teacher>Скулкина Е В</Teacher>
+<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
+<Teacher>Краснова К В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЭКОНОМИКА орг.</Name>
-<Teacher>Петрова Ю А</Teacher>
+<Name>ПРОЕКТ.СИСТ.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5169,18 +5133,30 @@
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Краснова К В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>ПР.СИСТ.ВОДОСНАБЖ</Name>
 <Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ЭКОНОМИКА орг.</Name>
+<Teacher>Петрова Ю А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОСНОВЫ СТР. ПРОИЗВОДСТВА</Name>
+<Teacher>Кирсанова В Г</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Скулкина Е В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ПРОЕКТ.СИСТ.ОТОПЛ.</Name>
@@ -5189,20 +5165,14 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ПР.СИСТ.ВОДОСНАБЖ</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>ПРОЕКТ.СИСТ.ОТОПЛ.</Name>
 <Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
+<Lesson N="4">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Скулкина Е В</Teacher>
+<Name>ПР.СИСТ.ВОДОСНАБЖ</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5249,12 +5219,6 @@
 <Group Name="32-М-22">
 <Timetable>
 <Day N="1">
-<Lesson N="3">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Петрова Е А</Teacher>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
@@ -5276,6 +5240,12 @@
 </Part>
 </Lesson>
 <Lesson N="3">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
 <Part N="1">
 <Name>ПРОЕКТ.Сис.Вент</Name>
 <Teacher>Скулкина Е В</Teacher>
@@ -5307,8 +5277,8 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Полякова Н Ю</Teacher>
+<Name>ОСНОВЫ СТР. ПРОИЗВОДСТВА</Name>
+<Teacher>Кирсанова В Г</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5323,6 +5293,18 @@
 <Part N="1">
 <Name>ПРОЕКТ.СИСТ.ОТОПЛ.</Name>
 <Teacher>Назаров В А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
+<Teacher>Полякова Н Ю</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5377,36 +5359,24 @@
 <Teacher>Поденков В И</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Петрова Н С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
+<Name>СТР.МАШ.лр</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Степанова Т Э</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -5421,16 +5391,14 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Петрова Н С</Teacher>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>СТР.МАШ.лр</Name>
-<Teacher>Осипова В М</Teacher>
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Петрова Н С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -5455,14 +5423,14 @@
 <Day N="5">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>СТР.МАШ.лр</Name>
-<Teacher>Осипова В М</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Степанова Т Э</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5473,26 +5441,104 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
+<Name>СТР.МАШ.лр</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Петрова Н С</Teacher>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="4">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Лопатина Л Р</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Лопатина Л Р</Teacher>
 </Part>
 </Lesson>
 </Day>
 </Timetable>
 </Group>
 <Group Name="32-С-22">
-</Group>
-<Group Name="33-С-22">
 <Timetable>
 <Day N="1">
+<Lesson N="2">
+<Part N="1">
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
 <Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>СТР.МАШ.лр</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="2">
+<Lesson N="3">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="2">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
+<Teacher>Полякова Н Ю</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="2">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Эрендженов А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5503,8 +5549,56 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="33-С-22">
+<Timetable>
+<Day N="1">
+<Lesson N="2">
+<Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
 <Teacher>Воробьева И В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
+<Teacher>Есаян Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5535,12 +5629,6 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Сафронова С В</Teacher>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
@@ -5567,18 +5655,18 @@
 <Teacher>Кудрявцева Л Н</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="4">
-<Lesson N="2">
+<Lesson N="5">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
+</Day>
+<Day N="4">
 <Lesson N="3">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
+<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
+<Teacher>Полякова Н Ю</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5589,18 +5677,12 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Полякова Н Ю</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
+</Day>
+<Day N="5">
 <Lesson N="3">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
@@ -5611,6 +5693,12 @@
 <Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
 <Teacher>Воробьева И В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5633,28 +5721,28 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
+<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
+<Teacher>Есаян Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
-<Teacher>Есаян Г Г</Teacher>
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Попова А В</Teacher>
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5693,14 +5781,14 @@
 <Teacher>Эрендженов А А</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
+<Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Кармацкая Н Н</Teacher>
 </Part>
 </Lesson>
+</Day>
+<Day N="4">
 <Lesson N="2">
 <Part N="1">
 <Name>Иностр.язык</Name>
@@ -5721,6 +5809,12 @@
 <Part N="1">
 <Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
 <Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Смирнова К В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5763,28 +5857,54 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
+<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
+<Teacher>Есаян Г Г</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="2">
+<Lesson N="3">
+<Part N="1">
 <Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
 <Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Кирсанова В Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
+<Teacher>Кирсанова В Г</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Кирплюк А И</Teacher>
+<Name>СТР.МАШ.лр</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Степанова Т Э</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
 <Part N="1">
 <Name>ПСИХОЛОГИЯ ОБЩ.</Name>
 <Teacher>Полякова Н Ю</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="5">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
+<Name>СТР.МАШ.лр</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5797,22 +5917,6 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Петрова Н С</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
-<Teacher>Есаян Г Г</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
 </Part>
@@ -5821,14 +5925,18 @@
 <Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
+<Lesson N="4">
 <Part N="1">
-<Name>СТР.МАШ.лр</Name>
-<Teacher>Осипова В М</Teacher>
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Петрова Н С</Teacher>
 </Part>
 </Lesson>
+</Day>
+<Day N="5">
 <Lesson N="3">
 <Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
@@ -5848,31 +5956,11 @@
 </Part>
 </Lesson>
 </Day>
-<Day N="6">
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
-<Teacher>Кирсанова В Г</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
-<Teacher>Кирсанова В Г</Teacher>
-</Part>
-</Lesson>
-</Day>
 </Timetable>
 </Group>
 <Group Name="301-А-22">
 <Timetable>
 <Day N="1">
-<Lesson N="3">
-<Part N="1">
-<Name>Контр.кач. ПР.ДОК.</Name>
-<Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
@@ -5887,6 +5975,12 @@
 </Lesson>
 </Day>
 <Day N="2">
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Контр.кач. ПР.ДОК.</Name>
@@ -5899,6 +5993,12 @@
 <Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Расч.констр.нес.эл</Name>
+<Teacher>Кирнос Е И</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="2">
@@ -5909,28 +6009,28 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Бегий О И</Teacher>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
+<Teacher>Забояркин И В</Teacher>
+</Part>
+<Part N="2">
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
+<Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
-<Teacher>Забояркин И В</Teacher>
-</Part>
-<Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
-<Teacher>Колодина Н Н</Teacher>
+<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
+<Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5943,12 +6043,6 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
 </Part>
@@ -5957,31 +6051,37 @@
 <Teacher>Кудрявцева Л Н</Teacher>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
+<Teacher>Гребеникова Л А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Гребеникова Л А</Teacher>
+<Name>Расч.констр.нес.эл</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
@@ -6005,8 +6105,8 @@
 <Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
+<Name>ОСН.СТР.ПРОИЗВ.</Name>
+<Teacher>Кирнос А Ю</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -6017,8 +6117,14 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОСН.СТР.ПРОИЗВ.</Name>
-<Teacher>Кирнос А Ю</Teacher>
+<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
+<Teacher>Пожарская В В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
+<Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -6043,26 +6149,32 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="2">
+<Part N="1">
+<Name>Экономика АРХ.ПР.</Name>
+<Teacher>Сорокина В В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
@@ -6075,12 +6187,22 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
+<Teacher>Глазова О С</Teacher>
+</Part>
+<Part N="2">
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>АРХ.КОНСТР.</Name>
@@ -6103,33 +6225,17 @@
 <Day N="5">
 <Lesson N="2">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>АРХ.КОНСТР.</Name>
 <Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="3">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
-<Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
-<Teacher>Глазова О С</Teacher>
-</Part>
-<Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
@@ -6153,36 +6259,30 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
+<Name>ОСН.СТР.ПРОИЗВ.</Name>
+<Teacher>Кирнос А Ю</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6191,31 +6291,25 @@
 <Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ОСН.СТР.ПРОИЗВ.</Name>
-<Teacher>Кирнос А Ю</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Колодина Н Н</Teacher>
 </Part>
 </Lesson>
@@ -6256,21 +6350,53 @@
 </Part>
 </Lesson>
 </Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
+<Teacher>Шведов С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
+<Teacher>Шведов С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
+<Teacher>Шведов С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
+<Teacher>Шведов С В</Teacher>
+</Part>
+</Lesson>
+</Day>
 </Timetable>
 </Group>
 <Group Name="43-А-21">
 <Timetable>
 <Day N="1">
+<Lesson N="2">
+<Part N="1">
+<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
+<Teacher>Пожарская В В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Экономика АРХ.ПР.</Name>
-<Teacher>Петрова Ю А</Teacher>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
+<Name>Экономика АРХ.ПР.</Name>
+<Teacher>Петрова Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -6283,21 +6409,21 @@
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Кокорин А Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Кокорин А Е</Teacher>
 </Part>
 </Lesson>
@@ -6333,18 +6459,6 @@
 <Teacher>Отинова Д А</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХ.КОНСТР.</Name>
-<Teacher>Бегий О И</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="2">
@@ -6355,8 +6469,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
+<Name>АРХ.КОНСТР.</Name>
+<Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6379,21 +6493,21 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Кокорин А Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Глазова О С</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Кокорин А Е</Teacher>
 </Part>
 </Lesson>
@@ -6403,37 +6517,37 @@
 <Group Name="44-А-21">
 <Timetable>
 <Day N="1">
+<Lesson N="3">
+<Part N="1">
+<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
+<Teacher>Пожарская В В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>Экономика АРХ.ПР.</Name>
 <Teacher>Сорокина В В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 </Lesson>
@@ -6463,8 +6577,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСН.СТР.ПРОИЗВ.</Name>
-<Teacher>Кирнос А Ю</Teacher>
+<Name>Экономика АРХ.ПР.</Name>
+<Teacher>Сорокина В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6475,12 +6589,18 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
+<Name>ОСН.СТР.ПРОИЗВ.</Name>
+<Teacher>Кирнос А Ю</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Комарова Л С</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>АРХ.ПРОЕК.Интер.ЖЗ</Name>
@@ -6495,8 +6615,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПЛАНиОРГ.АРХ.ПРОЕК</Name>
-<Teacher>Пожарская В В</Teacher>
+<Name>АРХ.КОНСТР.</Name>
+<Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -6507,12 +6627,6 @@
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>АРХ.КОНСТР.</Name>
-<Teacher>Бегий О И</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
@@ -6521,21 +6635,21 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Антонов В М</Teacher>
 </Part>
 <Part N="2">
-<Name>АРХ.ПРОЕКТИРОВАНИЕ ГРАЖД.ЗДАНИЙ</Name>
+<Name>АРХ.ПРОЕКТ. ГРАЖД.ЗД.</Name>
 <Teacher>Забояркин И В</Teacher>
 </Part>
 </Lesson>
@@ -6547,20 +6661,26 @@
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Поденкова А А</Teacher>
+<Name>РЕМОНТ СИС.ВОДОСНБ</Name>
+<Teacher>Инешина Л В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОХРАНА ТРУДА</Name>
-<Teacher>Гавриленко О В</Teacher>
+<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ЭКОНОМИКА орг.</Name>
 <Teacher>Королев В Б</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ПРОЕКТН.-СМЕТН.ДОК</Name>
+<Teacher>Петрова Ю А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -6593,11 +6713,17 @@
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
+<Name>ОРГ.КОНТ.ЭКСПЛ.ВОД</Name>
 <Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
+<Part N="1">
+<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
+<Teacher>Поденкова А А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
@@ -6607,44 +6733,38 @@
 <Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОРГ.КОНТ.ЭКСПЛ.ВОД</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПРОЕКТН.-СМЕТН.ДОК</Name>
-<Teacher>Петрова Ю А</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ОРГ.КОНТ.ЭКСПЛ.ВОД</Name>
 <Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="6">
-<Lesson N="2">
+<Lesson N="4">
 <Part N="1">
-<Name>РЕМОНТ СИС.ВОДОСНБ</Name>
-<Teacher>Инешина Л В</Teacher>
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
 <Lesson N="3">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
-<Teacher>Скулкина Е В</Teacher>
+<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6655,8 +6775,8 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Поденкова А А</Teacher>
+<Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -6665,22 +6785,28 @@
 <Group Name="42-М-21">
 <Timetable>
 <Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Назаров В А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОХРАНА ТРУДА</Name>
-<Teacher>Гавриленко О В</Teacher>
+<Name>ПРОЕКТН.-СМЕТН.ДОК</Name>
+<Teacher>Петрова Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Назаров В А</Teacher>
+<Name>ОРГ.КОНТ.ЭКСПЛ.ВОД</Name>
+<Teacher>Инешина Л В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПРОЕКТН.-СМЕТН.ДОК</Name>
-<Teacher>Петрова Ю А</Teacher>
+<Name>ОРГ.КОНТ.ЭКСПЛ.ВОД</Name>
+<Teacher>Инешина Л В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -6711,12 +6837,18 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>Кураторский час</Name>
+<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
 <Teacher>Назаров В А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
+<Lesson N="2">
+<Part N="1">
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ПРОЕКТН.-СМЕТН.ДОК</Name>
@@ -6737,13 +6869,7 @@
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
+<Lesson N="2">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
@@ -6753,18 +6879,30 @@
 <Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="6">
-<Lesson N="2">
+<Lesson N="3">
 <Part N="1">
-<Name>РЕМОНТ.СИС.ОТОПЛ.</Name>
-<Teacher>Скулкина Е В</Teacher>
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
 <Part N="1">
 <Name>ОРГ.КОНТ.ЭКСПЛ.ВОД</Name>
 <Teacher>Инешина Л В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>РЕМОНТ.СИС.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6784,23 +6922,55 @@
 </Group>
 <Group Name="41-С-21">
 <Timetable>
-<Day N="2">
+<Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Жарницкий В Я</Teacher>
+<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
+<Teacher>Кирсанова В Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
+<Part N="1">
+<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
+<Teacher>Кирсанова В Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
+<Teacher>Кирсанова В Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
+<Teacher>Кирсанова В Г</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="2">
+<Lesson N="2">
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
 <Teacher>Королев В Б</Teacher>
 </Part>
 </Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
+</Part>
+</Lesson>
 <Lesson N="4">
 <Part N="1">
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
 <Name>Кураторский час</Name>
-<Teacher>Гусейнова О Р</Teacher>
+<Teacher>Степанова Т Э</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -6833,6 +7003,24 @@
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
 </Part>
@@ -6841,20 +7029,14 @@
 <Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Жарницкий В Я</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Жарницкий В Я</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Степанова Т Э</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
@@ -6863,14 +7045,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОСН.ПР.СТР.КОНСТР.</Name>
-<Teacher>Попова А В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -6925,30 +7101,46 @@
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="2">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
+</Part>
+</Lesson>
 <Lesson N="4">
+<Part N="1">
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Смирнова К В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ОСН.ПР.СТР.КОНСТР.</Name>
-<Teacher>Попова А В</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="4">
-<Lesson N="4">
-<Part N="1">
-<Name>ОСН.ПР.СТР.КОНСТР.</Name>
-<Teacher>Попова А В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
+<Lesson N="2">
 <Part N="1">
 <Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
 <Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -6961,50 +7153,46 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОСН.ПР.СТР.КОНСТР.</Name>
-<Teacher>Попова А В</Teacher>
+<Name>Общ.сведен ИНЖ.СИС</Name>
+<Teacher>Поденкова А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Сагаева Э М</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Костыренко Н В</Teacher>
+<Name>ЭКОНОМИКА отр.</Name>
+<Teacher>Матвеева Е С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ЭКОНОМИКА отр.</Name>
-<Teacher>Матвеева Е С</Teacher>
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="2">
 <Part N="1">
-<Name>ЭКОНОМИКА отр.</Name>
-<Teacher>Матвеева Е С</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Общ.сведен ИНЖ.СИС</Name>
-<Teacher>Поденкова А А</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
+<Name>ЭКОНОМИКА отр.</Name>
+<Teacher>Матвеева Е С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -7033,33 +7221,33 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="3">
-<Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Жарницкий В Я</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
+<Lesson N="2">
 <Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
 <Teacher>Воробьева И В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
+<Lesson N="3">
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
 <Teacher>Петрова Ю А</Teacher>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="2">
-<Part N="1">
-<Name>Общ.сведен ИНЖ.СИС</Name>
-<Teacher>Поденкова А А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
@@ -7069,16 +7257,22 @@
 <Teacher>Кудрявцева Л Н</Teacher>
 </Part>
 </Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Общ.сведен ИНЖ.СИС</Name>
+<Teacher>Поденкова А А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Жарницкий В Я</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Жарницкий В Я</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -7093,6 +7287,18 @@
 <Part N="1">
 <Name>ПРОЕКТ ПРОИЗ РАБ</Name>
 <Teacher>Смирнова К В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -7115,12 +7321,6 @@
 <Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -7129,8 +7329,8 @@
 <Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Попова А В</Teacher>
+<Name>Кураторский час</Name>
+<Teacher>Кармацкая Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -7141,8 +7341,8 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
-<Teacher>Смирнова К В</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -7173,7 +7373,7 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="2">
+<Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
@@ -7183,36 +7383,30 @@
 <Teacher>Кудрявцева Л Н</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Меньшиков И Ф</Teacher>
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
-<Teacher>Смирнова К В</Teacher>
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Кармацкая Н Н</Teacher>
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСН.ПР.СТР.КОНСТР.</Name>
-<Teacher>Воробьева И В</Teacher>
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -7223,8 +7417,8 @@
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Меньшиков И Ф</Teacher>
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Воробьева И В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -7261,30 +7455,24 @@
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСН.ПР.СТР.КОНСТР.</Name>
-<Teacher>Воробьева И В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="4">
+<Lesson N="3">
 <Part N="1">
 <Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
 <Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОСН.ПР.СТР.КОНСТР.</Name>
+<Teacher>Воробьева И В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
-<Teacher>Жарницкий В Я</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
@@ -7293,28 +7481,38 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Попова А В</Teacher>
+<Name>ТЕХН.ЭКСПЛУАТАЦИЯ ЗДАНИЙ</Name>
+<Teacher>Жарницкий В Я</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="2">
+<Lesson N="3">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
 <Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
 <Teacher>Воробьева И В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="3">
+<Lesson N="5">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Попова А В</Teacher>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
 </Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -7327,18 +7525,14 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЭКОНОМИКА отр.</Name>
-<Teacher>Матвеева Е С</Teacher>
+<Name>Реконструкция</Name>
+<Teacher>Кирнос Е И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
+<Name>ЭКОНОМИКА отр.</Name>
+<Teacher>Матвеева Е С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -7349,6 +7543,12 @@
 </Lesson>
 </Day>
 <Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>Общ.сведен ИНЖ.СИС</Name>
+<Teacher>Поденкова А А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
@@ -7357,8 +7557,14 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Общ.сведен ИНЖ.СИС</Name>
-<Teacher>Поденкова А А</Teacher>
+<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
+<Teacher>Федяшева О В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
+<Teacher>Федяшева О В</Teacher>
 </Part>
 </Lesson>
 </Day>
