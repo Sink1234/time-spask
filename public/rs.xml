@@ -3735,13 +3735,13 @@
 <Part N="1">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Сомов В В</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="Д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3749,13 +3749,13 @@
 <Part N="1">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Сомов В В</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="Д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3763,13 +3763,13 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Полуэктов В В</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="дист." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
