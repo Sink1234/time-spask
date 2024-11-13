@@ -4672,24 +4672,12 @@
 <Auditorium Number="331" Building="Главный корпус">
 </Auditorium>
 </Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Сомов В В</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
-</Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Бонапартова Г В</Teacher>
 <Auditorium Number="331" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Сомов В В</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4818,8 +4806,8 @@
 <Lesson N="1">
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Сомов В В</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Teacher>Михайлова А Г</Teacher>
+<Auditorium Number="220" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
