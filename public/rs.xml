@@ -5669,7 +5669,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Самойлов А Г</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="Д/о" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5677,7 +5677,7 @@
 <Part N="1">
 <Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
 <Teacher>Бегий О И</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
+<Auditorium Number="Д/о" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5685,7 +5685,7 @@
 <Part N="1">
 <Name>Инж.оборуд.зд.</Name>
 <Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
+<Auditorium Number="Д/о" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
