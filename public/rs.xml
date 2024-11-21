@@ -4633,7 +4633,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4641,7 +4641,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4649,7 +4649,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4657,7 +4657,7 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Магадова К К</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="д.о." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
