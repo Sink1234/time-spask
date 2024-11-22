@@ -331,7 +331,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -871,7 +871,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -1037,7 +1037,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1191,7 +1191,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2585,7 +2585,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4675,7 +4675,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5193,7 +5193,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5201,7 +5201,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5715,7 +5715,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
