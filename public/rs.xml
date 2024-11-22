@@ -6927,22 +6927,6 @@
 </Lesson>
 </Day>
 <Day N="6">
-<Lesson N="2">
-<Part N="1">
-<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
-<Teacher>Лопатина Л Р</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
-<Teacher>Лопатина Л Р</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
@@ -7562,16 +7546,16 @@
 <Lesson N="2">
 <Part N="1">
 <Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
-<Teacher>Кирсанова В Г</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Teacher>Лопатина Л Р</Teacher>
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ТЕХНОЛОГИЯ И ОРГАНИЗАЦИЯ СТР-ВА</Name>
-<Teacher>Кирсанова В Г</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Teacher>Лопатина Л Р</Teacher>
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
