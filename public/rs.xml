@@ -333,14 +333,10 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="313." Building="Главный корпус">
-</Auditorium>
+<Teacher>Краснощекова Д Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -859,14 +855,10 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="313." Building="Главный корпус">
-</Auditorium>
+<Teacher>Краснощекова Д Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -1133,14 +1125,10 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="204." Building="Главный корпус">
-</Auditorium>
+<Teacher>Краснощекова Д Л</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1149,7 +1137,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1157,7 +1145,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Наймушина Е А</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1535,14 +1523,10 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="418." Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -1737,14 +1721,10 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
-</Auditorium>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1931,14 +1911,10 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
-</Auditorium>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2508,15 +2484,11 @@
 <Lesson N="3">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="418." Building="Главный корпус">
-</Auditorium>
+<Teacher>Макарова А И</Teacher>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -2575,14 +2547,10 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="204." Building="Главный корпус">
-</Auditorium>
+<Teacher>Краснощекова Д Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -2923,14 +2891,10 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="313." Building="Главный корпус">
-</Auditorium>
+<Teacher>Краснощекова Д Л</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3009,14 +2973,10 @@
 <Part N="1">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+<Teacher>Отинова Д А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3049,28 +3009,20 @@
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
 <Teacher>Забояркин И В</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="330." Building="Главный корпус">
-</Auditorium>
+<Teacher>Забояркин И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
 <Teacher>Забояркин И В</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="330." Building="Главный корпус">
-</Auditorium>
+<Teacher>Забояркин И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3233,14 +3185,10 @@
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
 <Teacher>Антонова Е Ю</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="311." Building="Главный корпус">
-</Auditorium>
+<Teacher>Антонова Е Ю</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -3413,14 +3361,10 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
-</Auditorium>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3905,14 +3849,10 @@
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="311." Building="Главный корпус">
-</Auditorium>
+<Teacher>Комарова Л С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -4289,14 +4229,10 @@
 <Part N="1">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>АРХИТЕКТУРНАЯ ГРАФИКА</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="311." Building="Главный корпус">
-</Auditorium>
+<Teacher>Комарова Л С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4893,14 +4829,10 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
-</Auditorium>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -5371,14 +5303,10 @@
 <Part N="1">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+<Teacher>Отинова Д А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
