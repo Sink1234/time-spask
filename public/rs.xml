@@ -1967,6 +1967,8 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
+<Auditorium Number="346" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
@@ -2473,7 +2475,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
+<Auditorium Number="346" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4085,6 +4087,8 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
+<Auditorium Number="346" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
@@ -5091,6 +5095,8 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
+<Auditorium Number="346" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
