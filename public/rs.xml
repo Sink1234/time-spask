@@ -4165,6 +4165,8 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Сычева И Н</Teacher>
+<Auditorium Number="455" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4293,7 +4295,7 @@
 <Part N="1">
 <Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
 <Teacher>Поденкова А А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="455" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4309,8 +4311,6 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Поденкова А А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -6115,7 +6115,7 @@
 <Part N="1">
 <Name>ПР.СИСТ.ВОДОСНАБЖ</Name>
 <Teacher>Поденкова А А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="455" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6843,7 +6843,7 @@
 <Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6953,7 +6953,7 @@
 <Part N="1">
 <Name>ОСН.ПР.СТР.КОНСТР.</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
