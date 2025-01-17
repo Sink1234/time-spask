@@ -699,7 +699,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -869,7 +869,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -883,7 +883,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2517,7 +2517,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3503,7 +3503,7 @@
 <Part N="1">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="421" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3693,7 +3693,7 @@
 <Part N="1">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="421" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
