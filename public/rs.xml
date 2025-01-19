@@ -813,7 +813,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2051,7 +2051,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6901,7 +6901,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
