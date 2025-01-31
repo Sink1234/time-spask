@@ -341,7 +341,7 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -349,7 +349,7 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -685,7 +685,7 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -693,13 +693,13 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
+<Auditorium Number="313." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2885,13 +2885,13 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
+<Auditorium Number="313." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3531,7 +3531,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3757,7 +3757,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5213,7 +5213,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5497,7 +5497,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="405" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5513,13 +5513,13 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
+<Auditorium Number="313." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6657,13 +6657,13 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
+<Auditorium Number="313." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8836,34 +8836,6 @@
 <Name>ОЦЕНКА ТЕХ.СОСТ.</Name>
 <Teacher>Жарницкий В Я</Teacher>
 <Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="2">
-<Part N="1">
-<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
-<Teacher>Кирсанова В Г</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
-<Teacher>Кирсанова В Г</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПРОЕКТ ПРОИЗ РАБ</Name>
-<Teacher>Кирсанова В Г</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Осн. предпр. деят-ти</Name>
-<Teacher>Королев В Б</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
