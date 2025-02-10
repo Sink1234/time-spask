@@ -411,14 +411,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="456" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -2367,7 +2365,7 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Огарков Г А</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="430" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2587,6 +2585,8 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Огарков Г А</Teacher>
+<Auditorium Number="430" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -5561,14 +5561,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="216" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -5701,14 +5699,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="216" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -7991,7 +7987,7 @@
 <Part N="1">
 <Name>Экономика АРХ.ПР.</Name>
 <Teacher>Петрова Ю А</Teacher>
-<Auditorium Number="520" Building="Главный корпус">
+<Auditorium Number="503" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8837,7 +8833,7 @@
 <Part N="1">
 <Name>ЭКОНОМИКА отр.</Name>
 <Teacher>Петрова Ю А</Teacher>
-<Auditorium Number="520" Building="Главный корпус">
+<Auditorium Number="503" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9145,14 +9141,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="216" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
