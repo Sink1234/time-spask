@@ -167,9 +167,9 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Баранов А А</Teacher>
+<Auditorium Number="455" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -267,6 +267,12 @@
 </Auditorium>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
@@ -356,14 +362,6 @@
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
 <Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1437,14 +1435,6 @@
 </Lesson>
 </Day>
 <Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>РУССКИЙ ЯЗЫК</Name>
@@ -1842,6 +1832,14 @@
 </Group>
 <Group Name="12-А-24">
 <Timetable>
+<Day N="1">
+<Lesson N="5">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+</Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
@@ -2600,14 +2598,6 @@
 <Name>ФИЗ. КУЛЬТУРА</Name>
 <Teacher>Кузьмина И Л</Teacher>
 <Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4401,7 +4391,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
 <Teacher>Петренко С С</Teacher>
-<Auditorium Number="335" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6079,7 +6069,7 @@
 <Part N="1">
 <Name>Экологическ.осн. арх.проект.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
