@@ -1423,14 +1423,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4183,14 +4181,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6631,14 +6627,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -7717,14 +7711,12 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
