@@ -267,6 +267,8 @@
 </Auditorium>
 </Part>
 </Lesson>
+</Day>
+<Day N="3">
 <Lesson N="5">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
@@ -723,7 +725,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2779,7 +2781,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2951,7 +2953,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3223,6 +3225,12 @@
 </Auditorium>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="1">
@@ -3266,14 +3274,6 @@
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Воробьева У Д</Teacher>
 <Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4977,7 +4977,7 @@
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5167,7 +5167,7 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5271,10 +5271,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
-</Auditorium>
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5719,7 +5717,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6849,7 +6847,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7128,14 +7126,6 @@
 <Name>Иностр.язык</Name>
 <Teacher>Костыренко Н В</Teacher>
 <Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7699,14 +7689,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Иностр.язык</Name>
@@ -7734,14 +7716,6 @@
 <Name>ОРГ.ПЛ.СТР.ПОДРЗ</Name>
 <Teacher>Королев В Б</Teacher>
 <Auditorium Number="522" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
