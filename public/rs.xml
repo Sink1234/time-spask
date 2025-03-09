@@ -4273,7 +4273,7 @@
 <Part N="1">
 <Name>ПЛАНИР.арх.проект.</Name>
 <Teacher>Пожарская В В</Teacher>
-<Auditorium Number="314" Building="Главный корпус">
+<Auditorium Number="дист." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4281,13 +4281,13 @@
 <Part N="1">
 <Name>РИСУНОК.ЖИВОПИСЬ</Name>
 <Teacher>Гущина Н А</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
+<Auditorium Number="дист." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>РИСУНОК.ЖИВОПИСЬ</Name>
 <Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
+<Auditorium Number="Дист." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4295,7 +4295,7 @@
 <Part N="1">
 <Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
 <Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Auditorium Number="дист." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
