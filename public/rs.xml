@@ -4037,6 +4037,14 @@
 </Auditorium>
 </Part>
 </Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Васильева Е И</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
 </Day>
 <Day N="3">
 <Lesson N="1">
