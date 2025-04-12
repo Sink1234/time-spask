@@ -634,6 +634,14 @@
 </Part>
 </Lesson>
 </Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+</Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
@@ -6625,14 +6633,6 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="2">
-<Part N="1">
-<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
-<Teacher>Есаян Г Г</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Учет контр техн пр</Name>
@@ -6951,18 +6951,14 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ПРАВ. ОБ. ПРОФ. ДЕЯТ.</Name>
-<Teacher>Есаян Г Г</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ОРГ.ПЛ.СТР.ПОДРЗ</Name>
+<Teacher>Королев В Б</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ОРГ.ПЛ.СТР.ПОДРЗ</Name>
 <Teacher>Королев В Б</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
