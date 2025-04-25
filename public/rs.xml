@@ -2781,14 +2781,10 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4289,14 +4285,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -4681,14 +4669,10 @@
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="418." Building="Главный корпус">
-</Auditorium>
+<Teacher>Мелешев И С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -5020,15 +5004,11 @@
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="418." Building="Главный корпус">
-</Auditorium>
+<Teacher>Мелешев И С</Teacher>
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
