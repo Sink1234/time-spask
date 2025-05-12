@@ -3201,6 +3201,8 @@
 <Part N="2">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Воробьева У Д</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -3415,6 +3417,8 @@
 <Part N="2">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Воробьева У Д</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4523,13 +4527,13 @@
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="220" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="220." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4537,13 +4541,13 @@
 <Part N="1">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="220" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНЖ. ГРАФИКА</Name>
 <Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="220." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
