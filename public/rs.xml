@@ -1663,8 +1663,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 <Auditorium Number="432" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -2538,8 +2538,8 @@
 <Lesson N="4">
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
-<Teacher>Сычева И Н</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+<Teacher>Груздев Ю А</Teacher>
+<Auditorium Number="205" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
