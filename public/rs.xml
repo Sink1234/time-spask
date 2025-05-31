@@ -1,198 +1,154 @@
 
 <YhZav>
 <Year>2024</Year>
-<Week>39</Week>
-<Numerator>false</Numerator>
-<Monday>26.05.2025</Monday>
-<Work> с 26/05/25 по 1/06/25</Work>
+<Week>40</Week>
+<Numerator>true</Numerator>
+<Monday>02.06.2025</Monday>
+<Work> с 2/06/25 по 8/06/25</Work>
 <ListGroup>
 <Group Name="11-С-24">
 <Timetable>
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Петрова Я В</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Андрюшин С В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Петрова Я В</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Андрюшин С В</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Баранов А А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Федотов Д А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Федотов Д А</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Федотов Д А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Головина О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Петрова Я В</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Петрова Я В</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -203,194 +159,132 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Андрюшин С В</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Федотов Д А</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Андрюшин С В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="5">
+</Day>
+<Day N="2">
+<Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
+<Name>ИСТОРИЯ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Федотов Д А</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Головина О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -399,148 +293,102 @@
 <Group Name="13-С-24">
 <Timetable>
 <Day N="1">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Полуэктов В В</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>Кураторский час</Name>
+<Teacher>Магадова К К</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Полуэктов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ковалева И П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ковалева И П</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
 </Part>
 <Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Полуэктов В В</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -549,32 +397,24 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ковалева И П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -585,188 +425,136 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ковалева И П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -777,34 +565,26 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="аЗал" Building="Главный корпус">
-</Auditorium>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -813,154 +593,124 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 </Day>
-<Day N="4">
+<Day N="3">
 <Lesson N="1">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Краснощекова Д Л</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Демидович Н Э</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Петрова Е А</Teacher>
-<Auditorium Number="520" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -971,80 +721,34 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1053,106 +757,108 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1161,140 +867,110 @@
 <Group Name="17-ИС-24">
 <Timetable>
 <Day N="1">
-<Lesson N="1">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>БИОЛОГИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Ефанова Ю В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
+<Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Ефанова Ю В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="5">
+<Lesson N="1">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="дист." Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Вельмякина Н Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Благовещенская К А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Краснощекова Д Л</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Демидович Н Э</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1303,66 +979,54 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="520" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Ефанова Ю В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Вельмякина Н Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Вельмякина Н Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1373,80 +1037,86 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Крапивин И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Андрюшин С В</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Крапивин И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ГЕОГРАФИЯ</Name>
-<Teacher>Сычева И Н</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Андрюшин С В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Сычева И Н</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Мелешев И С</Teacher>
 </Part>
 <Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Вельмякина Н Н</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1455,92 +1125,54 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
 <Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Головина О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Головина О В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Вельмякина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1551,34 +1183,30 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Благовещенская К А</Teacher>
-<Auditorium Number="А.зал" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
-<Teacher>Сычева И Н</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Teacher>Груздев Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ХИМИЯ</Name>
 <Teacher>Андрюшин С В</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1587,146 +1215,104 @@
 <Part N="1">
 <Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Сагаева Э М</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Матвеева Д В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Благовещенская К А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
+<Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Петрова Е А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Груздев Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Пономарев Г Г</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1737,54 +1323,30 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1793,32 +1355,24 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Никитина Н Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ГЕОГРАФИЯ</Name>
-<Teacher>Никитина Н Е</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1827,44 +1381,32 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1873,66 +1415,56 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Вельмякина Н Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Вельмякина Н Н</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -1943,188 +1475,172 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Баранов А А</Teacher>
-<Auditorium Number="А.Зал" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 </Day>
-<Day N="3">
+<Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ГЕОГРАФИЯ</Name>
-<Teacher>Никитина Н Е</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Никитина Н Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Данилов М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Комовкина Р А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Кудрявцева Л Н</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Баранов А А</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2135,162 +1651,144 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Ходжаева Э Р</Teacher>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Груздев Ю А</Teacher>
 </Part>
 </Lesson>
-</Day>
-<Day N="2">
-<Lesson N="1">
+<Lesson N="2">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
-<Lesson N="2">
+<Lesson N="3">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
 <Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Кузнецова М Н</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>РУССКИЙ ЯЗЫК</Name>
 <Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Ходжаева Э Р</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ковалева И П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ковалева И П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Дежинова Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2301,112 +1799,100 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Петрова Я В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
-<Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Петрова Я В</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Петрова Я В</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="2">
-<Lesson N="2">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ГЕОГРАФИЯ</Name>
-<Teacher>Сычева И Н</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ковалева И П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2415,32 +1901,24 @@
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Петрова И С</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Петрова И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ковалева И П</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -2449,24 +1927,18 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Петрова Я В</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Петрова Я В</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2477,144 +1949,134 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Александрова С М</Teacher>
-<Auditorium Number="а.зал" Building="Главный корпус">
-</Auditorium>
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Коптелова В А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Груздев Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Ефанова Ю В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Ефанова Ю В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Камаева А А</Teacher>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Коптелова В А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Головина О В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Камаева А А</Teacher>
 </Part>
 </Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ильин А О</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>Груздев Ю А</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -2623,30 +2085,22 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
 <Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Головина О В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -2659,186 +2113,140 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Смирнова Д Р</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Огарков Г А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ГЕОГРАФИЯ</Name>
-<Teacher>Никитина Н Е</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Ильин А О</Teacher>
 </Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 </Day>
-<Day N="5">
+<Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Никитина Н Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Камаева А А</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Краснощекова Д Л</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Демидович Н Э</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Смирнова Д Р</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ХИМИЯ</Name>
+<Teacher>Ковалёва О А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Камаева А А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Ильин А О</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Шадрин Р А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -2849,160 +2257,134 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Александрова С М</Teacher>
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Крапивин И С</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Крапивин И С</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>РУССКИЙ ЯЗЫК</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ХИМИЯ</Name>
-<Teacher>Ковалёва О А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Костикова Н А</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ГЕОГРАФИЯ</Name>
-<Teacher>Никитина Н Е</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>РУССКИЙ ЯЗЫК</Name>
+<Teacher>Назаренко С Ф</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Александрова С М</Teacher>
 </Part>
 </Lesson>
 </Day>
-<Day N="4">
+<Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ФИЗИКА</Name>
 <Teacher>Костикова Н А</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Никитина Н Е</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ЛИТЕРАТУРА</Name>
-<Teacher>Назаренко С Ф</Teacher>
-<Auditorium Number="405" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗИКА</Name>
-<Teacher>Костикова Н А</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗИКА</Name>
+<Teacher>Костикова Н А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Манаков О Е</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Недосекина С А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОснБезЗащРод</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3013,64 +2395,54 @@
 <Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="430" Building="Главный корпус">
-</Auditorium>
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Попова А В</Teacher>
-<Auditorium Number="214" Building="Главный корпус">
-</Auditorium>
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Огарков Г А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3079,102 +2451,82 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Матвеева Д В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Демидович Н Э</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>Осн. Электротехники</Name>
+<Teacher>Сухаревский А Т</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
+<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
+<Teacher>Ильин А О</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ГЕОДЕЗ.СОПР .</Name>
-<Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
 <Teacher>Огарков Г А</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Попова А В</Teacher>
-<Auditorium Number="214" Building="Главный корпус">
-</Auditorium>
+<Name>Иностр.язык</Name>
+<Teacher>Краснощекова Д Л</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Демидович Н Э</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Осн. Электротехники</Name>
-<Teacher>Сухаревский А Т</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3186,179 +2538,117 @@
 </Group>
 <Group Name="21-А-23">
 <Timetable>
-<Day N="1">
-<Lesson N="2">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
-<Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Воробьева У Д</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Teacher>Петренко С С</Teacher>
+</Part>
+<Part N="2">
+<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Teacher>Турпак А Б</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Петренко С С</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Турпак А Б</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
-<Teacher>Петренко С С</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
-<Teacher>Турпак А Б</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Сагаева Э М</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Teacher>Гущина Н А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Бонапартова Г В</Teacher>
+</Part>
+<Part N="2">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Воробьева У Д</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Бонапартова Г В</Teacher>
+</Part>
+<Part N="2">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Воробьева У Д</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИКТ в арх.проект.</Name>
+<Teacher>Кузьмицкая К В</Teacher>
+</Part>
+<Part N="2">
+<Name>ИКТ в арх.проект.</Name>
+<Teacher>Осетров С У</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="310" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
 </Part>
 <Part N="2">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
-<Part N="1">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="310" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
 <Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
 <Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кирнос А Ю</Teacher>
+</Part>
+<Part N="2">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кузьмицкая К В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
-</Auditorium>
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кирнос А Ю</Teacher>
 </Part>
 <Part N="2">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Осетров С У</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
-</Auditorium>
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кузьмицкая К В</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3367,32 +2657,18 @@
 <Part N="1">
 <Name>РИСУНОК.ЖИВОПИСЬ</Name>
 <Teacher>Воронина Э А</Teacher>
-<Auditorium Number="322" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Воронина Э А</Teacher>
-<Auditorium Number="322" Building="Главный корпус">
-</Auditorium>
+<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
+<Teacher>Рыбчак А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
 <Teacher>Кокорин А Е</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
-<Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -3405,220 +2681,152 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Бонапартова Г В</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
-</Auditorium>
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Воробьева У Д</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Бонапартова Г В</Teacher>
 </Part>
 <Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
-</Auditorium>
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Воробьева У Д</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Полуэктов В В</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
+<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Teacher>Гущина Н А</Teacher>
+</Part>
+<Part N="2">
+<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Teacher>Мартынова-Фидельман А Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Крапивин И С</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="3">
+<Part N="1">
+<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Teacher>Комарова Л С</Teacher>
+</Part>
+<Part N="2">
+<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Teacher>Макарьева Г. И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Teacher>Комарова Л С</Teacher>
+</Part>
+<Part N="2">
+<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
+<Teacher>Макарьева Г. И</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ИКТ в арх.проект.</Name>
+<Teacher>Кузьмицкая К В</Teacher>
+</Part>
+<Part N="2">
+<Name>ИКТ в арх.проект.</Name>
+<Teacher>Сердюкова Н Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
 <Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Воробьева У Д</Teacher>
-<Auditorium Number="331." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Воробьева У Д</Teacher>
-<Auditorium Number="331." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
-<Teacher>Макарьева Г. И</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
-<Teacher>Макарьева Г. И</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="3">
-<Part N="1">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="310" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="310" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
+<Name>АРХ.МАТЕРИАЛОВЕД.</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
+<Teacher>Кокорин А Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Крапивин И С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кирнос А Ю</Teacher>
+</Part>
+<Part N="2">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Комарова Л С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
-<Teacher>Кокорин А Е</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Кирнос А Ю</Teacher>
+</Part>
+<Part N="2">
+<Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
+<Teacher>Комарова Л С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -3633,158 +2841,108 @@
 <Day N="1">
 <Lesson N="1">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Назаров В А</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
+<Name>УПР.авт.сис.ВЕНТ</Name>
+<Teacher>Юркевич М А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Назаров В А</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
+<Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>УПР.авт.сис.ВЕНТ</Name>
-<Teacher>Юркевич М А</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
-</Auditorium>
+<Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>Пр.КОМПЬ.Пр.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Пр.КОМПЬ.Пр.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Пр.КОМПЬ.Пр.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Пр.КОМПЬ.Пр.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ЭКОН. и ПРАВО</Name>
-<Teacher>Петрова Ю А</Teacher>
-<Auditorium Number="520" Building="Главный корпус">
-</Auditorium>
+<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
+<Teacher>Назаров В А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
+<Teacher>Назаров В А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ЭКОН. и ПРАВО</Name>
-<Teacher>Петрова Ю А</Teacher>
-<Auditorium Number="520" Building="Главный корпус">
-</Auditorium>
+<Name>Уст.сис.ВЕНТ.КОНД.</Name>
+<Teacher>Лядова Е Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
+<Name>Уст.сис.ВЕНТ.КОНД.</Name>
+<Teacher>Лядова Е Е</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Назаров В А</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Назаров В А</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
+<Name>ОХРАНА ТРУДА</Name>
+<Teacher>Гавриленко О В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
+<Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
+<Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
+<Teacher>Скулкина Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
-<Teacher>Назаров В А</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
+<Name>ЭКОН. и ПРАВО</Name>
+<Teacher>Петрова Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МОНТАЖ.СИС.ВОДОСНБ.</Name>
 <Teacher>Назаров В А</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -3793,32 +2951,24 @@
 <Part N="1">
 <Name>Уст.сис.ВЕНТ.КОНД.</Name>
 <Teacher>Лядова Е Е</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Уст.сис.ВЕНТ.КОНД.</Name>
 <Teacher>Лядова Е Е</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Уст.сис.ВЕНТ.КОНД.</Name>
 <Teacher>Лядова Е Е</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МОНТАЖ.СИС.ОТОПЛ.</Name>
 <Teacher>Скулкина Е В</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -3833,168 +2983,132 @@
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ГЕОДЕЗ.СОПР .</Name>
-<Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
 <Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Сагаева Э М</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Бонапартова Г В</Teacher>
-<Auditorium Number="331" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Осн. Электротехники</Name>
 <Teacher>Сухаревский А Т</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 </Day>
-<Day N="5">
+<Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
 <Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Осн. Электротехники</Name>
+<Teacher>Сухаревский А Т</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Свириденко Ж Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Бонапартова Г В</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Бонапартова Г В</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4007,144 +3121,92 @@
 <Day N="1">
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
-</Auditorium>
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Меньшиков И Ф</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Осн. Электротехники</Name>
-<Teacher>Сухаревский А Т</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Степанов В П</Teacher>
-<Auditorium Number="С.З." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-<Auditorium Number="524" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Степанов В П</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
 <Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Меньшиков И Ф</Teacher>
-<Auditorium Number="524" Building="Главный корпус">
-</Auditorium>
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4153,172 +3215,136 @@
 <Group Name="24-С-23">
 <Timetable>
 <Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ГЕОДЕЗ.СОПР .</Name>
-<Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="1">
 <Part N="1">
 <Name>Осн. Электротехники</Name>
 <Teacher>Сухаревский А Т</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
 <Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Васильева Е И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Степанова Т Э</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Степанова Т Э</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Свириденко Ж Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="6">
 <Lesson N="1">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
+<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
+<Teacher>Рыбчак А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОСНОВЫ ФИЛОСОФИИ</Name>
-<Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4326,179 +3352,127 @@
 </Group>
 <Group Name="25-С-23">
 <Timetable>
-<Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>Осн. Электротехники</Name>
-<Teacher>Сухаревский А Т</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Михайлова А Г</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНЖ. ГРАФИКА</Name>
-<Teacher>Ступкина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ГЕОДЕЗ.СОПР .</Name>
-<Teacher>Юркевич М А</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
-<Teacher>Юркевич М А</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Поденков В И</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
+<Day N="1">
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Макарова А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Свириденко Ж Л</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
-<Teacher>Огарков Г А</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Дмитриева С П</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Зелинская Е А</Teacher>
-<Auditorium Number="412" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Поденков В И</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ОСНОВЫ ФИЛОСОФИИ</Name>
 <Teacher>Рыбчак А В</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Юркевич М А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ОСНОВЫ ГЕОДЕЗИИ</Name>
+<Teacher>Юркевич М А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Осн. Электротехники</Name>
+<Teacher>Сухаревский А Т</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Свириденко Ж Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Комовкина Р А</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Кудрявцева Л Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ТЕХНИЧЕСКАЯ МЕХАНИКА</Name>
+<Teacher>Огарков Г А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>СТР.МАТЕРИАЛЫ И ИЗДЕЛИЯ</Name>
+<Teacher>Сафронова С В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ПОЛУЧ.ПРОФЕССИИ</Name>
+<Teacher>Осипова В М</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Михайлова А Г</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Зелинская Е А</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Поденков В И</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Поденков В И</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -4507,772 +3481,160 @@
 <Group Name="26-С-23">
 </Group>
 <Group Name="201-А-23">
-<Timetable>
-<Day N="2">
-<Lesson N="2">
-<Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Полякова Н Ю</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Экологическ.осн. арх.проект.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Дмитриева А А</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="4">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Дмитриева А А</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Дмитриева А А</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-</Timetable>
 </Group>
 <Group Name="202-А-23">
+</Group>
+<Group Name="31-А-22">
 <Timetable>
 <Day N="2">
 <Lesson N="2">
 <Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Гущина Н А</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Полякова Н Ю</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Антонова Е Ю</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Петренко С С</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
-</Auditorium>
+<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Антонова Е Ю</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Петренко С С</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
-</Auditorium>
+<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="2">
+<Part N="1">
+<Name>Иностр.язык</Name>
+<Teacher>Сагаева Э М</Teacher>
+</Part>
+<Part N="2">
+<Name>Иностр.язык</Name>
+<Teacher>Костыренко Н В</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
+<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
+<Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
+<Name>ПРОЕКТ. жил.зд.</Name>
+<Teacher>Глазова О С</Teacher>
+</Part>
+<Part N="2">
+<Name>ПРОЕКТ. жил.зд.</Name>
 <Teacher>Пожарская В В</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ПЛАНИР.арх.проект.</Name>
+<Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="4">
 <Lesson N="2">
 <Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Сущик Е В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
+<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
+<Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
+<Teacher>Бегий О И</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>Экологическ.осн. арх.проект.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
+<Name>РИСУНОК.ЖИВОПИСЬ</Name>
+<Teacher>Чуднов В В</Teacher>
 </Part>
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="3">
-<Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
 <Lesson N="2">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Дмитриева А А</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Дмитриева А А</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-</Timetable>
-</Group>
-<Group Name="31-А-22">
-</Group>
-<Group Name="32-А-22">
-<Timetable>
-<Day N="1">
-<Lesson N="3">
-<Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="314" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="314" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="2">
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Полякова Н Ю</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Чуднов В В</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
-<Auditorium Number="325" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>РИСУНОК.ЖИВОПИСЬ</Name>
-<Teacher>Чуднов В В</Teacher>
-<Auditorium Number="325." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
 <Part N="1">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="2">
-<Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Кутузов Д А</Teacher>
-<Auditorium Number="332." Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
-<Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Кутузов Д А</Teacher>
-<Auditorium Number="332." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Кутузов Д А</Teacher>
-<Auditorium Number="332." Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
 <Part N="1">
 <Name>ПЛАНИР.арх.проект.</Name>
 <Teacher>Пожарская В В</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
+<Name>ПЛАНИР.арх.проект.</Name>
+<Teacher>Пожарская В В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>Экологическ.осн. арх.проект.</Name>
+<Teacher>Комарова Л С</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ПЛАНИР.арх.проект.</Name>
+<Teacher>Пожарская В В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ПЛАНИР.арх.проект.</Name>
+<Teacher>Пожарская В В</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
 </Part>
 </Lesson>
 </Day>
 </Timetable>
+</Group>
+<Group Name="32-А-22">
 </Group>
 <Group Name="33-А-22">
-<Timetable>
-<Day N="2">
-<Lesson N="3">
-<Part N="1">
-<Name>Экологическ.осн. арх.проект.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПСИХОЛОГИЯ ОБЩ.</Name>
-<Teacher>Полякова Н Ю</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Расч.констр.нес.эл</Name>
-<Teacher>Поденков В И</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Расч.констр.нес.эл</Name>
-<Teacher>Поденков В И</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="3">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Комовкина Р А</Teacher>
-<Auditorium Number="346" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Кудрявцева Л Н</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Бегий О И</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Экологическ.осн. арх.проект.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Расч.констр.нес.эл</Name>
-<Teacher>Поденков В И</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-</Timetable>
 </Group>
 <Group Name="34-А-22">
-<Timetable>
-<Day N="1">
-<Lesson N="2">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="314" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="314" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="3">
-<Lesson N="2">
-<Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Бегий О И</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСНОВЫ ГРАДОСТРОИТЕЛЬСТВА</Name>
-<Teacher>Антонов В М</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ПЛАНИР.арх.проект.</Name>
-<Teacher>Пожарская В В</Teacher>
-<Auditorium Number="351" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="4">
-<Lesson N="3">
-<Part N="1">
-<Name>КОНСТРУКЦ. ЗД. И СООРУЖ.</Name>
-<Teacher>Бегий О И</Teacher>
-<Auditorium Number="456" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="209" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
-<Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="5">
-<Lesson N="2">
-<Part N="1">
-<Name>Расч.констр.нес.эл</Name>
-<Teacher>Поденков В И</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Экологическ.осн. арх.проект.</Name>
-<Teacher>Комарова Л С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Отинова Д А</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-</Timetable>
 </Group>
 <Group Name="31-М-22">
 </Group>
