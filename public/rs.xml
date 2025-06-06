@@ -2709,6 +2709,14 @@
 </Lesson>
 </Day>
 <Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+<Auditorium Number="С ЗАЛ" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
