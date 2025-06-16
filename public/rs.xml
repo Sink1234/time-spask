@@ -735,7 +735,7 @@
 <Part N="2">
 <Name>ОБЪЕМНО-ПРОСТР.КОМП.</Name>
 <Teacher>Макарьева Г. И</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="330" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1049,8 +1049,6 @@
 <Part N="1">
 <Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
 <Teacher>Петренко С С</Teacher>
-<Auditorium Number="330" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
