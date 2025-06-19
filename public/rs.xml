@@ -291,6 +291,8 @@
 <Part N="2">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Кузьмицкая К В</Teacher>
+<Auditorium Number="204" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -473,6 +475,8 @@
 <Part N="2">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Кузьмицкая К В</Teacher>
+<Auditorium Number="204" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -485,6 +489,8 @@
 <Part N="2">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Кузьмицкая К В</Teacher>
+<Auditorium Number="204" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1049,6 +1055,8 @@
 <Part N="1">
 <Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
 <Teacher>Петренко С С</Teacher>
+<Auditorium Number="332" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
