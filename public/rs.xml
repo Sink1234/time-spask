@@ -2,7 +2,7 @@
 <YhZav>
 <Year>2025</Year>
 <Week>1</Week>
-<Numerator>false</Numerator>
+<Numerator>true</Numerator>
 <Monday>01.09.2025</Monday>
 <Work> с 1/09/25 по 7/09/25</Work>
 <ListGroup>
@@ -8894,3 +8894,4 @@
 </Group>
 </ListGroup>
 </YhZav>
+
