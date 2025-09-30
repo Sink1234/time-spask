@@ -27,8 +27,8 @@ let start = true;
 module.exports = (phase) => {
     if (start) {
         createDataJsonFile("rs.xml", '../data/data.json');
-        createDataJsonFile("rs202454.xml", '../data/even_data.json');
-        createDataJsonFile("rs202453.xml", '../data/odd_data.json');
+        createDataJsonFile("rs202554.xml", '../data/even_data.json');
+        createDataJsonFile("rs202553.xml", '../data/odd_data.json');
         start = false;
     }
     if (phase === PHASE_DEVELOPMENT_SERVER || phase === PHASE_PRODUCTION_BUILD) {
