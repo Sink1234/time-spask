@@ -10,6 +10,6 @@ export async function readDataJsonFile(name: string) {
     try {
         return JSON.parse(cleanedData);
     } catch (err) {
-        throw new Error(`Невалидный JSON в файле ${name}: ${err.message}`);
+        throw new Error(`Невалидный JSON в файле ${name}`);
     }
 }
