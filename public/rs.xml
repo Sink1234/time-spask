@@ -707,7 +707,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Петрова Я В</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
+<Auditorium Number="214" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2325,7 +2325,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Сергеева В А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2689,7 +2689,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Сергеева В А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3043,17 +3043,9 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Рожкова А В</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
+<Auditorium Number="304" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3221,7 +3213,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Сергеева В А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3673,8 +3665,6 @@
 <Part N="1">
 <Name>История России</Name>
 <Teacher>Ильин А О</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4727,27 +4717,19 @@
 </Lesson>
 </Day>
 <Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Кузьмина И Л</Teacher>
-<Auditorium Number="С.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>История России</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ИСТОРИЯ АРХИТЕКТУРЫ</Name>
 <Teacher>Кокорин А Е</Teacher>
 <Auditorium Number="332" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ФИЗ. КУЛЬТУРА</Name>
+<Teacher>Кузьмина И Л</Teacher>
+<Auditorium Number="С ЗАЛ" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5169,6 +5151,12 @@
 <Group Name="22-И-24">
 <Timetable>
 <Day N="1">
+<Lesson N="1">
+<Part N="1">
+<Name>Финанс.грам</Name>
+<Teacher>Петрова Е А</Teacher>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ФИЗ. КУЛЬТУРА</Name>
@@ -5343,7 +5331,7 @@
 <Part N="1">
 <Name>История России</Name>
 <Teacher>Сергеева В А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6217,19 +6205,11 @@
 </Lesson>
 </Day>
 <Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ</Name>
-<Teacher>Ильин А О</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИНЖ-ГЕОЛ.иссл.</Name>
 <Teacher>Колесникова Т Г</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+<Auditorium Number="дист." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
