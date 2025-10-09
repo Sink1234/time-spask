@@ -3421,7 +3421,7 @@
 <Part N="2">
 <Name>РИС.ЖИВОПИСЬ</Name>
 <Teacher>Сорочинский Г Р</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="325." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3435,7 +3435,7 @@
 <Part N="2">
 <Name>РИС.ЖИВОПИСЬ</Name>
 <Teacher>Сорочинский Г Р</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="325." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3931,7 +3931,7 @@
 <Part N="1">
 <Name>АРХ. МАТЕРИАЛОВЕД.</Name>
 <Teacher>Сорочинский Г Р</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
