@@ -37,7 +37,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="314" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3517,6 +3517,12 @@
 </Auditorium>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Мартынова-Фидельман А Л</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="4">
 <Lesson N="1">
@@ -3533,12 +3539,6 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Кудрявцева Л Н</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Мартынова-Фидельман А Л</Teacher>
 </Part>
 </Lesson>
 </Day>
