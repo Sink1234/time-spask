@@ -6715,7 +6715,7 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Самойлов А Г</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6865,7 +6865,7 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Самойлов А Г</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7085,7 +7085,7 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Самойлов А Г</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9129,13 +9129,15 @@
 <Part N="1">
 <Name>ПроектИнтерЖЗ</Name>
 <Teacher>Турпак А Б</Teacher>
+<Auditorium Number="ДИСТ." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>Контр.кач. ПР.ДОК.</Name>
 <Teacher>Собейх А А</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
+<Auditorium Number="ДИСТ." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
