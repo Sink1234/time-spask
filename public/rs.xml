@@ -1915,7 +1915,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2501,13 +2501,13 @@
 <Part N="1">
 <Name>Инд.Проект</Name>
 <Teacher>Тягульская Л А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="421." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Инд.Проект</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4603,7 +4603,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
