@@ -3771,12 +3771,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Пр.КОМП.Прог.</Name>
-<Teacher>Мелешев И С</Teacher>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
@@ -4811,12 +4805,6 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="2">
-<Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ПСИХОЛОГИЯ ОБЩ.</Name>
@@ -6425,12 +6413,6 @@
 </Lesson>
 </Day>
 <Day N="4">
-<Lesson N="3">
-<Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ТиОСП</Name>
