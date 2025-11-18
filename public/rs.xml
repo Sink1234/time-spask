@@ -3723,7 +3723,7 @@
 <Part N="2">
 <Name>ОПК</Name>
 <Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="506" Building="Главный корпус">
+<Auditorium Number="320" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3737,7 +3737,7 @@
 <Part N="2">
 <Name>ОПК</Name>
 <Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="506" Building="Главный корпус">
+<Auditorium Number="320" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
