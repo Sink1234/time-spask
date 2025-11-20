@@ -2843,9 +2843,15 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>МАТЕМАТИКА</Name>
-<Teacher>Рожкова А В</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Федотов Д А</Teacher>
+<Auditorium Number="414" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
+<Teacher>Черепанова Е Е</Teacher>
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
