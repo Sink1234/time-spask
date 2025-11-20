@@ -7019,6 +7019,14 @@
 </Lesson>
 </Day>
 <Day N="4">
+<Lesson N="2">
+<Part N="1">
+<Name>Инж.оборуд.зд.</Name>
+<Teacher>Гавриленко О В</Teacher>
+<Auditorium Number="524" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>КОНСТР.зд.и соор.</Name>
@@ -7032,14 +7040,6 @@
 <Name>АРХИТЕКТУРНАЯ ФИЗИКА</Name>
 <Teacher>Лановая И Н</Teacher>
 <Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>Инж.оборуд.зд.</Name>
-<Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
