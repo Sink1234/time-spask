@@ -6030,8 +6030,14 @@
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
+<Teacher>Макарова А И</Teacher>
+<Auditorium Number="418." Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА</Name>
 <Teacher>Черепанова Е Е</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
