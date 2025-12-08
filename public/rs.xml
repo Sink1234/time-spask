@@ -3159,7 +3159,7 @@
 <Part N="1">
 <Name>АРХ. МАТЕРИАЛОВЕД.</Name>
 <Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5617,7 +5617,7 @@
 <Part N="1">
 <Name>Инж.оборуд.зд.</Name>
 <Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6089,7 +6089,7 @@
 <Part N="1">
 <Name>Инж.оборуд.зд.</Name>
 <Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6311,7 +6311,7 @@
 <Part N="1">
 <Name>Инж.оборуд.зд.</Name>
 <Teacher>Гавриленко О В</Teacher>
-<Auditorium Number="509" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7216,13 +7216,13 @@
 <Lesson N="4">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Мотузенко А А</Teacher>
+<Teacher>Степанова Т Э</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Мотузенко А А</Teacher>
+<Teacher>Степанова Т Э</Teacher>
 </Part>
 </Lesson>
 </Day>
