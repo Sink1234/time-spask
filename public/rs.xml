@@ -2321,7 +2321,7 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Забоева Е А</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="419" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -3153,7 +3153,7 @@
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4903,7 +4903,7 @@
 <Part N="1">
 <Name>ТехСопрИМ</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4917,7 +4917,7 @@
 <Part N="1">
 <Name>Пр.КОМП.Прог.</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6277,7 +6277,7 @@
 <Part N="2">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6439,7 +6439,7 @@
 <Part N="2">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6641,7 +6641,7 @@
 <Part N="2">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7523,7 +7523,7 @@
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Абрамов Ф М</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7675,13 +7675,13 @@
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Мелешев И С</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Абрамов Ф М</Teacher>
-<Auditorium Number="418." Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8139,7 +8139,7 @@
 <Part N="1">
 <Name>Реконструкция</Name>
 <Teacher>Абрамов Ф М</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
+<Auditorium Number="503" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8263,7 +8263,7 @@
 <Part N="1">
 <Name>Реконструкция</Name>
 <Teacher>Абрамов Ф М</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
+<Auditorium Number="503" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
