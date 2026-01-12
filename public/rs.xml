@@ -3361,7 +3361,7 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Груздев Ю А</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4159,14 +4159,6 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="2">
-<Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ОПК</Name>
@@ -5029,14 +5021,6 @@
 <Part N="1">
 <Name>ГЕОДЕЗ.СОПР .</Name>
 <Teacher>Груздев Ю А</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
 <Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -5357,9 +5341,9 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Name>ОСН.ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5495,9 +5479,9 @@
 <Day N="2">
 <Lesson N="1">
 <Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Name>ОСН.ГЕОДЕЗИИ</Name>
+<Teacher>Кирплюк А И</Teacher>
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
