@@ -3811,14 +3811,6 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
-<Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ТИПОЛОГИЯ ЗД.</Name>
@@ -3837,9 +3829,9 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Name>БЕЗОПАСН. ЖИЗНЕД.</Name>
+<Teacher>Тесленко И В</Teacher>
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5053,7 +5045,7 @@
 <Part N="1">
 <Name>СТР.МАТи ИЗД.</Name>
 <Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5207,9 +5199,15 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Ступкина С А</Teacher>
+<Auditorium Number="434" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ИНЖ. ГРАФИКА</Name>
+<Teacher>Бонапартова Г В</Teacher>
+<Auditorium Number="331" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5373,9 +5371,9 @@
 <Day N="3">
 <Lesson N="1">
 <Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Name>СТР.МАТи ИЗД.</Name>
+<Teacher>Сафронова С В</Teacher>
+<Auditorium Number="216" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5501,14 +5499,6 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>СТР.МАТи ИЗД.</Name>
-<Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
@@ -5519,8 +5509,8 @@
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ТЕХ.МЕХАНИКА</Name>
-<Teacher>Васильева Е И</Teacher>
+<Name>СТР.МАТи ИЗД.</Name>
+<Teacher>Сафронова С В</Teacher>
 <Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -8167,29 +8157,13 @@
 <Day N="3">
 <Lesson N="2">
 <Part N="1">
-<Name>ПроектИнтерОЗ</Name>
-<Teacher>Каттаев А М</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
+<Name>Проект.в услРек.</Name>
+<Teacher>Петренко С С</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
-<Part N="1">
-<Name>ПроектИнтерОЗ</Name>
-<Teacher>Каттаев А М</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ПроектИнтерОЗ</Name>
-<Teacher>Каттаев А М</Teacher>
-<Auditorium Number="305" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
 <Part N="1">
 <Name>Экономика АРХ.ПР.</Name>
 <Teacher>Сорокина В В</Teacher>
@@ -8225,12 +8199,6 @@
 <Teacher>Антонова Е Ю</Teacher>
 <Auditorium Number="335" Building="Главный корпус">
 </Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Проект.в услРек.</Name>
-<Teacher>Петренко С С</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -9537,6 +9505,8 @@
 <Part N="1">
 <Name>РЕМОНТ СИС.ВОДОСНБ</Name>
 <Teacher>Поденкова А А</Teacher>
+<Auditorium Number="503" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
