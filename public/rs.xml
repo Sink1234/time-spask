@@ -7097,7 +7097,7 @@
 <Part N="1">
 <Name>ПЛАНИР.Арх.Пр.</Name>
 <Teacher>Регинский И Д</Teacher>
-<Auditorium Number="332" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8159,7 +8159,7 @@
 <Part N="1">
 <Name>Проект.в услРек.</Name>
 <Teacher>Петренко С С</Teacher>
-<Auditorium Number="215" Building="Главный корпус">
+<Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9513,7 +9513,7 @@
 <Part N="1">
 <Name>ПРАВОВОЕ ОБЕСП.</Name>
 <Teacher>Чиркова Д Н</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="215" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
