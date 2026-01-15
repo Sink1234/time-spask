@@ -3273,14 +3273,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ТИПОЛОГИЯ ЗД.</Name>
-<Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="1">
@@ -4213,7 +4205,7 @@
 <Part N="1">
 <Name>ТИПОЛОГИЯ ЗД.</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="314" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -8223,7 +8215,7 @@
 <Part N="1">
 <Name>ПроектЗдЗал.т.</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="321" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -8237,7 +8229,7 @@
 <Part N="1">
 <Name>ПроектЗдЗал.т.</Name>
 <Teacher>Гребеникова Л А</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="321" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
