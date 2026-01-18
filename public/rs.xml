@@ -3524,12 +3524,6 @@
 <Auditorium Number="331" Building="Главный корпус">
 </Auditorium>
 </Part>
-<Part N="2">
-<Name>НАЧЕРТАТ. ГЕОМ.</Name>
-<Teacher>Собейх А А</Teacher>
-<Auditorium Number="331." Building="Главный корпус">
-</Auditorium>
-</Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
