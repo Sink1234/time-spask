@@ -1551,7 +1551,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1559,7 +1559,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2395,7 +2395,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2403,7 +2403,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="511" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2571,7 +2571,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2579,7 +2579,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2719,7 +2719,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2727,7 +2727,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Ефанова Ю В</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
