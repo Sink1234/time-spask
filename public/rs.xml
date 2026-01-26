@@ -1,4 +1,5 @@
 
+<YhZav>
 <Year>2025</Year>
 <Week>22</Week>
 <Numerator>true</Numerator>
@@ -2588,11 +2589,11 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ИНФОРМАТИКА</Name>
+<Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Забоева Е А</Teacher>
 </Part>
 <Part N="2">
-<Name>ИНФОРМАТИКА</Name>
+<Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Тягульская Л А</Teacher>
 </Part>
 </Lesson>
@@ -4362,7 +4363,7 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
