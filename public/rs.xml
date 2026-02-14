@@ -183,7 +183,7 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -379,14 +379,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ 1к</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -565,9 +557,9 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Name>ФИЗИКА</Name>
+<Teacher>Кузнецова М Н</Teacher>
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -583,7 +575,7 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Шадрин Р А</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -747,14 +739,6 @@
 </Lesson>
 </Day>
 <Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ 1к</Name>
-<Teacher>Ковалева И П</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
@@ -1127,7 +1111,7 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Веселова М Н</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1151,7 +1135,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>ДмитриеваА А -</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1541,7 +1525,7 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Веселова М Н</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2453,7 +2437,7 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Веселова М Н</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2655,7 +2639,7 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Веселова М Н</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2841,7 +2825,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ 1к</Name>
 <Teacher>Сергеева В А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="205" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3203,7 +3187,7 @@
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
 <Teacher>ДмитриеваА А -</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
+<Auditorium Number="426" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3381,7 +3365,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ 1к</Name>
 <Teacher>Сергеева В А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="205" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
