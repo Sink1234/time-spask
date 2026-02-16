@@ -59,10 +59,12 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
+<Name>ИНФОРМАТИКА 1к</Name>
+<Teacher>Дмитриева С П</Teacher>
+</Part>
+<Part N="2">
+<Name>ИНФОРМАТИКА 1к</Name>
+<Teacher>Зелинская Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1077,7 +1079,7 @@
 <Part N="1">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
+<Auditorium Number="349" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -1397,14 +1399,6 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ИНФОРМАТИКА 1к</Name>
@@ -1580,22 +1574,6 @@
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
 <Auditorium Number="511" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ОБЩЕСТВОЗНАНИЕ</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ИСТОРИЯ 1к</Name>
-<Teacher>Данилов М А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5703,7 +5681,7 @@
 <Part N="1">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -9003,7 +8981,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
+<Auditorium Number="204" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -9737,7 +9715,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="517" Building="Главный корпус">
+<Auditorium Number="349" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
