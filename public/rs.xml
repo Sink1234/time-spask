@@ -1125,7 +1125,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Федотов Д А</Teacher>
-<Auditorium Number="418" Building="Главный корпус">
+<Auditorium Number="411" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1921,13 +1921,13 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Забоева Е А</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Черепанова Е Е</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2419,7 +2419,7 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Полуэктов В В</Teacher>
-<Auditorium Number="411" Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -5045,20 +5045,6 @@
 </Lesson>
 </Day>
 <Day N="3">
-<Lesson N="1">
-<Part N="1">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Полуэктов В В</Teacher>
-<Auditorium Number="282" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФОРМАТИКА</Name>
-<Teacher>Черепанова Е Е</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА</Name>
