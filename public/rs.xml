@@ -2575,7 +2575,7 @@
 <Part N="1">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="434" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2583,7 +2583,7 @@
 <Part N="1">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="320" Building="Главный корпус">
+<Auditorium Number="434" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6389,7 +6389,7 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="434" Building="Главный корпус">
+<Auditorium Number="282" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
