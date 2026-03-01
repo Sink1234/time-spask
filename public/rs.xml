@@ -4653,8 +4653,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>Вып.раб.МАЛЯР</Name>
-<Teacher>Осипова В М</Teacher>
+<Name>АРХИТЕКТУРА ЗД.</Name>
+<Teacher>Попова А В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -7925,28 +7925,16 @@
 <Group Name="42-С-22">
 <Timetable>
 <Day N="1">
-<Lesson N="2">
-<Part N="1">
-<Name>Реконструкция</Name>
-<Teacher>Абрамов Ф М</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ППР</Name>
-<Teacher>Осипова В М</Teacher>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ППР</Name>
-<Teacher>Осипова В М</Teacher>
+<Name>ОЦЕНКА ТЕХ.СОСТ.</Name>
+<Teacher>Жарницкий В Я</Teacher>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
-<Name>ОЦЕНКА ТЕХ.СОСТ.</Name>
-<Teacher>Жарницкий В Я</Teacher>
+<Name>Реконструкция</Name>
+<Teacher>Абрамов Ф М</Teacher>
 </Part>
 </Lesson>
 </Day>
