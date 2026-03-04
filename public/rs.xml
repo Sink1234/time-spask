@@ -1683,7 +1683,7 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Данилов М А</Teacher>
-<Auditorium Number="204" Building="Главный корпус">
+<Auditorium Number="ДИСТ," Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1691,7 +1691,7 @@
 <Part N="1">
 <Name>ЛИТЕРАТУРА</Name>
 <Teacher>Вельмякина Н Н</Teacher>
-<Auditorium Number="404" Building="Главный корпус">
+<Auditorium Number="ДИСТ," Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1699,15 +1699,13 @@
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МАТЕМАТИКА 1к</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="Д/О" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2377,13 +2375,13 @@
 <Part N="1">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
 <Teacher>Краснощекова Д Л</Teacher>
-<Auditorium Number="220" Building="Главный корпус">
+<Auditorium Number="305" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
 <Teacher>Манаков О Е</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
+<Auditorium Number="205" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3434,12 +3432,6 @@
 <Lesson N="4">
 <Part N="1">
 <Name>ИКТ арх</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="311А" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИКТ арх</Name>
 <Teacher>Дмитриева С П</Teacher>
 <Auditorium Number="413" Building="Главный корпус">
 </Auditorium>
@@ -3581,7 +3573,7 @@
 <Part N="1">
 <Name>ИКТ арх</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
+<Auditorium Number="412." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4337,12 +4329,6 @@
 <Day N="4">
 <Lesson N="1">
 <Part N="1">
-<Name>ИКТ арх</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="311" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
 <Name>ИКТ арх</Name>
 <Teacher>Дмитриева С П</Teacher>
 <Auditorium Number="413" Building="Главный корпус">
@@ -6729,20 +6715,28 @@
 <Part N="1">
 <Name>ПРОЕКТ. жил.зд.</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="220" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>ПРОЕКТ. жил.зд.</Name>
 <Teacher>Морозова Е О</Teacher>
+<Auditorium Number="220." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ПРОЕКТ. жил.зд.</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="220" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>ПРОЕКТ. жил.зд.</Name>
 <Teacher>Морозова Е О</Teacher>
+<Auditorium Number="220." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6763,6 +6757,8 @@
 <Part N="1">
 <Name>ОСН.ГРАДОСТР-ВА</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="304" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -6895,12 +6891,6 @@
 <Day N="4">
 <Lesson N="3">
 <Part N="1">
-<Name>ИКТ в арх.проект.</Name>
-<Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="311." Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
 <Name>ИКТ в арх.проект.</Name>
 <Teacher>Сердюкова Н Г</Teacher>
 <Auditorium Number="311" Building="Главный корпус">
