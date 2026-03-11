@@ -3779,13 +3779,13 @@
 <Part N="1">
 <Name>Констр-техн.Диз</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Auditorium Number="348." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Констр-техн.Диз</Name>
 <Teacher>Пономарева А С</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="348" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3793,13 +3793,13 @@
 <Part N="1">
 <Name>Констр-техн.Диз</Name>
 <Teacher>Отинова Д А</Teacher>
-<Auditorium Number="145" Building="Главный корпус">
+<Auditorium Number="348." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Констр-техн.Диз</Name>
 <Teacher>Пономарева А С</Teacher>
-<Auditorium Number="145." Building="Главный корпус">
+<Auditorium Number="348" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5375,7 +5375,7 @@
 <Part N="1">
 <Name>ОСП (ОП.09)</Name>
 <Teacher>Кирнос А Ю</Teacher>
-<Auditorium Number="348" Building="Главный корпус">
+<Auditorium Number="220" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
