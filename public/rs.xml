@@ -4194,12 +4194,6 @@
 <Lesson N="3">
 <Part N="1">
 <Name>Иностр.язык</Name>
-<Teacher>Недосекина С А</Teacher>
-<Auditorium Number="ДИСТ," Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>Иностр.язык</Name>
 <Teacher>Мурашко Ю В</Teacher>
 <Auditorium Number="ДИСТ." Building="Главный корпус">
 </Auditorium>
