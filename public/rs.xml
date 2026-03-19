@@ -1,4 +1,4 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <YhZav>
 <Year>2025</Year>
 <Week>29</Week>
@@ -1045,7 +1045,7 @@
 <Part N="2">
 <Name>ИНФОРМАТИКА 1к</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="311" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5291,7 +5291,7 @@
 <Part N="1">
 <Name>Пр.ИНЖсетей</Name>
 <Teacher>Наумова О Я</Teacher>
-<Auditorium Number="507" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
