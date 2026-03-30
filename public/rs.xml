@@ -6235,6 +6235,14 @@
 <Group Name="32-С-23">
 <Timetable>
 <Day N="1">
+<Lesson N="1">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Васильева Е И</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ОХРАНА ТРУДА</Name>
