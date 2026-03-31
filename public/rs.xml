@@ -2561,7 +2561,7 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Auditorium Number="520" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2763,7 +2763,7 @@
 <Part N="1">
 <Name>ОБЩЕСТВОЗНАНИЕ</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Auditorium Number="520" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5507,7 +5507,7 @@
 <Part N="1">
 <Name>Финанс.грам</Name>
 <Teacher>Петрова Е А</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Auditorium Number="520" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
