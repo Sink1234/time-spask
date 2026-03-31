@@ -12,11 +12,27 @@ export default function ButtonPrint({children}:IProps) {
     const [showPrintButton, setShowPrintButton] = useState(true);
     
     useEffect(() => {
-        // Получаем параметры из URL браузера
-        const params = new URLSearchParams(window.location.search);
-        const printable = params.get('printable');
-        // Скрываем кнопку, если printable === 'false'
-        setShowPrintButton(printable !== 'false');
+        // Функция проверки параметра
+        const checkPrintParameter = () => {
+            const params = new URLSearchParams(window.location.search);
+            const printable = params.get('printable');
+            setShowPrintButton(printable !== 'false');
+        };
+        
+        // Проверяем при загрузке
+        checkPrintParameter();
+        
+        // Слушаем изменения URL (для SPA навигации)
+        const observer = new MutationObserver(() => {
+            checkPrintParameter();
+        });
+        
+        observer.observe(document.querySelector('body')!, {
+            childList: true,
+            subtree: true
+        });
+        
+        return () => observer.disconnect();
     }, []);
     
     return <div>
@@ -24,7 +40,6 @@ export default function ButtonPrint({children}:IProps) {
             {children}
         </div>
         
-        {/* Показываем кнопку только если showPrintButton === true */}
         {showPrintButton && (
             <div style={{
                 display: "flex",
