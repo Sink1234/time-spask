@@ -4,6 +4,9 @@
 }
 
 .sticky {
+    position: sticky;      /* FIXED: панель прилипает к верху */
+    top: 0;                /* FIXED: прилепляем к верхней границе */
+    z-index: 100;          /* FIXED: перекрывает контент при прокрутке */
     border-radius: 0 0 42px 42px;
     background-color: var(--blue);
     display: flex;
