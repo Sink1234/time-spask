@@ -3984,6 +3984,12 @@
 <Lesson N="4">
 <Part N="1">
 <Name>НАЧЕРТАТ. ГЕОМ.</Name>
+<Teacher>Бонапартова Г В</Teacher>
+<Auditorium Number="331" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>НАЧЕРТАТ. ГЕОМ.</Name>
 <Teacher>Собейх А А</Teacher>
 <Auditorium Number="332" Building="Главный корпус">
 </Auditorium>
@@ -4826,6 +4832,10 @@
 <Name>Пр.КОМП.Прог.</Name>
 <Teacher>Свириденко Ж Л</Teacher>
 </Part>
+<Part N="2">
+<Name>Пр.КОМП.Прог.</Name>
+<Teacher>Петрова Н С</Teacher>
+</Part>
 </Lesson>
 </Day>
 <Day N="5">
@@ -4979,6 +4989,8 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Юркевич М А</Teacher>
+<Auditorium Number="429" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -5276,7 +5288,7 @@
 <Lesson N="4">
 <Part N="1">
 <Name>Кураторский час</Name>
-<Teacher>Сафронова С В</Teacher>
+<Teacher>Мотузенко А А</Teacher>
 <Auditorium Number="216" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -7369,9 +7381,9 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ТиОСП</Name>
-<Teacher>Маршева С Э</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Name>ОСН.ПР. СТР.КОНСТР.</Name>
+<Teacher>Попова А В</Teacher>
+<Auditorium Number="214" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7514,12 +7526,6 @@
 </Part>
 </Lesson>
 <Lesson N="4">
-<Part N="1">
-<Name>АРХИТЕКТУРА ЗД.</Name>
-<Teacher>Степанова Т Э</Teacher>
-</Part>
-</Lesson>
-<Lesson N="5">
 <Part N="1">
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Степанова Т Э</Teacher>
