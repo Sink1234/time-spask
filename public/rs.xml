@@ -561,8 +561,6 @@
 <Part N="2">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
 <Teacher>Лапшина Л Я</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -737,8 +735,6 @@
 <Part N="2">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
 <Teacher>Лапшина Л Я</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -948,15 +944,11 @@
 <Lesson N="3">
 <Part N="1">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
-</Auditorium>
+<Teacher>Кузнецова Е Р</Teacher>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
-<Teacher>Кузнецова Е Р</Teacher>
-<Auditorium Number="205" Building="Главный корпус">
-</Auditorium>
+<Teacher>Костыренко Н В</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -1894,14 +1886,14 @@
 <Lesson N="2">
 <Part N="1">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="208" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
-<Teacher>Кузнецова Е Р</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
+<Teacher>Костыренко Н В</Teacher>
+<Auditorium Number="347" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2194,14 +2186,14 @@
 <Lesson N="2">
 <Part N="1">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="349" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ. 1к</Name>
-<Teacher>Кузнецова Е Р</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
+<Teacher>Костыренко Н В</Teacher>
+<Auditorium Number="347" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2223,14 +2215,6 @@
 </Lesson>
 </Day>
 <Day N="5">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ 1к</Name>
-<Teacher>Сергеева В А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>БИОЛОГИЯ</Name>
@@ -4126,14 +4110,14 @@
 <Lesson N="1">
 <Part N="1">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="349" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
-<Teacher>Кузнецова Е Р</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
+<Teacher>Костыренко Н В</Teacher>
+<Auditorium Number="347" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4230,14 +4214,14 @@
 <Lesson N="3">
 <Part N="1">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
-<Teacher>Костыренко Н В</Teacher>
-<Auditorium Number="347" Building="Главный корпус">
+<Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="349" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
-<Teacher>Кузнецова Е Р</Teacher>
-<Auditorium Number="349" Building="Главный корпус">
+<Teacher>Костыренко Н В</Teacher>
+<Auditorium Number="347" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4835,7 +4819,7 @@
 <Part N="2">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
 <Teacher>Лапшина Л Я</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="204." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4907,8 +4891,6 @@
 <Part N="2">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
 <Teacher>Лапшина Л Я</Teacher>
-<Auditorium Number="208" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -5051,13 +5033,13 @@
 <Part N="1">
 <Name>ТехСопрИМ</Name>
 <Teacher>Эрендженов А А</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ТехСопрИМ</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="414." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5065,13 +5047,13 @@
 <Part N="1">
 <Name>БИМ-моделир.</Name>
 <Teacher>Эрендженов А А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>БИМ-моделир.</Name>
 <Teacher>Михайлова Н В</Teacher>
-<Auditorium Number="421" Building="Главный корпус">
+<Auditorium Number="414." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5613,7 +5595,7 @@
 <Part N="2">
 <Name>Иностр.язык</Name>
 <Teacher>Лапшина Л Я</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="204." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
