@@ -6190,10 +6190,6 @@
 <Auditorium Number="321" Building="Главный корпус">
 </Auditorium>
 </Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
-</Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
@@ -6201,10 +6197,6 @@
 <Teacher>Регинский И Д</Teacher>
 <Auditorium Number="321" Building="Главный корпус">
 </Auditorium>
-</Part>
-<Part N="2">
-<Name>ПРОЕКТ. жил.зд.</Name>
-<Teacher>Сердюкова Н Г</Teacher>
 </Part>
 </Lesson>
 </Day>
