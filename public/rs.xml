@@ -4683,7 +4683,7 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Груздев Ю А</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -5467,6 +5467,8 @@
 <Part N="1">
 <Name>ТиОСП</Name>
 <Teacher>Смирнова К В</Teacher>
+<Auditorium Number="519" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -6601,7 +6603,7 @@
 <Part N="1">
 <Name>Учет контр техн пр</Name>
 <Teacher>Мотузенко А А</Teacher>
-<Auditorium Number="А.З." Building="Главный корпус">
+<Auditorium Number="524" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
