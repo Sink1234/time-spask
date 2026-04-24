@@ -3589,6 +3589,8 @@
 <Part N="1">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
 <Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="346" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
@@ -7061,6 +7063,8 @@
 <Part N="1">
 <Name>Иностр.язык</Name>
 <Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="346" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностр.язык</Name>
