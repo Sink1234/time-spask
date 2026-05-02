@@ -1351,14 +1351,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number="Д/о" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 </Day>
 </Timetable>
 </Group>
@@ -2187,10 +2179,8 @@
 </Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number=".дист" Building="Главный корпус">
-</Auditorium>
+<Name>ОБЩЕСТВОЗНАНИЕ</Name>
+<Teacher>Петрова Е А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -2371,14 +2361,6 @@
 <Part N="1">
 <Name>ХИМИЯ</Name>
 <Teacher>Коптелова В А</Teacher>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ОснБезЗащРод</Name>
-<Teacher>Веселова М Н</Teacher>
-<Auditorium Number="дист\" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3605,26 +3587,16 @@
 </Lesson>
 </Day>
 <Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ОПК</Name>
-<Teacher>Турпак А Б</Teacher>
-<Auditorium Number="Д/о" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
-<Name>ОПК</Name>
-<Teacher>Турпак А Б</Teacher>
+<Name>ОСН.ГЕОДЕЗИИ</Name>
+<Teacher>Груздев Ю А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
-<Name>ОСН.ГЕОДЕЗИИ</Name>
-<Teacher>Груздев Ю А</Teacher>
-<Auditorium Number="ДИСТ/" Building="Главный корпус">
-</Auditorium>
+<Name>ТИПОЛОГИЯ ЗД.</Name>
+<Teacher>Гребеникова Л А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6071,12 +6043,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>ОСН.ГРАДОСТР-ВА</Name>
-<Teacher>Глазова О С</Teacher>
-</Part>
-</Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>ПЛАНИР.Арх.Пр.</Name>
@@ -6383,14 +6349,6 @@
 <Part N="1">
 <Name>ПЛАНИР.Арх.Пр.</Name>
 <Teacher>Пожарская В В</Teacher>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>ОСН.ГРАДОСТР-ВА</Name>
-<Teacher>Глазова О С</Teacher>
-<Auditorium Number="Дист" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -7208,14 +7166,6 @@
 <Name>АРХИТЕКТУРА ЗД.</Name>
 <Teacher>Степанова Т Э</Teacher>
 <Auditorium Number="451" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="5">
-<Part N="1">
-<Name>ТиОСП</Name>
-<Teacher>Смирнова К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
