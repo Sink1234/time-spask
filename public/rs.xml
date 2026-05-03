@@ -825,6 +825,12 @@
 <Teacher>Кузнецова М Н</Teacher>
 </Part>
 </Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИСТОРИЯ 1к</Name>
+<Teacher>Ильин А О</Teacher>
+</Part>
+</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>ГЕОГРАФИЯ</Name>
@@ -835,14 +841,6 @@
 <Part N="1">
 <Name>ОснБезЗащРод</Name>
 <Teacher>Шадрин Р А</Teacher>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="1">
-<Part N="1">
-<Name>ИСТОРИЯ 1к</Name>
-<Teacher>Ильин А О</Teacher>
 </Part>
 </Lesson>
 </Day>
