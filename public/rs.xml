@@ -3099,13 +3099,13 @@
 <Part N="1">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
 <Teacher>Мурашко Ю В</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
+<Auditorium Number="310" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНОСТР.ЯЗ (СГ.02)</Name>
 <Teacher>Недосекина С А</Teacher>
-<Auditorium Number="310" Building="Главный корпус">
+<Auditorium Number="456" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3581,7 +3581,7 @@
 <Part N="2">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Сорочинский Г Р</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
+<Auditorium Number="351А" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3595,7 +3595,7 @@
 <Part N="2">
 <Name>ЧЕРТЕЖ-КОНСТРУКТОР</Name>
 <Teacher>Сорочинский Г Р</Teacher>
-<Auditorium Number="309" Building="Главный корпус">
+<Auditorium Number="351А" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
