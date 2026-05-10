@@ -13,8 +13,6 @@
 <Part N="1">
 <Name>Кураторский час</Name>
 <Teacher>Магадова К К</Teacher>
-<Auditorium Number="А.зал" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
