@@ -4230,12 +4230,6 @@
 <Auditorium Number="414" Building="Главный корпус">
 </Auditorium>
 </Part>
-<Part N="2">
-<Name>ТехСопрИМ</Name>
-<Teacher>Иванова В Н</Teacher>
-<Auditorium Number="414." Building="Главный корпус">
-</Auditorium>
-</Part>
 </Lesson>
 </Day>
 <Day N="5">
