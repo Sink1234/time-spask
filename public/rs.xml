@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+
 <YhZav>
 <Year>2025</Year>
 <Week>38</Week>
@@ -4073,7 +4073,7 @@
 <Part N="1">
 <Name>УПР.авт.сис.ВЕНТ</Name>
 <Teacher>Скулкин П А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4081,7 +4081,7 @@
 <Part N="1">
 <Name>УПР.авт.сис.ВЕНТ</Name>
 <Teacher>Скулкин П А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4089,7 +4089,7 @@
 <Part N="1">
 <Name>УПР.авт.сис.ВЕНТ</Name>
 <Teacher>Скулкин П А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4097,7 +4097,7 @@
 <Part N="1">
 <Name>УПР.авт.сис.ВЕНТ</Name>
 <Teacher>Скулкин П А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="507" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4997,7 +4997,7 @@
 <Part N="1">
 <Name>Экологическ.осн. арх.проект.</Name>
 <Teacher>Комарова Л С</Teacher>
-<Auditorium Number="321" Building="Главный корпус">
+<Auditorium Number="341" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
