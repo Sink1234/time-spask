@@ -2957,8 +2957,6 @@
 <Part N="1">
 <Name>ОСН.ГЕОДЕЗИИ</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="410" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -3271,14 +3269,6 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="1">
-<Part N="1">
-<Name>ФИЗ. КУЛЬТУРА</Name>
-<Teacher>Сущик Е В</Teacher>
-<Auditorium Number="С ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>ТЕХ.МЕХАНИКА</Name>
