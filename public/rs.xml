@@ -119,8 +119,22 @@
 </Lesson>
 </Day>
 <Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+<Auditorium Number="418" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
+<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
+<Teacher>Мелешев И С</Teacher>
+<Auditorium Number="418" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Свириденко Ж Л</Teacher>
 <Auditorium Number="411" Building="Главный корпус">
@@ -210,12 +224,6 @@
 <Lesson N="3">
 <Part N="1">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Свириденко Ж Л</Teacher>
 <Auditorium Number="411" Building="Главный корпус">
 </Auditorium>
@@ -223,12 +231,6 @@
 </Lesson>
 <Lesson N="4">
 <Part N="1">
-<Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
-<Teacher>Мелешев И С</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
-</Part>
-<Part N="2">
 <Name>ИНФ.ТЕХНОЛ. В ПР.ДЕЯТ.</Name>
 <Teacher>Свириденко Ж Л</Teacher>
 <Auditorium Number="411" Building="Главный корпус">
@@ -483,13 +485,13 @@
 <Part N="1">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Иванова В Н</Teacher>
-<Auditorium Number="413" Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>ИНФОРМАТИКА</Name>
 <Teacher>Черепанова Е Е</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
