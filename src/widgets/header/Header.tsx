@@ -15,6 +15,7 @@ const navList = [
     {link: "/room/onTeacher", content: "Кабинеты по преподавателям"},
     {link: '/main/group', content: "Расписание на семестр для групп"},
     {link: '/main/teacher', content: "Расписание для преподавателей"},
+    {link: '/main/teacher', content: "Расписание для преподавателей"},
 ];
 const Navbar = () => {
     const [open, setOpen] = useState(false);
