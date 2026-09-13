@@ -3011,7 +3011,7 @@
 <Part N="1">
 <Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3301,8 +3301,6 @@
 <Part N="1">
 <Name>МДК.01.03.02 Раздел 2 Архитектурная физика</Name>
 <Teacher>Мясникова А О</Teacher>
-<Auditorium Number="510" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -3447,7 +3445,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Строительные машины и средства малой механизации</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3537,7 +3535,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Строительные машины и средства малой механизации</Name>
 <Teacher>Осипова В М</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3941,7 +3939,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Маршева С Э</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3949,7 +3947,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Маршева С Э</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3987,7 +3985,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Маршева С Э</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3995,7 +3993,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Маршева С Э</Teacher>
-<Auditorium Number="426" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4009,16 +4007,12 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -4093,16 +4087,12 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Смирнова К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
