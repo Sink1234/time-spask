@@ -1979,13 +1979,13 @@
 <Part N="1">
 <Name>Информатика</Name>
 <Teacher>Морозов В В</Teacher>
-<Auditorium Number="419" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
 <Name>Информатика</Name>
 <Teacher>Забоева Е А</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
+<Auditorium Number="429." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4116,7 +4116,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Информационные компьютерные технологии в архитектурном проектировании</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -4509,7 +4509,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Информационные компьютерные технологии в архитектурном проектировании</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -5708,8 +5708,6 @@
 <Part N="1" Status="Замена">
 <Name>Информационные технологии в профессиональной деятельности</Name>
 <Teacher>Кирплюк А И</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -7075,7 +7073,7 @@
 <Part N="1">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
 <Teacher>Кононова Е С</Teacher>
-<Auditorium Number="435" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -7089,7 +7087,7 @@
 <Part N="1">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
 <Teacher>Кононова Е С</Teacher>
-<Auditorium Number="432" Building="Главный корпус">
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -7388,7 +7386,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Информационные компьютерные технологии в архитектурном проектировании</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -7576,7 +7574,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Информационные компьютерные технологии в архитектурном проектировании</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -7890,7 +7888,7 @@
 <Part N="1">
 <Name>МДК.02.01.02 Раздел 2 Информационные компьютерные технологии в архитектурном проектировании</Name>
 <Teacher>Кузьмицкая К В</Teacher>
-<Auditorium Number="519" Building="Главный корпус">
+<Auditorium Number="435" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
