@@ -2999,14 +2999,6 @@
 </Auditorium>
 </Part>
 </Lesson>
-<Lesson N="2">
-<Part N="1">
-<Name>Кураторский час</Name>
-<Teacher>Малькауи А С</Teacher>
-<Auditorium Number="А.ЗАЛ" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
@@ -3842,6 +3834,8 @@
 <Part N="1">
 <Name>Основы алгоритмизации и программирования</Name>
 <Teacher>Полуэктов В В</Teacher>
+<Auditorium Number="421" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Основы алгоритмизации и программирования</Name>
@@ -4524,7 +4518,8 @@
 <Teacher>Галай В И</Teacher>
 </Part>
 <Part N="1" Status="Замена">
-<Teacher>Отменен</Teacher>
+<Name>Архитектурное материаловедение</Name>
+<Teacher>Сорочинский Г Р</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -7137,6 +7132,8 @@
 <Part N="1">
 <Name>Основы алгоритмизации и программирования</Name>
 <Teacher>Полуэктов В В</Teacher>
+<Auditorium Number="421" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Основы алгоритмизации и программирования</Name>
@@ -8799,8 +8796,6 @@
 <Part N="1">
 <Name>Информационные технологии в профессиональной деятельности</Name>
 <Teacher>Эрендженов А А</Teacher>
-<Auditorium Number="414" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -10868,9 +10863,13 @@
 </Day>
 <Day N="5">
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.04.02 Реконструкция зданий и сооружений</Name>
 <Teacher>Абрамов Ф М</Teacher>
+</Part>
+<Part N="1" Status="Замена">
+<Name>Общие сведения об инженерных системах</Name>
+<Teacher>Сироткина Я А</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -10880,11 +10879,13 @@
 </Part>
 </Lesson>
 <Lesson N="5">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.01.01.03 Раздел 3 Архитектура зданий</Name>
 <Teacher>Меньшиков И Ф</Teacher>
-<Auditorium Number="524" Building="Главный корпус">
-</Auditorium>
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.04.02 Реконструкция зданий и сооружений</Name>
+<Teacher>Абрамов Ф М</Teacher>
 </Part>
 </Lesson>
 </Day>
