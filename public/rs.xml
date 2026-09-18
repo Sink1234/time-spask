@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<YhZav>
+<Year>2026</Year>
+<Week>3</Week>
+<Numerator>false</Numerator>
+<Monday>14.09.2026</Monday>
+<Work> с 14/09/26 по 20/09/26</Work>
+<ListGroup>
+<Group Name="11-А-26">
+<Timetable>
+<Day N="1">
+<Lesson N="1">
+<Part N="1">
+<Name>Кураторский час</Name>
+<Teacher>Рожкова А А</Teacher>
+<Auditorium Number="а.зал" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Русский язык</Name>
+<Teacher>Буртасова И Л</Teacher>
+<Auditorium Number="404" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ЛИТЕРАТУРА</Name>
+<Teacher>Буртасова И Л</Teacher>
+<Auditorium Number="404" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ГЕОГРАФИЯ</Name>
+<Teacher>Матвеев М Д</Teacher>
+<Auditorium Number="220" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="2">
+<Lesson N="1">
+<Part N="1">
+<Name>Обществознание</Name>
+<Teacher>Данилов М А</Teacher>
+<Auditorium Number="204" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Физика</Name>
+<Teacher>Кузнецова М Н</Teacher>
+<Auditorium Number="430" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Информатика</Name>
+<Teacher>Дмитриева С П</Teacher>
+<Auditorium Number="413" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Информатика</Name>
+<Teacher>Зелинская Е А</Teacher>
+<Auditorium Number="412" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Физическая культура</Name>
+<Teacher>Сущик Е В</Teacher>
+<Auditorium Number="С.З." Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="3">
+<Lesson N="1">
+<Part N="1">
+<Name>Информатика</Name>
+<Teacher>Дмитриева С П</Teacher>
+<Auditorium Number="413" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Информатика</Name>
+<Teacher>Зелинская Е А</Teacher>
+<Auditorium Number="412" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
+<Auditorium Number="204" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Химия</Name>
+<Teacher>Коптелова В А</Teacher>
+<Auditorium Number="432" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Миронова Т С</Teacher>
+<Auditorium Number="429" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="4">
+<Lesson N="1">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Миронова Т С</Teacher>
+<Auditorium Number="205" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Иностранный язык</Name>
+<Teacher>Комовкина Р А</Teacher>
+<Auditorium Number="311" Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Иностранный язык</Name>
+<Teacher>Кудрявцева Л Н</Teacher>
+<Auditorium Number="311." Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>БИОЛОГИЯ</Name>
+<Teacher>Дудникова Е В</Teacher>
+<Auditorium Number="426" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Основы безопасности и защиты Родины</Name>
+<Teacher>Веселова М Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>МАТЕМАТИКА</Name>
+<Teacher>Миронова Т С</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ИСТОРИЯ</Name>
+<Teacher>Данилов М А</Teacher>
+<Auditorium Number="204" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Физика</Name>
+<Teacher>Кузнецова М Н</Teacher>
+<Auditorium Number="430" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="101-Сз-26">
+<Timetable>
+</Timetable>
+</Group>
+<Group Name="102-Сз-26">
+<Timetable>
+</Timetable>
+</Group>
+<Group Name="201-Сз-25">
+<Timetable>
+</Timetable>
+</Group>
+<Group Name="202-Сз-25">
+<Timetable>
+</Timetable>
+</Group>
+<Group Name="301-Сз-24">
+<Timetable>
+</Timetable>
+</Group>
+<Group Name="302-Сз-24">
+<Timetable>
+</Timetable>
+</Group>
+</ListGroup>
+</YhZav>
